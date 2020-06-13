@@ -11,15 +11,10 @@ atom_feed:
 markdown: kramdown
 permalink: /categories/:year/:title_:month_:day
 #theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "air"
+#minimal_mistakes_skin: "air"
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
   - jekyll-include-cache
-  
+
 remote_theme: "mmistakes/minimal-mistakes@4.19.3"
 #
 collections_dir: collections
