@@ -22,26 +22,16 @@ title: "Bath Numerical Analysis"
 email: bath-na@lists.bath.ac.uk
 author: Bath Numerical Analysis
 description: "The homegpage of the research group in numerical analysis at the University of Bath."
-# markdown: kramdown
-
-#baseurl: "tjs42/tmp/_site" # the subpath of your site, e.g. /blog
-#url: "http://people.bath.ac.uk/tjs42" # the base hostname & protocol for your site, e.g. http://example.com
-# logo: "/assets/pics/uob-logo-blue-thumb.gif
-# "
-github_username:  jekyll
+github_username:  bath-numerical-analysis
+#
 atom_feed:
   path: ""
-# footer:
-#   links:
-#     - label: "University of Bath"
-#       icon: "/assets/pics/uob-logo-blue-thumb.gif"
-#       url: "https://www.bath.ac.uk"
 
 # Build settings
+markdown: kramdown
 permalink: /categories/:year/:title_:month_:day
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "air"
-# "default"  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 #
 collections_dir: my_collections
 collections:
@@ -54,9 +44,8 @@ collections:
     teaching:
       output: true
         
-markdown: kramdown
-  # plugins:
-#    - jekyll-feed
+
+#
 defaults:
   - scope:
       path: ""
