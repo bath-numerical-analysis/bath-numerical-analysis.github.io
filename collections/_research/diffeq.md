@@ -12,7 +12,7 @@ feature_row:
     btn_label: "Moving meshes"
     url: "/research/diffeq/#mm"
 ---
-{% include feature_row %}
+ include feature_row 
 
 <p>We have a long-standing and broad interest in the numerical analysis of differential equations.</p>
 
