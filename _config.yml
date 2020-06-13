@@ -13,13 +13,8 @@ permalink: /categories/:year/:title_:month_:day
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "air"
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
   - jekyll-include-cache
-  - jekyll-remote-theme
+
 remote_theme: "mmistakes/minimal-mistakes"
 #
 collections_dir: collections
