@@ -2,7 +2,7 @@
 
 ## Seminars
 To set-up seminars on this web page, there are two files to take care of:
-- in  _posts/, create a template in a filename of the form year-month-day-seminar.md (using  approximate start dates for the semester's seminars). To create a new semester, copy from one of the 2020 posts. Edit the entries. In datafile=site.data.XXX, XXX is the name of  the following file.
+- in collections/_posts/, create a template in a filename of the form year-month-day-seminar.md (using  approximate start dates for the semester's seminars). To create a new semester, copy from one of the 2020 posts. Edit the entries. In datafile=site.data.XXX, XXX is the name of  the following file.
 - in _data/, create a template in a filename of the form XXX.yml. where XXX=seminars_academicyear_S{1,2}. The exact filename is referenced in the entry in the _posts/ directory (as mentioned above).
 
 ## Format of the data entries in the yml file
