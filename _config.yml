@@ -12,6 +12,8 @@ markdown: kramdown
 permalink: /categories/:year/:title_:month_:day
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "air"
+plugins:
+  - jekyll-remote-theme
 #
 collections_dir: collections
 collections:
