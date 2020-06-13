@@ -4,7 +4,7 @@ excerpt: "Research group<br><br>Department of Mathematical Sciences<br>Universit
 header:
   overlay_image: "/assets/pics/NA_group.jpg"
   actions:
-    - label: "More Info"
+    - label: "More info"
       url: /about/
 
 feature_row:
