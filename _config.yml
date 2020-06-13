@@ -6,7 +6,6 @@ github_username:  bath-numerical-analysis
 #
 atom_feed:
   path: ""
-
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
@@ -18,8 +17,8 @@ plugins:
   - jemoji
   - jekyll-include-cache
 #theme: minimal-mistakes-jekyll
-#minimal_mistakes_skin: "air"
-#
+minimal_mistakes_skin: "air"
+# 
 permalink: /categories/:year/:title_:month_:day
 #
 collections_dir: collections
