@@ -1,0 +1,9 @@
+---
+title: "SciCADE"
+categories: 
+excerpt: SciCADE, the International Conference on Scientific Computation and Differential Equations, will be hosted by the University of Bath, UK, September 11-15, 2017.
+---
+{{page.excerpt}}
+
+[Conference web page](https://sites.google.com/site/scicade2017/
+)

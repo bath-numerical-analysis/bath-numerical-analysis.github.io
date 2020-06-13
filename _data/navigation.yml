@@ -1,0 +1,91 @@
+# Navigation bars
+# Menubar icon is not in this repo
+
+# Mast head
+main:
+  - title: "People"
+    url: /people/
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Events"
+    url: /events/
+  - title: "About"
+    url: /about/
+#####################
+# Side bars
+research:
+  - title: <img src="https://people.bath.ac.uk/tjs42/menu-logo.gif" style="border:0;"/>
+    url: "https://www.bath.ac.uk/"
+  - title: Study
+    children:
+      - title: "PhD"
+        url: /research/phd.html
+  - title: Research
+    url: /research/
+    children:
+      - title: "Differential equations"
+        url: /research/diffeq.html
+      - title: "High-performance computing"
+        url: /research/hpc.html
+      - title: "Inverse problems"
+        url: /research/ip.html
+      - title: "Linear algebra"
+        url: /research/nla.html
+      - title: "Uncertainty"
+        url: /research/uq.html
+  - title: Partners
+    url: /research/partners.html
+    children:
+      - title: "In Bath" 
+        url: /research/partners.html#Bath
+      - title: "And beyond" 
+        url: /research/partners.html#Beyond
+#####################
+# Sidebar
+teaching:
+  - title:  <img src="https://people.bath.ac.uk/tjs42/menu-logo.gif" style="border:0;"/>
+    url: "https://www.bath.ac.uk/"
+  - title: Year One and Two
+    children:
+      - title: "Programming and Discrete Mathematics"
+        url: /teaching/MA10265.html
+      - title: Numerical Analysis
+        url: /teaching/MA20222.html
+  - title: Year Three
+    children:
+      - title: Numerical Linear Algebra
+        url: /teaching/MA30051.html
+      - title: Numerical Solution of Elliptic PDEs
+        url: /teaching/MA30170.html
+  - title: Year Four
+    children:
+      - title: Numerical optimisation and large-scale problems
+        url: /teaching/MA40050.html
+      - title: Numerical solution of evolutionary equations
+        url: /teaching/MA40171.html
+      - title: Scientific Computing
+        url: /teaching/MA40177.html
+####################### 
+# Sidebar
+people:
+  - title: <img src="https://people.bath.ac.uk/tjs42/menu-logo.gif" style="border:0;"/>
+    url:  "https://www.bath.ac.uk/"
+######################
+# Sidebar
+events:
+  - title: <img src="https://people.bath.ac.uk/tjs42/menu-logo.gif" style="border:0;"/>
+    url: "https://www.bath.ac.uk/"
+  - title: "This semester's seminars"
+    url: /events/current_seminars.html
+  - title: "Recent"
+    url: /events/index.html
+  - title: "All NA seminars"
+    url: /events/all_seminars.html
+  - title: "Bath RAL"
+    url: /events/bath_ral.html
+  - title: "All"
+    url: /events/all.html
+# 
+# end of sidebars

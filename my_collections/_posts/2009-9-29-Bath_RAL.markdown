@@ -1,0 +1,48 @@
+---
+title: "Bath/RAL Numerical Analysis Day"
+author: Bath/RAL
+categories: BathRAL
+excerpt: RAL - 29 September 2009
+---
+{{page.excerpt}}
+
+<!-- <div id="2009"><section class="right-content"><span><h3>Bath/RAL Numerical Analysis Day 2009</h3>
+<div></div>
+<p>Tuesday, 29th September 2009, RAL</p> -->
+<dl class="bib-list"><div id="bibdiv"><dt>10.50</dt>
+<dd><div><a href="http://euclid.ucc.ie/pages/staff/stynes/mstynes.htm">Professor Martin Stynes</a>
+ (Cork)</div>
+<div>Numerical solution of singularly perturbed systems of convection-diffusion and reaction-diffusion equations</div>
+
+</dd>
+<dt>11.30</dt>
+<dd><div><a href="http://people.bath.ac.uk/mascjb/">Professor Chris Budd</a>
+ (Bath)</div>
+<div>Optimal transport methods for mesh generation, with applications to problems in meteorology</div>
+
+</dd>
+<dt>12.10</dt>
+<dd><div>Dr Daniel Robinson (Oxford)</div>
+<div>Second derivative SQP methods for solving large nonlinear optimization problems</div>
+
+</dd>
+<dt>14.20</dt>
+<dd><div>Dr Zhivko Stoyanov (Bath)</div>
+<div>Perturbation analysis of spectral clustering of data</div>
+
+</dd>
+<dt>15.00</dt>
+<dd><div><a href="http://www.numerical.rl.ac.uk/people/isd/isd.html/">Professor Iain Duff</a>
+ (RAL)</div>
+<div>Exploiting sparsity in the solution phase for large sparse equations</div>
+
+</dd>
+<dt>16.00</dt>
+<dd><div><a href="http://www2.le.ac.uk/departments/mathematics/extranet/staff-material/staff-profiles/jl1">Professor Jeremy Levesley</a>
+ (Leicester)</div>
+<div>Approximation on the sphere and similar spaces</div>
+
+</dd>
+</div>
+</dl>
+

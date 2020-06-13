@@ -1,0 +1,20 @@
+---
+outline: single
+title: "Bifurcation Theory, Numerical Linear Algebra and Application"
+excerpt: A conference to celebrate the 65th birthday of Professor Alastair Spence - 1 August 2013
+---
+{{page.excerpt}}
+
+Confirmed speakers include:
+- Howard Elman (University of Maryland)
+- Andrew Stuart (University of Warwick)
+- Françoise Tisseur (University of Manchester)
+- Fengshan Bai (Tsinghua University)
+- Ian Sloan (University of New South Wales)
+- Des Higham (University of Strathclyde)
+- Karl Meerbergen (Katholieke Universiteit Leuven)
+- Willy Govaerts (Universiteit Gent)
+- Simon Tavener (Colorado State University)
+- Alan Champneys (University of Bristol)
+- Gerald Moore (Imperial College London)
+- Bodo Werner (Universität Hamburg)

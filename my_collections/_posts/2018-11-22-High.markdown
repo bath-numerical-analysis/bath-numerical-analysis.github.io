@@ -1,0 +1,38 @@
+---
+outline: single
+title: "Algorithms and applications of high-dimensional approximation"
+excerpt: Two-day meeting
+---
+{{page.excerpt}}
+
+## Programme
+
+This workshop was organised by
+Sergey Dolgov.
+
+### Thursday, 22nd November
+
+|Time |Speaker |Title |
+|---|---|---|
+|8:30 - 9:00 |Arrival           | |
+|9:00 - 9:50|      Tiangang Cui (Monash University):| Optimization-based Sampling Approaches for Hierarchical Bayesian Inference|
+|9:50 - 10:10|    Coffee break
+||
+|10:10 - 11:00 | Dante Kalise (Imperial College London):| Breaking the curse of dimensionality in dynamic programming: (not so) old and new|
+|11:00 - 11:50 | John Pearson (University of Edinburgh):| PDE-Constrained Optimization in Scientific Processes: Models and Algorithms for Huge-Scale Systems|
+
+|11:50 - 13:30|   Lunch||
+|13:30 - 17:00 |  Free time/discussion (in 4 West 4.5 until 15:00)||
+
+### Friday, 23d November
+
+|Time| Speaker| Title|
+|---|---|---|
+|9:00 - 9:50  |     Dirk Nuyens (KU Leuven):| Quasi-Monte Carlo points for high-dimensional integration and approximation|
+|9:50 - 10:10|     Coffee break||
+
+|10:10 - 11:00|   Dmitry Savostyanov (University of Brighton):| Parallel cross interpolation for accurate evaluation of high--dimensional integrals|
+|11:00 - 11:50|   Sebastian Krämer (RWTH Aachen): |Approximate interpolation of high dimensional, scattered data in tree tensor formats|
+
+
+[Workshop website](https://sites.google.com/site/algorithmsforhighdimensions/home/)

@@ -1,0 +1,22 @@
+---
+outline: single
+title: "Rob farewell"
+excerpt: One-day meeting
+---
+{{page.excerpt}}
+
+### Programme
+
+| Time | Speaker | Title |
+|---|---|---|
+|13:00 - 13:10| Introduction, Wolfson LT| |
+13.10 - 13.40| Fr´ed´eric Nataf [CNRS Paris]|“Imaging of Cerebrovascular Accidents with High-Performance Computing”|
+|13.45 - 14.15| Clemens Pechstein [CST Computer Simulation Technology GmbH]|“Decomposing Jumping Coefficients - Fascinating Experience with Rob Scheichl”|
+|14.20 - 14.50| Marco Marletta [University of Cardiff]|“An inverse problem in electromagnetism with partial data”|
+|14.55 - 15.35| Coffee/tea and cake||
+|15.35 - 16.05| Aretha Teckentrup [University of Edinburgh]| “Quasi-Monte Carlo and Multilevel Monte Carlo methods for Bayesian Inverse Problems”|
+|16.10 - 16.40| Tim Dodwell [University of Exeter]|“dune-composites - high performance solvers for large-scale anisotropic elasticity problems”|
+|16:45 - 17:15| Mike Giles [University of Oxford]:|“Two new applications of MLMC”|
+
+
+[Workshop website]("http://people.bath.ac.uk/em459/program_rob_farewell.pdf")

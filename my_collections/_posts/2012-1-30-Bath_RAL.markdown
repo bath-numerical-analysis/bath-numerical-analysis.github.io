@@ -1,0 +1,51 @@
+---
+title: "Bath/RAL Numerical Analysis Day"
+author: Bath/RAL
+categories: BathRAL
+excerpt: RAL - 30 January 2012
+---
+{{page.excerpt}}
+
+<!-- <div id="2012"><section class="right-content"><span><h3>Bath/RAL Numerical Analysis Day 2012</h3>
+<div></div>
+<p>Monday 30th January 2012 Rutherford Appleton Laboratory</p> -->
+
+<dl class="bib-list"><div id="bibdiv"><dt>10.50</dt>
+<dd><div><a href="http://perso.uclouvain.be/paul.vandooren/">Professor Paul Van Dooren</a>
+ (Catholic University of Louvain)</div>
+<div>A new factorization for symmetric matrices</div>
+
+</dd>
+<dt>11.30</dt>
+<dd><div><a href="http://www.numerical.rl.ac.uk/people/nimg/">Professor Nick Gould</a>
+ (RAL)</div>
+<div>Trajectory-following methods for large-scale degenerate quadratic programming</div>
+
+</dd>
+<dt>12.10</dt>
+<dd><div><a href="http://people.bath.ac.uk/eu204/">Dr Elisabeth Ullmann</a>
+ (Bath)</div>
+<div>Multilevel Monte-Carlo methods for groundwater flow problems in random media</div>
+
+</dd>
+<dt>14.20</dt>
+<dd><div><a href="http://www.maths.manchester.ac.uk/~ftisseur/">Professor Francoise Tisseur</a>
+ (Manchester)</div>
+<div>Triangularization of matrix polynomials</div>
+
+</dd>
+<dt>15.00</dt>
+<dd><div><a href="http://people.bath.ac.uk/masas/">Professor Alastair Spence</a>
+ (Bath)</div>
+<div>Identifying Hopf bifurcations in models of incompressible flow</div>
+
+</dd>
+<dt>16.00</dt>
+<dd><div><a href="http://www.numerical.rl.ac.uk/people/isd/isd.html">Professor Iain Duff</a>
+ (RAL)</div>
+<div>Preconditioners based on strong subgraphs</div>
+
+</dd>
+</div>
+</dl>
+

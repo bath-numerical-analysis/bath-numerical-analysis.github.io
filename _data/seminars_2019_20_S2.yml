@@ -1,0 +1,98 @@
+- date: 7 Feb 2020
+  speaker: Tony Lelievre (Paris, France)
+  url: https://cermics.enpc.fr/~lelievre/
+  title: 'Foundation of first order kinetics: the quasi stationary distribution approach'
+  abstract: 'We are interested in the connection between a metastable continuous state space Markov process (satisfying e.g. the Langevin or overdamped Langevin equation) and a jump Markov process in a discrete state space. More precisely, we use the notion of quasi-stationary distribution within a metastable state for the continuous state space Markov process to parametrize the exit event from the state. This approach is useful to analyze and justify methods which use the jump Markov process underlying a metastable dynamics as a support to efficiently sample the state-to-state dynamics (accelerated dynamics techniques à la Arthur Voter). Moreover, it is possible by this approach to quantify the error on the exit event when the parametrization of the jump Markov model is based on the Eyring-Kramers formula. This therefore provides a mathematical framework to justify the use of transition state theory and the Eyring-Kramers formula to build kinetic Monte Carlo or Markov state models. 
+
+  References:
+
+  - G. Di Gesu, T. Lelièvre, D. Le Peutrec and B. Nectoux, Jump Markov models and transition state theory: the Quasi-Stationary Distribution approach, Faraday Discussion, 195, 469-495, (2016).
+  
+  - G. Di Gesu, T. Lelièvre, D. Le Peutrec et B. Nectoux, Sharp asymptotics of the first exit point density, Annals of PDE, 5(1), (2019).'
+- date: 14 Feb 2020
+  speaker: 	Jakob Jorgensen (Manchester)
+  title: Hyperspectral tomography and reconstruction with the CCPi Core Imaging Library
+  url: https://www.research.manchester.ac.uk/portal/jakob.jorgensen.html
+  abstract: 'X-ray computed tomography (CT) is one of the most successful and established imaging techniques, yet new opportunities and challenges continue to appear. One particularly exciting avenue is the emergence of novel photon-counting detectors. Traditionally CT imaging has been in black and white, but new detectors with high energy resolution make “colour imaging” possible, so-called spectral tomography. Just like colour images allow features to be distinguished more easily than in grey images, hyperspectral tomography provides information about characteristic absorption peaks, which may allow one to identify individual materials that conventional detectors cannot distinguish. However, due to few counts the tomography data in each energy channel can be extremely noisy, which prevents simple channel-wise reconstruction by conventional methods such as filtered back-projection (FBP). In this talk we present X-ray and neutron time-of-flight hyperspectral tomography and discuss regularization methods to help improve the reconstruction quality. We also give an overview of the Python-based Core Imaging Library (CIL) for tomographic image processing. CIL is designed for a wide range of tomographic data, including parallel- and cone-beam, 2D and 3D cases as well as 4D dynamic and hyperspectral tomography setups. The modular design of CIL allows a variety of customised algorithms to be constructed by the user, in addition to pre-defined commonly used algorithms. In particular, a modular optimisation framework allows simple and fast prototyping of optimisation-based reconstruction algorithms through “mix&match” of different existing or user-defined data fidelities and regularization penalties.'
+- date: 21 Feb 2020
+  title: Iteratively Reweighted Flexible Krylov methods for Sparse Reconstruction
+  speaker: Malena Sabate Landman (Bath)
+  url: Malena Sabate Landman (Bath)
+  abstract: 'Krylov subspace methods are powerful iterative solvers for large-scale linear inverse problems, such as those arising in image deblurring and computed tomography. In this talk I will present two new algorithms to efficiently solve $\ell_2$-$\ell_1$ regularized problems that enforce sparsity in the solution. The proposed approach is based on building a sequence of quadratic problems approximating $\ell_2$-$\ell_1$ regularization and partially solving them using flexible Krylov-Tikhonov methods. These algorithms are built upon a solid theoretical justification for converge, and have the advantage of building a single (flexible) approximation (Krylov) Subspace that encodes regularization through variable ``preconditioning''. The performance of the algorithms will be shown through a variety of numerical examples. This is a joint work with Silvia Gazzola (University of Bath) and James Nagy (Emory University).'
+- date: 28 Feb 2020
+  speaker: Ben Ashby (Reading)
+  title: 	An adaptive finite element method for a variational inequality arising from variably saturated subsurface flow
+  url: 	https://mpecdt.org/cohort/2017/
+  abstract: 'Flow in a variably saturated porous medium is governed by a nonlinear generalisation of Darcy’s law. At boundaries between a porous medium and the atmosphere, physical constraints on the pressure of the fluid lead to a variational inequality similar in character to contact problems from elasticity. The nonlinearities in the PDE operator and the a priori unknown boundary conditions as well as multi scale variation in the permeability of the soil as its water content varies leads to a challenging problem for which spatially adaptive methods are well suited. A finite element method is introduced, and the nonlinear solution procedure of the finite element system is combined with an iterative method to solve the variational inequality. An error estimate of dual-weighted residual type is introduced and used as a criterion for goal-based mesh refinement. Numerical results are presented that demonstrate the effectiveness of the error estimate in rapidly reducing the error in the goal quantity as well as providing a sharp upper bound in difficult and realistic problems.'
+- date: 6 Mar 2020
+  speaker: Claire Delplancke (Bath)
+  url: https://clairedelplancke.github.io/
+  title: 	A scalable online algorithm for passive seismic tomography in underground mines
+  abstract: 'Monitoring seismic responses of rock masses to massive mining allows to detect stress variations and hazardous instabilities inside underground mines, and requires accurate estimations of the non-homogenous propagation velocity of microseismic waves. Passive seismic tomography using the first-arrival travel-times of mining-induced microseisms (of unknown hypocenters) constitute a promising tool. However, available methods solving this high-dimensional statistical inverse problem do not scale well with the dataset size. I will present a novel passive seismic tomography method able to dynamically learn the non-homogeneous velocity field from a streaming of noisy first-arrival times, both on-line (in real-time) or from catalogs. Our method introduces a new Bayesian approach that avoids linearizing the forward problem and allows for general 3D velocity models. This is combined with the use of the Stochastic Gradient Descent (SGD) with adaptive stepsize based on ray-path density, which significantly improves the speed of the algorithm. Joint work with Joaquín Fontbona and Jorge Prado.'
+- date: 11 Mar 2020
+  speaker: Tristan Pryer (Bath)
+  url: https://na-bath.github.io/sites.google.com/site/tmpryer/home
+  title: 	Post-processing in automated error control
+  abstract: 'Post-Processing techniques are often used in numerical simulations for a variety of reasons from visualisation purposes to designing superconvergent approximations through to becoming fundamental building blocks in constructing numerical schemes. Another application of these operators is that they are a very useful component in automated error control for approximations of partial differential equations (PDEs). The talk is roughly divided into two parts, the first is concerned with finite difference type discretisations and how one can construct appropriate post-processors to allow for the automated error control of well known, well used schemes. In the second part we move onto discontinuous Galerkin schemes. We introduce a class of post-processing operator that “tweaks” a wide variety of existing post-processing techniques to enable efficient and reliable a posteriori bounds to be proven. This ultimately results in optimal error control for all manner of reconstruction operators, including those that superconverge.'
+- date: 16 Mar 2020
+  speaker: Linda Stals (Canberra, Australia)
+  url: https://maths.anu.edu.au/people/academics/linda-stals
+  inred: Extra seminar (6 West 1.1, 10.15)
+  title: Multilevel Solvers for The Thin-Plate Spline Saddle Point Problem
+  abstract: 'Data fitting is an integral part of a number of applications including data mining, 3D reconstruction of geometric models, image warping and medical image analysis. A commonly used method for fitting functions to data is the thin-plate spline method. This method is popular because it is not sensitive to noise in the data. We have developed a discrete thin-plate spline approximation technique that uses local basis functions. With this approach the system of equations is sparse and its size depends only on the number of points in the discrete grid, not the number of data points. Nevertheless the resulting system is a saddle point problem that can be ill-conditioned for certain choices of parameters. In this talk I will present an efficient robust solver based on a multilevel approach.'
+
+- date: 20 Mar 2020
+  speaker: Chupeng Ma (Heidelberg, Germany)
+  inred: Cancelled
+  cancelled: true
+  title:  Efficient multiscale algorithms for simulating nonlocal optical response of metallic nanostructure arrays
+- date: 27 Mar 2020
+  speaker: Andrew Stuart (Caltech)
+  cancelled: true
+  inred: Cancelled
+- date: 4 Apr 2020
+  speaker: 	Gabriele Ciaramella (Konstanz, Germany)
+  inred: First ever virtual Bath NA seminar
+  teams: 'https://teams.microsoft.com/dl/launcher/launcher.html?url=%2f_%23%2fl%2fmeetup-join%2f19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2%2f1585586102192%3fcontext%3d%257b%2522Tid%2522%253a%2522377e3d22-4ea1-422d-b0ad-8fcc89406b9e%2522%252c%2522Oid%2522%253a%2522ca31603c-bea1-49a9-9542-de84a57ad77c%2522%257d%26anon%3dtrue&type=meetup-join&deeplinkId=6c744a74-8263-4cb6-a156-7bf060cb0247&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true'
+  title:  On the Bank-Jimack domain decomposition method
+  abstract: 'In 2001 Randolph E. Bank and Peter K. Jimack introduced in [1] a new domain decomposition method for the adaptive solution of elliptic partial differential equations. The novel feature of this algorithm is that each of the subproblems is defined over the entire domain, but defined on partially coarse meshes. This method was used only as preconditioner and a first analysis was proposed in [2], where a discrete error analysis is performed in some special case. In this talk, we show that the method of Bank and Jimack is not convergent as a sta- tionary method. To correct this behavior we introduced an appropriate choice of partition of unity, which leads to a convergent iteration [3]. In this corrected setting, we establish some equivalence relations between the Bank and Jimack method and overlapping opti- mized Schwarz methods, namely Schwarz methods with Robin transmission conditions. These equivalences allowed us to obtain two important results. For one-dimensional prob- lems, the Bank-Jimack method is equivalent to an optimal Schwarz method independently of the choice of the coarse mesh. For two-dimensional problems, the Bank-Jimack method is equivalent to an optimized Schwarz method [4]. In this second case the convergence behavior depends on the coarse parts of the subproblem meshes, and in particular on the corresponding number of nodes, on their locations, and on the size of the overlap. By carefully studying this dependence we formulate a conjecture [4], whose proof will prob- ably keep us busy in the near future.
+
+References
+[1] A new parallel domain decomposition method for the adaptive finite element solution of elliptic partial differential equations, R.E. Bank and P.K. Jimack, Concurrency and Computation: Practice and Experience (2001).
+[2] Convergence analysis of a domain decomposition paradigm, R.E. Bank and P.S. Vassilevski, Computing and Visualization in Science (2008).
+[3] The domain decomposition method of Bank and Jimack as an optimized Schwarz method, G. Ciaramella, M.J. Gander and P. Mamooler, Proceeding DD25th Conference (2019).
+[4] The domain decomposition method of Bank and Jimack as an optimized Schwarz method in 2D, G. Ciaramella, M.J. Gander and P. Mamooler, in preparation (2020).'
+- date: 10 Apr 2020
+  speaker: Easter vacation
+- date: 17 Apr 2020
+  speaker: Easter vacation
+- date: 24 Apr 2020
+  speaker: Pranav Singh (Bath)
+  url: https://researchportal.bath.ac.uk/en/persons/pranav-singh
+  title: 	Convergence of Magnus based methods for Schrödinger equations 
+  teams: 'https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1587390374116?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d'
+  abstract: 'Magnus expansion based methods are an efficient class of integrators for solving Schrödinger equations that feature time dependent potentials such as lasers. These methods have been found to be highly effective in computational quantum chemistry since the pioneering work of Tal Ezer, Kosloff & Cerjan in the early 90s. The convergence of the Magnus expansion, however, is understood only for ODEs and traditional analysis suggests a much poorer performance of these methods than observed experimentally. It was not till the work of Hochbruck and Lubich in 2003 that a rigorous analysis justifying the application to PDEs with unbounded operators, such as the Schrödinger equation, was presented. In this talk I will extend this analysis to the semiclassical regime, where the highly oscillatory solution conventionally suggests large errors and a requirement for very small time steps.'
+- date: 1 May 2020
+  speaker: Andreas Dedner (Warwick)
+  title: Generic Construction of Virtual Element Space with a focus on forth order problems 
+  abstract: 'The construction of Finite Element (FE) spaces and the generic implementation of Galerkin type methods based on these spaces, has been studied extensively over the last decades. Many software packages are available that provide the user with many different FE spaces and make it fairly straightforward to solve a wide range of PDEs given in variational form.
+
+But many of these packages are restricted to lowest order spaces when tasked with solving forth order problems, or as often as not, do not even provide any suitable spaces for this type of problem. Typically, the only available space is the lowest order non-conforming H^2 space (the Morley finite-element) since this space is fairly easy to implement.
+
+Higher order spaces or fully conforming spaces of any order are hardly available. One reason for this is that in the construction process of FE spaces two ingredients are required that have to fit together:
+(i) a set of degrees of freedom (functionals) suitable for constructing a space with the desired properties, i.e., H^2 conforming
+(ii) a matching piecewise polynomial functions space with the correct dimension and approximation properties
+
+For example, it is common to use the full polynomial space P_l on triangles. This restricts the number of degrees of freedom per triangle one can define to be exactly dim P_l. Alternatively, complex polynomial subspaces containing P_l can be used to match a desired set of degrees of freedom, thus making the construction and implementation more complicated. Switching to other element types or from 2D to 3D often requires going through the process of finding suitable degrees of freedom and polynomial spaces from scratch.
+
+In this talk we present an alternative approach, based on the Virtual Element Method (VEM). This method was first developed to construct conforming spaces for second order problems on general polygonal meshes. Since its appearance 10 years ago, the method has been shown to be very flexible not only with respect to the underlying mesh elements but also with respect to incorporating additional structure. An issue is that implementing the method
+
+is not straightforward and so to my knowledge none of the major PDE software frameworks provide access to VEM spaces. Here we focus on a formulation that lends itself to the generic implementation within a standard software package. The approach is based on ideas developed for solving non-linear second order problems. We extend those to forth order non-linear problems and discuss error estimates for different versions of the spaces. We demonstrate the flexibility of the approach by showing results for perturbation problems and non-linear forth order PDEs.'
+  teams: https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1587731083598?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d 
+- date: 8 May 2020
+  speaker: None 
+- date: 15 May 2020
+  speaker: Jeremy Budd (Delft, Netherlands)
+  title: Allen-Cahn and MBO on graphs 
+  abstract: 'An emerging technique in clustering, segmentation and classification problems is to consider the dynamics of flows defined on finite graphs. In particular Bertozzi and co-authors considered dynamics related to Allen-Cahn flow (Bertozzi, Flenner, 2012) and the MBO algorithm (Merkurjev, Kostic, Bertozzi, 2013) for this purpose. This talk will exhibit our recent work showing rigorous links between these two flows, explaining why MBO can be used as an alternative to Allen-Cahn.'
+  teams: 'https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1588783928311?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d'

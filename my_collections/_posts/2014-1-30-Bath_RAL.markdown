@@ -1,0 +1,51 @@
+---
+title: "Bath/RAL Numerical Analysis Day"
+author: Bath/RAL
+categories: BathRAL
+excerpt:  RAL - Jan 2014
+---
+{{page.excerpt}}
+
+<!-- <div id="2014"><section class="right-content"><span><h3>Bath/RAL Numerical Analysis Day 2014</h3>
+<div></div> 
+<p>Monday 30th January 2014, Rutherford Appleton Laboratory</p>-->
+
+<dl class="bib-list"><div id="bibdiv"><dt>10.50</dt>
+<dd><div><a href="http://www.win.tue.nl/~wschilde/">Professor Wil Schilders</a>
+ (Eindhoven)</div>
+<div>Recent results regarding the decomposition of indefinite matrices</div>
+
+</dd>
+<dt>11.30</dt>
+<dd><div><a href="http://www.numerical.rl.ac.uk/people/isd/isd.html">Professor Iain Duff</a>
+ (RAL)</div>
+<div>Preconditioning of Least-Squares Problems by Identifying Basic Variables</div>
+
+</dd>
+<dt>12.10</dt>
+<dd><div><a href="http://people.bath.ac.uk/em459/">Dr Eike Mueller</a>
+ (Bath)</div>
+<div>Petascale solvers for extremely large elliptic PDEs on CPUs and GPUs</div>
+
+</dd>
+<dt>14.20</dt>
+<dd><div><a href="https://www.maths.nottingham.ac.uk/personal/ph/Home.html">Professor Paul Houston</a>
+ (Nottingham)</div>
+<div>hp-Version Discontinuous Galerkin Methods on Polygonal and Polyhedral Meshes</div>
+
+</dd>
+<dt>15.00</dt>
+<dd><div><a href="-">Dr Evgueni Ovtchinnikov</a>
+ (RAL)</div>
+<div>Sparse LDLT factorization on a CUDA-enabled GPU</div>
+
+</dd>
+<dt>16.00</dt>
+<dd><div><a href="http://www.bath.ac.uk/math-sci/contacts/academics/adrian-hill/">Dr Adrian Hill</a>
+ (Bath)</div>
+<div>Starting and finishing methods for time discretizations</div>
+
+</dd>
+</div>
+</dl>
+

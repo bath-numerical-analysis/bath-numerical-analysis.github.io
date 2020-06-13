@@ -1,0 +1,48 @@
+---
+title: "Bath/RAL Numerical Analysis Day"
+author: Bath/RAL
+categories: BathRAL
+excerpt: RAL - 25 September 2007
+---
+{{page.excerpt}}
+
+<!-- <div id="2007"><section class="right-content"><span><h3>Bath/RAL Numerical Analysis Day 2007</h3>
+<div></div>
+<p>Tuesday, 25th September 2007, RAL</p> -->
+<dl class="bib-list"><div id="bibdiv"><dt>10.50</dt>
+<dd><div><a href="http://www.math.uni-bielefeld.de/~beyn/AG_Numerik/html/en/people/index.html">Professor Wolf-Juergen Beyn</a>
+ (Bielefeld)</div>
+<div>The method of freezing spatio-temporal patterns of PDE's</div>
+
+</dd>
+<dt>11.30</dt>
+<dd><div><a href="http://people.bath.ac.uk/mascjb/">Professor Chris Budd</a>
+ (Bath)</div>
+<div>Adaptivity</div>
+
+</dd>
+<dt>12.10</dt>
+<dd><div>Sue Dollar (RAL)</div>
+<div>Iterative solution of PDE-constrained optimization problems</div>
+
+</dd>
+<dt>14.20</dt>
+<dd><div><a href="http://people.bath.ac.uk/masas/">Professor Alastair Spence</a>
+ (Bath)</div>
+<div>Inexact Inverse Iteration with Preconditioning</div>
+
+</dd>
+<dt>15.00</dt>
+<dd><div><a href="http://www.numerical.rl.ac.uk/people/nimg/">Professor Nick Gould</a>
+ (RAL)</div>
+<div>Adaptive cubic over-estimation methods for unconstrained optimization</div>
+
+</dd>
+<dt>16.00</dt>
+<dd><div><a href="http://web.mat.bham.ac.uk/loghin/">Daniel Loghin</a>
+ (Birmingham)</div>
+<div>Matrix Square-Roots with Applications</div>
+
+</dd>
+</div>
+</dl>

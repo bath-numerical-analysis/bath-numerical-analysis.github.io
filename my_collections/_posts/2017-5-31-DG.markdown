@@ -1,0 +1,19 @@
+---
+outline: single
+title: "Higher-order DG methods and finite element software for modern architectures"
+excerpt: Three-day meeting
+---
+{{page.excerpt}}
+
+
+# Plenary speakers
+- Markus Geveler (University of Dortmund)
+- Frank Giraldo (Naval Postgraduate School, Monterey, California)
+- David Ham (Imperial College, London)
+- Rob Kirby (Baylor University, Texas)
+- Martin Kronbichler (TUM, Munich)
+- Tom Melvin (Met Office, Exeter)
+- Steffen Müthing (University of Heidelberg)
+- Marie Rognes (Simula Lab)
+
+[Workshop website](https://sites.google.com/site/bathdgworkshop/)

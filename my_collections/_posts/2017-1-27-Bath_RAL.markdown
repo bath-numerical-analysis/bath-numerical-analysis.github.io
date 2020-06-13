@@ -1,0 +1,65 @@
+---
+title: "Bath/RAL Numerical Analysis Day"
+author: Bath/RAL
+categories: BathRAL
+excerpt: Bath - 27 January 2017
+---
+{{page.excerpt}}
+
+<!-- <div id="2017"><section class="right-content"><span><h3>Bath/RAL Numerical Analysis Day 2017</h3>Friday 27th January 2017, University of Bath 
+<div></div> -->
+<p><br>All are welcome, and there is no registration fee. If you would like to attend this event, please e-mail Melina Freitag (M.A.Freitag@bath.ac.uk). As usual, we will go out for dinner at 6pm at one of the restaurants by the train station; if you'd like to come along, please tell Melina on the day.</p>
+<dl class="bib-list"><div id="bibdiv"><dt>10.30</dt>
+<dd><div>Registration </div>
+<div></div>
+
+</dd>
+<dt>10.50</dt>
+<dd><div><a href="http://people.bath.ac.uk/sg968/">Silvia Gazzola</a>
+ (Bath)</div>
+<div>Krylov regularisation</div>
+
+</dd>
+<dt>11.30</dt>
+<dd><div><a href="http://www.numerical.rl.ac.uk/people/rees/">Tyrone Rees</a>
+ (RAL)</div>
+<div>Nonlinear least-squares problems revisited</div>
+
+</dd>
+<dt>12.10</dt>
+<dd><div><a href="http://iris.ucl.ac.uk/iris/browse/profile?upi=ENBUR31">Erik Burman</a>
+ (UCL)</div>
+<div>Stabilized finite element methods for ill-posed problems with conditional stability</div>
+
+</dd>
+<dt>12.50</dt>
+<dd><div>Lunch (Claverton Rooms)</div>
+<div></div>
+
+</dd>
+<dt>14.20</dt>
+<dd><div><a href="http://people.bath.ac.uk/jlh75/">James Hook</a>
+ (Bath)</div>
+<div>Max-plus statistical leverage scores</div>
+
+</dd>
+<dt>15.00</dt>
+<dd><div><a href="http://www.numerical.rl.ac.uk/people/f_lopez/">Florent Lopez</a>
+ (RAL)</div>
+<div>Experiments with a sparse Cholesky solver using runtime systems</div>
+
+</dd>
+<dt>15.40</dt>
+<dd><div>Tea and Coffee (4 West Atrium)</div>
+<div></div>
+
+</dd>
+<dt>16.00</dt>
+<dd><div><a href="http://www.maths.ox.ac.uk/people/patrick.farrell">Patrick Farrell</a>
+ (Oxford)</div>
+<div>Bifurcation analysis of PDEs and VIs with deflated continuation</div>
+
+</dd>
+</div>
+</dl>
+

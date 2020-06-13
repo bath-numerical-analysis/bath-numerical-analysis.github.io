@@ -1,0 +1,15 @@
+- name: samba 
+  title: EPSRC Centre for Doctoral Training in Statistical Applied Mathematics at Bath (SAMBa)
+  url: http://www.bath.ac.uk/math-sci/postgraduate/samba/
+- name: invert
+  title: Invert centre for imaging science
+  url: https://researchportal.bath.ac.uk/en/projects/invert-a-centre-for-imaging-science
+- name: problab
+  title: PROB-L@B
+  url: http://www.bath.ac.uk/research/centres/probability-laboratory/
+- name: siam
+  title: SIAM student chapter
+  url: http://blogs.bath.ac.uk/siamsc
+- name: MAD
+  title: Centre for Mathematics and Algorithm for Data
+  url: https://mathematics-and-algorithms-for-data.github.io/

@@ -1,0 +1,16 @@
+---
+title: "Bath/RAL Numerical Analysis Day"
+categories: BathRAL
+excerpt:  University of Bath - 4 October 2002 
+---
+{{page.excerpt}}
+
+
+| Time | Speaker | Title|  
+|---|---|---|
+|10.50|Professor Robert Scheichl (Bath)|Decoupling and block preconditioning in sedimentary basin simulations|
+|11.30|Dr Jennifer Scott (RAL)|HSL parallel direct solvers for large sparse linear systems|
+|12.10|Professor Richard Brent (Oxford)| Large Sparse Linear Systems over Finite Fields|
+|14.20|Professor Nick Gould (RAL)|Sequential linear programming for huge optimization problems|
+|15.00|Dr Adrian Hill (Bath)|Analysis of BDF Methods|
+|16.00|Professor Des Higham (Strathclyde)|Numerical Analysis and Small World Graphs|

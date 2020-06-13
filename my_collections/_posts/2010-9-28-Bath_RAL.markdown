@@ -1,0 +1,49 @@
+---
+title: "Bath/RAL Numerical Analysis Day"
+author: Bath/RAL
+categories: BathRAL
+excerpt: University of Bath - 28 September 2010
+---
+{{page.excerpt}}
+
+<!-- <div id="2010"><section class="right-content"><span><h3>Bath/RAL Numerical Analysis Day 2010</h3>
+<div></div>
+<p>Tuesday 28th September 2010, University of Bath</p> -->
+
+<dl class="bib-list"><div id="bibdiv"><dt>10.50</dt>
+<dd><div><a href="http://www.mis.mpg.de/scicomp/hackbusch.en.html">Professor Wolfgang Hackbusch</a>
+ (MPI Leipizg)</div>
+<div></div>
+
+</dd>
+<dt>11.30</dt>
+<dd><div>Dr Jaroslav Fowkes (Oxford)</div>
+<div>Global Optimization of Lipschitz continuous functions</div>
+
+</dd>
+<dt>12.10</dt>
+<dd><div><a href="http://people.bath.ac.uk/eas25/">Dr Euan Spence</a>
+ (Bath)</div>
+<div>Boundary Integral Equations for High Frequency Scattering</div>
+
+</dd>
+<dt>14.20</dt>
+<dd><div>Dr John Reid (RAL)</div>
+<div>Partial factorization of a dense symmetric indefinite matrix</div>
+
+</dd>
+<dt>15.00</dt>
+<dd><div><a href="http://www.maths.bath.ac.uk/~masrs/">Professor Rob Scheichl</a>
+ (Bath)</div>
+<div>Weighted Poincare Inequalities and Applications</div>
+
+</dd>
+<dt>16.00</dt>
+<dd><div><a href="http://www.nag.co.uk/about/shammarling.asp">Dr Sven Hammarling</a>
+ (NAG)</div>
+<div>The quadratic eigenvalue problem and associated software development</div>
+
+</dd>
+</div>
+</dl>
+

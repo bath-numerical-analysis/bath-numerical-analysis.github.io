@@ -1,0 +1,49 @@
+---
+title: "Bath/RAL Numerical Analysis Day"
+author: Bath/RAL
+categories: BathRAL
+excerpt: Bath - 1 October 2004
+---
+{{page.excerpt}}
+
+<!-- 
+#<div id="2004"><section class="right-content"><span><h3>Bath/RAL #Numerical Analysis Day 2004</h3>
+#<div></div>
+#<p>Friday 1st October 2004, Bath</p> -->
+
+<dl class="bib-list"><div id="bibdiv"><dt>10.50</dt>
+<dd><div><a href="http://www.math.washington.edu/~greenbau/">Professor Anne Greenbaum</a>
+ (Washington)</div>
+<div>Polynomial Numerical Hulls of Convection Diffusion Matrices and the Convergence of GMRES</div>
+
+</dd>
+<dt>11.30</dt>
+<dd><div>Dr Mario Arioli (RAL)</div>
+<div>A Chebyshev-based two-stage iterative method as an alternative to the direct solution of linear systems</div>
+
+</dd>
+<dt>12.10</dt>
+<dd><div>Professor Alastair Spence (Bath)</div>
+<div>Nonlinear eigenvalue problems with application to photonic band structure calculation</div>
+
+</dd>
+<dt>14.20</dt>
+<dd><div><a href="http://people.maths.ox.ac.uk/trefethen/">Professor Nick Trefethen</a>
+ (Oxford)</div>
+<div>The numerical range and what it's good for</div>
+
+</dd>
+<dt>15.00</dt>
+<dd><div>Dr Jennifer Scott (RAL)</div>
+<div>Which sparse direct symmetric solver?</div>
+
+</dd>
+<dt>16.00</dt>
+<dd><div><a href="http://people.bath.ac.uk/mascjb/">Professor Chris Budd</a>
+ (Bath)</div>
+<div>Optimal transport and geometric conservation laws for mesh generation</div>
+
+</dd>
+</div>
+</dl>
+

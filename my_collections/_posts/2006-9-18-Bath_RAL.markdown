@@ -1,0 +1,45 @@
+---
+title: "Bath/RAL Numerical Analysis Day"
+author: Bath/RAL
+categories: BathRAL
+excerpt:  University of Bath - 18 September 2006 
+---
+{{page.excerpt}}
+
+<!-- 
+#<div id="2006"><section class="right-content"><span><h3>Bath/RAL #Numerical Analysis Day 2006</h3>
+#<div></div>
+#<p>Monday 18th September 2006 Bath</p> -->
+
+<dl class="bib-list"><div id="bibdiv"><dt>10.50</dt>
+<dd><div>Professor Gerard Meurant (CEA/Bruyeres-le-Chatel)</div>
+<div>Multilevel methods for solving systems of partial differential equations</div>
+
+</dd>
+<dt>11.30</dt>
+<dd><div>Dr Jan Van Lent (Bath)</div>
+<div>Multigrid methods for time-dependent partial differential equations</div>
+
+</dd>
+<dt>12.10</dt>
+<dd><div>Professor Rob Scheichl (Bath)</div>
+<div>Domain decomposition for multiscale partial differential equations</div>
+
+</dd>
+<dt>14.20</dt>
+<dd><div>Dr Alison Ramage (Strathclyde)</div>
+<div>Multigrid solution of discrete convection-diffusion equations</div>
+
+</dd>
+<dt>15.00</dt>
+<dd><div>Dr Coralia Cartis (RAL)</div>
+<div>Finding a well-centered point within a polygon</div>
+
+</dd>
+<dt>16.00</dt>
+<dd><div>Professor Iain Duff (RAL)</div>
+<div>Direct solution of sparse skew symmetric linear systems</div>
+
+</dd>
+</div>
+</dl>

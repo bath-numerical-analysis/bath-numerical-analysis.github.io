@@ -1,0 +1,50 @@
+---
+title: "Bath/RAL Numerical Analysis Day"
+author: Bath/RAL
+categories: BathRAL
+excerpt: RAL - 27 September 2003
+---
+{{page.excerpt}}
+
+<!-- <div id="2003"><section class="right-content"><span><h3>Bath/RAL Numerical Analysis Day 2003</h3>
+<div></div>
+<p>Tuesday, 27th September 2003, RAL</p> -->
+
+
+<dl class="bib-list"><div id="bibdiv"><dt>10.50</dt>
+<dd><div>Professor Iain Duff (RAL)</div>
+<div>The symbiosis of direct and iterative methods for solving large sparse systems</div>
+
+</dd>
+<dt>11.30</dt>
+<dd><div>Bill Mclean (U. New South Wales, visiting Bath)</div>
+<div>Quadrature for boundary element methods</div>
+
+</dd>
+<dt>12.10</dt>
+<dd><div><a href="http://www.maths.manchester.ac.uk/~djs/">Professor David Silvester</a>
+ (Manchester)</div>
+<div>Error estimation and adaptivity for elliptic PDEs</div>
+
+</dd>
+<dt>14.20</dt>
+<dd><div><a href="http://people.bath.ac.uk/masigg/">Professor Ivan Graham</a>
+ (Bath)</div>
+<div>Finite elements on degenerate meshes: inverse type inequalities and applications</div>
+
+</dd>
+<dt>15.00</dt>
+<dd><div><a href="">John Reid</a>
+ (RAL)</div>
+<div>Cholesky factorization of a dense matrix with high performance in packed storage</div>
+
+</dd>
+<dt>16.00</dt>
+<dd><div><a href="http://www2.warwick.ac.uk/fac/sci/maths/people/staff/andrew_stuart/">Professor Andrew Stuart</a>
+ (Warwick)</div>
+<div>Fitting stochastic models to partially observed dynamics</div>
+
+</dd>
+</div>
+</dl>
+

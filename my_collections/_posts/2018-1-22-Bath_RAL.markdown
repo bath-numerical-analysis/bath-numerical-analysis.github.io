@@ -1,0 +1,67 @@
+---
+title: "Bath/RAL Numerical Analysis Day"
+author: Bath/RAL
+categories: BathRAL
+excerpt: RAL - 22 January 2018
+---
+{{page.excerpt}}
+
+<!-- <div id="2018"><section class="right-content"><span><h3>Bath/RAL Numerical Analysis Day 2018</h3>
+<div></div>
+<p>Monday 22nd January 2018, Rutherford Appleton Laboratory.</p> -->
+
+
+<dl class="bib-list"><div id="bibdiv"><dt>10.30</dt>
+<dd><div>Registration (4 West Atrium)</div>
+<div></div>
+
+</dd>
+<dt>10.50</dt>
+<dd><div><a href="http://www.numerical.rl.ac.uk/people/nimg/">Nick Gould</a>
+ (RAL)</div>
+<div>Iterated-subspace minimization methods for nonlinear optimization</div>
+
+</dd>
+<dt>11.30</dt>
+<dd><div><a href="http://people.bath.ac.uk/eas25/">Euan Spence</a>
+ (Bath)</div>
+<div>Domain-decomposition preconditioning for the Helmholtz and Maxwell equations</div>
+
+</dd>
+<dt>12.10</dt>
+<dd><div><a href="http://faculty.cse.tamu.edu/davis/">Tim Davis</a>
+ (Texas)</div>
+<div>SuiteSparse:GraphBLAS: graph algorithms via sparse matrix operations on semirings</div>
+
+</dd>
+<dt>12.50</dt>
+<dd><div>Lunch </div>
+<div></div>
+
+</dd>
+<dt>14.20</dt>
+<dd><div><a href="http://www.maths.usyd.edu.au/u/olver/">Sheehan Olver</a>
+ (Imperial)</div>
+<div>Sparse spectral methods for PDEs on triangles with multivariate orthogonal polynomials</div>
+
+</dd>
+<dt>15.00</dt>
+<dd><div><a href="http://www.mxif.manchester.ac.uk/user/profile/userprofile/dkazanc/">Daniil Kazantsev</a>
+ (RAL)</div>
+<div>Inverse problems for multi-channel computed tomography</div>
+
+</dd>
+<dt>15.40</dt>
+<dd><div>Tea and Coffee </div>
+<div></div>
+
+</dd>
+<dt>16.00</dt>
+<dd><div><a href="http://people.bath.ac.uk/sd901/">Sergey Dolgov</a>
+ (RAL)</div>
+<div>Low rank tensor product surrogates for sampling from high dimensional distributions</div>
+
+</dd>
+</div>
+</dl>
+

@@ -1,0 +1,39 @@
+<style>
+
+
+
+/* set-up for double columns */
+.column {
+  float: left;
+  width: 30%;
+  padding: 3px;
+}
+.column2 {
+  float: left;
+  width: 65%;
+  padding: 3px;
+}
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+ul.two_column {
+  list-style-type: none;
+  padding: 2px;
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
+@media screen and (max-width: 700px) {
+  ul.two_column {
+    list-style-type: none;
+    padding: 1px;
+    columns: 1;
+    -webkit-columns: 1;
+    -moz-columns: 1;  
+  }
+}
+</style>

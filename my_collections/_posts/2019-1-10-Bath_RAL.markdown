@@ -1,0 +1,67 @@
+---
+title: "Bath/RAL Numerical Analysis Day"
+author: Bath/RAL
+categories: BathRAL
+excerpt:  Bath - 10 January 2019
+---
+{{page.excerpt}}
+
+<!-- <div id="2019"><section class="right-content"><span><h3>Bath/RAL Numerical Analysis Day 2019</h3>Thursday 10th January 2019, University of Bath <br>
+<div></div> -->
+
+<p>
+All are welcome, and there is no registration fee. If you would like to attend this event, please e-mail Melina Freitag (M.A.Freitag@bath.ac.uk). As usual, we will go out for dinner at 6pm at one of the restaurants by the train station; if you'd like to come along, please tell Melina on the day.</p>
+<dl class="bib-list"><div id="bibdiv"><dt>10.30</dt>
+<dd><div>Registration (4 West Atrium)</div>
+<div></div>
+
+</dd>
+<dt>10.50</dt>
+<dd><div><a href="http://www.dm.unibo.it/~simoncin/">Valeria Simoncini</a>
+ (Bologna)</div>
+<div>On projection methods for large-scale Riccati equations</div>
+
+</dd>
+<dt>11.30</dt>
+<dd><div><a href="http://www.numerical.rl.ac.uk/people/j_scott/">Jennifer Scott</a>
+ (RAL)</div>
+<div>Avoiding catastrophic fill in large-scale least squares problems</div>
+
+</dd>
+<dt>12.10</dt>
+<dd><div><a href="https://personalpages.manchester.ac.uk/staff/Catherine.Powell/">Catherine Powell</a>
+ (Manchester)</div>
+<div>Adaptive and multilevel stochastic Galerkin approximation for PDEs with parameter-dependent inputs</div>
+
+</dd>
+<dt>12.50</dt>
+<dd><div>Lunch (Claverton Rooms)</div>
+<div></div>
+
+</dd>
+<dt>14.20</dt>
+<dd><div><a href="">Sebastien Cayrols</a>
+ (RAL)</div>
+<div>The effect of incorporating a new parallel solve routine within the block Cimmino algorithm</div>
+
+</dd>
+<dt>15.00</dt>
+<dd><div><a href="http://people.bath.ac.uk/em459/">Eike Mueller</a>
+ (Bath)</div>
+<div>Efficient semi-implicit Discontinuous Galerkin methods in fluid dynamics: hybridization and multigrid preconditioners</div>
+
+</dd>
+<dt>15.40</dt>
+<dd><div>Tea and Coffee (4 West Atrium)</div>
+<div></div>
+
+</dd>
+<dt>16.00</dt>
+<dd><div><a href="https://mehrhardt.github.io/">Matthias Ehrhardt</a>
+ (Bath)</div>
+<div>A Randomized Algorithm for Convex Optimization and Medical Imaging Applications</div>
+
+</dd>
+</div>
+</dl>
+

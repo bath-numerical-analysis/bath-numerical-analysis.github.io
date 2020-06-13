@@ -1,0 +1,42 @@
+- name: Wood
+  title: Wood
+  url: https://www.woodplc.com/
+- name: DNVGL
+  title: DNV GL
+  url: http://www.dnvgl.com/
+- name: EPSRC
+  title: EPSRC
+  url: https://epsrc.ukri.org/
+- name: GKN
+  title: GKN Aerospace
+  url:  https://www.gkn.com/aerospace/
+- name: GWR
+  title: Great Western Research
+  url: http://www.greatwesternresearch.ac.uk/
+- name: Heidelberg
+  title: Heidelberg
+  url: https://ganymed.math.uni-heidelberg.de/~rscheichl/
+- name: IFP
+  title: Institut Francais du Petrole
+  url: http://www.ifpenergiesnouvelles.fr/
+- name: LMS
+  title: LMS
+  url: http://www.lms.ac.uk/
+- name: NERC
+  title: NERC
+  url: https://nerc.ukri.org/
+- name: RAL
+  title: RAL
+  url: https://stfc.ukri.org/about-us/where-we-work/daresbury-laboratory/scientific-computing-department/
+- name: SIAMUKIE
+  title: SIAM UKIE
+  url: https://www.siam.org/membership/sections/detail/united-kingdom-and-republic-of-ireland-of-siam-ukie-siam
+- name: SCHLUM
+  title: Schlumberger
+  url: https://www.slb.com/
+- name: THALES
+  title: Thales
+  url: https://www.thalesgroup.com/en
+- name: METOFFICE
+  url: http://metoffice.gov.uk/
+  title: UK Met Office

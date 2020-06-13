@@ -1,0 +1,67 @@
+---
+title: "Bath/RAL Numerical Analysis Day"
+author: Bath/RAL
+categories: BathRAL
+excerpt: Bath - 23 January 2015
+---
+{{page.excerpt}}
+
+<!-- <div id="2015"><section class="right-content"><span><h3>Bath/RAL Numerical Analysis Day 2015</h3>
+<div></div>
+<p>Friday 23rd January 2015,  -->
+
+<p> Wolfson Lecture Theatre, Department of Mathematical Sciences. University of Bath. <br>All are welcome, and there is no registration fee. If you would like to attend this event, please e-mail Euan Spence (E.A.Spence@bath.ac.uk). As usual, after the talks we will go out for dinner in Bath; if you'd like to attend this, please tell Euan on the day.</p>
+<dl class="bib-list"><div id="bibdiv"><dt>10.30</dt>
+<dd><div>Registration (4 West Atrium)</div>
+<div></div>
+
+</dd>
+<dt>10.50</dt>
+<dd><div><a href="http://www.damtp.cam.ac.uk/research/afha/anders/">Anders Hansen</a>
+ (Cambridge)</div>
+<div>Breaking the coherence barrier - A new theory for compressed sensing</div>
+
+</dd>
+<dt>11.30</dt>
+<dd><div><a href="http://www.numerical.rl.ac.uk/people/jscott/jscott.html">Jennifer Scott</a>
+ (RAL)</div>
+<div>On the hunt for memory efficient robust incomplete factorization preconditioners</div>
+
+</dd>
+<dt>12.10</dt>
+<dd><div><a href="http://www.maths.bath.ac.uk/~sw283/">Simon Wood</a>
+ (Bath)</div>
+<div>Additive smooth regression models: some applications of numerical linear algebra and optimization in statistics</div>
+
+</dd>
+<dt>12.50</dt>
+<dd><div>Lunch (Claverton Rooms)</div>
+<div></div>
+
+</dd>
+<dt>14.20</dt>
+<dd><div><a href="http://www.numerical.rl.ac.uk/people/nimg/nimg.html">Nick Gould</a>
+ (RAL)</div>
+<div>Modern SQP Filter methods for constrained optimization</div>
+
+</dd>
+<dt>15.00</dt>
+<dd><div><a href="http://people.bath.ac.uk/eas25/">Euan Spence</a>
+ (Bath)</div>
+<div>Domain decomposition methods for the Helmholtz equation with absorption</div>
+
+</dd>
+<dt>15.40</dt>
+<dd><div>Tea and Coffee (4 West Atrium)</div>
+<div></div>
+
+</dd>
+<dt>16.00</dt>
+<dd><div><a href="http://www.maths.ox.ac.uk/people/andy.wathen/">Andy Wathen</a>
+ (Oxford)</div>
+<div>Preconditioning for models of coupled magma/mantle dynamics</div>
+
+</dd>
+</div>
+</dl>
+

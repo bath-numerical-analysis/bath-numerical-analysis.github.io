@@ -1,0 +1,47 @@
+---
+title: "Bath/RAL Numerical Analysis Day"
+author: Bath/RAL
+categories: BathRAL
+excerpt:  University of Bath - 23 September 2008
+---
+{{page.excerpt}}
+
+<!-- <div id="2008"><section class="right-content"><span><h3>Bath/RAL Numerical Analysis Day 2008</h3>
+<div></div>
+<p>Tuesday 23rd September 2008, University of Bath</p> -->
+<dl class="bib-list"><div id="bibdiv"><dt>10.50</dt>
+<dd><div><a href="http://www.cardiff.ac.uk/maths/subsites/marlettam/">Professor Marco Marletta</a>
+ (Cardiff)</div>
+<div>Dirichlet to Newmann maps for spectral problems</div>
+
+</dd>
+<dt>11.30</dt>
+<dd><div><a href="http://www.numerical.rl.ac.uk/people/jhogg/">Jonathan Hogg</a>
+ (RAL)</div>
+<div>A Fast Robust Sparse Mixed Precision Solver</div>
+
+</dd>
+<dt>12.10</dt>
+<dd><div>Professor Ivan Graham (Bath)</div>
+<div>A new multiscale finite element method for high-contrast elliptic interface problems</div>
+
+</dd>
+<dt>14.20</dt>
+<dd><div>Dr Mario Arioli (RAL)</div>
+<div>Least-squares problems, normal equations, and stopping criteria for the conjugate gradient method</div>
+
+</dd>
+<dt>15.00</dt>
+<dd><div><a href="http://people.bath.ac.uk/mamamf/">Dr Melina Freitag</a>
+ (Bath)</div>
+<div>Data assimilation using 4Dvar and links to regularisation</div>
+
+</dd>
+<dt>16.00</dt>
+<dd><div><a href="http://en.wikipedia.org/wiki/Michael_J._D._Powell">Professor Mike Powell, FRS</a>
+ (Cambridge)</div>
+<div>Developments of an algorithm for unconstrained optimization without derivatives</div>
+
+</dd>
+</div>
+</dl>

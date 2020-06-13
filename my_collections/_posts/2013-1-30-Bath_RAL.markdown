@@ -1,0 +1,52 @@
+---
+title: "Bath/RAL Numerical Analysis Day"
+author: Bath/RAL
+categories: BathRAL
+excerpt:  RAL - 30 Jan 2013
+---
+{{page.excerpt}} 
+
+
+
+<!-- <div id="2013"><section class="right-content"><span><h3>Bath/RAL Numerical Analysis Day 2013</h3>
+<div></div> 
+<p></p>-->
+
+<dl class="bib-list"><div id="bibdiv"><dt>10.50</dt>
+<dd><div><a href="https://www.ima.umn.edu/~arnold/">Professor Douglas Arnold</a>
+ (Minnesota)</div>
+<div>The periodic table of finite elements</div>
+
+</dd>
+<dt>11.30</dt>
+<dd><div>Dr Phil Browne (Reading)</div>
+<div>Topology optimization - a case study of a successful CASE award between Bath and RAL</div>
+
+</dd>
+<dt>12.10</dt>
+<dd><div><a href="http://www.numerical.rl.ac.uk/people/jhogg/">Dr Jonathan Hogg</a>
+ (RAL)</div>
+<div>A fast triangular solve on GPUs</div>
+
+</dd>
+<dt>14.20</dt>
+<dd><div><a href="http://people.bath.ac.uk/tjs42/">Dr Tony Shardlow</a>
+ (Bath)</div>
+<div>Pathwise approximation of SDEs and adaptive time stepping</div>
+
+</dd>
+<dt>15.00</dt>
+<dd><div><a href="http://www.numerical.rl.ac.uk/people/rees/">Dr Tyrone Rees</a>
+ (RAL)</div>
+<div>Can you use MINRES with an indefinite preconditioner?</div>
+
+</dd>
+<dt>16.00</dt>
+<dd><div><a href="http://www.sysbio.ox.ac.uk/people/staff-list/burragek">Professor Kevin Burrage</a>
+ (Oxford)</div>
+<div>From cells to tissue: coping with heterogeneity when modelling the electrophysiology of the human heart</div>
+
+</dd>
+</div>
+</dl>
+

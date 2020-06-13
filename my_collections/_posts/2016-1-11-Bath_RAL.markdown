@@ -1,0 +1,67 @@
+---
+title: "Bath/RAL Numerical Analysis Day"
+author: Bath/RAL
+categories: BathRAL
+excerpt: RAL - 11 January 2016
+---
+{{page.excerpt}}
+
+<!-- 
+<div id="2016"><section class="right-content"><span><h3>Bath/RAL Numerical Analysis Day 2016</h3>
+<div></div>
+<p>Monday 11th January 2016, Rutherford Appleton Laboratory</p> -->
+
+<dl class="bib-list"><div id="bibdiv"><dt>10.30</dt>
+<dd><div>Registration (CR12/13)</div>
+<div></div>
+
+</dd>
+<dt>10.50</dt>
+<dd><div><a href="https://www.maths.ox.ac.uk/people/coralia.cartis/">Coralia Cartis</a>
+ (Oxford)</div>
+<div>Optimization algorithms with occasionally accurate models</div>
+
+</dd>
+<dt>11.30</dt>
+<dd><div><a href="http://people.bath.ac.uk/mamamf">Melina Freitag</a>
+ (Bath)</div>
+<div>Efficient computation of the H-infinity norm</div>
+
+</dd>
+<dt>12.10</dt>
+<dd><div><a href="https://people.maths.ox.ac.uk/gilesm/">Mike Giles</a>
+ (Oxford)</div>
+<div>New directions with Multilevel Monte Carlo methods</div>
+
+</dd>
+<dt>12.50</dt>
+<dd><div>Lunch </div>
+<div></div>
+
+</dd>
+<dt>14.20</dt>
+<dd><div><a href="http://www.guettel.com/">Stefan Guettel</a>
+ (Manchester)</div>
+<div>The inexact solution of linear systems in interior point methods</div>
+
+</dd>
+<dt>13.00</dt>
+<dd><div><a href="http://www.numerical.rl.ac.uk/people/rees/">Tyrone Rees</a>
+ (RAL)</div>
+<div>The inexact solution of linear systems in interior point methods</div>
+
+</dd>
+<dt>15.40</dt>
+<dd><div>Tea and Coffee</div>
+<div></div>
+
+</dd>
+<dt>16.00</dt>
+<dd><div><a href="https://scholar.google.co.uk/citations?user=oQIKmWUAAAAJ&hl=en">Dan Simpson</a>
+ (Bath)</div>
+<div>The numerical challenges of moving beyond "Uncertainty Quantification" and towards "Statistics"</div>
+
+</dd>
+</div>
+</dl>
+
