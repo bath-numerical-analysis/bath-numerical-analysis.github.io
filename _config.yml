@@ -9,13 +9,18 @@ atom_feed:
 
 # Build settings
 markdown: kramdown
-permalink: /categories/:year/:title_:month_:day
+remote_theme: "mmistakes/minimal-mistakes@4.13.0"
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 #theme: minimal-mistakes-jekyll
 #minimal_mistakes_skin: "air"
-plugins:
-  - jekyll-include-cache
-
-remote_theme: "mmistakes/minimal-mistakes@4.19.3"
+#
+permalink: /categories/:year/:title_:month_:day
 #
 collections_dir: collections
 collections:
