@@ -13,7 +13,7 @@ classes: wide
       <div class="row">
         <div class="column1">
            <a href="{{ member.homepage }}">
-           <img  src="{% link /assets/pics/{{member.pic}} %}" id="two_col_img"/></a>
+           <img  src="/assets/pics/{{member.pic}} " id="two_col_img"/></a>
         </div>
         <div class="column2">
         <a class="btn btn--inverse" href="{{ member.homepage }}"> {{member.given}} {{ member.last}} </a>
