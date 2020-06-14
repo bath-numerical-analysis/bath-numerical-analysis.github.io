@@ -2,14 +2,14 @@
 
 ## Seminars
 To set-up seminars on this web page, there are two files to take care of:
-- in collections/_posts/, create a template in a filename of the form year-month-day-seminar.md (using  approximate start dates for the semester's seminars). To create a new semester, copy from one of the 2020 posts. Edit the entries. In datafile=site.data.XXX, XXX is the name of  the following file.
+- in collections/ _posts/, create a template in a filename of the form year-month-day-seminar.md (using  approximate start dates for the semester's seminars). To create a new semester, copy from one of the 2020 posts. Edit the entries. In datafile=site.data.XXX, XXX is the name of  the following file.
 - in _data/, create a template in a filename of the form XXX.yml. where XXX=seminars_academicyear_S{1,2}. The exact filename is referenced in the entry in the _posts/ directory (as mentioned above).
 
 ## Format of the data entries in the yml file
 
 Individual seminars are listed. The format is
        
-       - date: 1 Jan 2000
+       - date: 1 Jan 2000 (the date and only the date in machine-readable format)
          speaker: name (uni)
          url: speaker_url (optional)
          title: my title (optional) 
@@ -18,7 +18,7 @@ Individual seminars are listed. The format is
          cancelled: set true for cancelled seminar (optional)
          teams: url for online Teams seminar
 
-Alignment of the keys (date, speakers, etc) is important. Single quotes are important (if paragraphs are used). Mathematics is allowed (MathJax; e.g., using $\alpha$).
+Alignment of the keys (date, speakers, etc) is important. The entries are sorted on the date, which must be machine readable. Single quotes are important (if paragraphs are used). Mathematics is allowed (MathJax; e.g.,  $\alpha$ by using dollar signs).
 An example entry is
 
       - date: 15 May 2020

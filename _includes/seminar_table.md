@@ -30,10 +30,10 @@
     }
 
 </style>
-
-{% for X in {{datafile}} %}
+{% assign sorted = {{datafile}}  %}
+{% for X in sorted %}
 <tr>
-<td> {% if X.cancelled %} <s>{{ X.date }}</s> {% else %} {{ X.date }} {% endif %}</td>
+<td> {% if X.cancelled %} <s>{{ X.date | date: "%-d %b %Y" }}</s> {% else %} {{ X.date | date: "%-d %b %Y" }} {% endif %}</td>
   <td>
   {% if X.url %} <a href="{{X.url}}">{{X.speaker}} </a> {% else %} {{X.speaker | markdownify }}   {% endif %}</td>
 
