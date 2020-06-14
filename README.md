@@ -16,7 +16,7 @@ Individual seminars are listed. The format is
          abstract: 'my abstract' (optional) (Use single quotes)
          inred: extra information that displays in red' (optional)
          cancelled: set true for cancelled seminar (optional)
-         teams: url for online Teams seminar
+         teams: url for online Teams seminar (optional)
 
 Alignment of the keys (date, speakers, etc) is important. The entries are sorted on the date, which must be machine readable. Single quotes are important (if paragraphs are used). Mathematics is allowed (MathJax; e.g.,  $\alpha$ by using dollar signs).
 An example entry is
