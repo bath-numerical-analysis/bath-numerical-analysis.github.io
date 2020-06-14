@@ -12,8 +12,7 @@ We are very active in each of the following research topics - click for further 
 
 <ul class="two_column" >
   {% for X in sorted %}
-    <li>
       <a class="btn btn--inverse" href = "{{site.url}}{{site.baseurl}}{{X.url}}">{{X.title}}</a>
-    </li>
+    <br/>
   {% endfor %}
 </ul>
