@@ -12,4 +12,4 @@ We teach a full range of undergraduate and postgraduate [units]({% link teaching
 
 We  welcome applications for [PhD studies]({% link PhD.md %} ), and are always happy to discuss research problems in all areas of scientific computing and numerical analysis!
 
-Contact email: <strong>{{site.email}}</strong>.
+Contact email: <strong>{{site.email}}</strong>. 

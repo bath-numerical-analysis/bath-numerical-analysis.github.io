@@ -16,7 +16,7 @@ main:
 #####################
 # Side bars
 research:
-  - title: <img src="https://people.bath.ac.uk/tjs42/menu-logo.gif" style="border:0;"/>
+  - title: <img src="/assets/pics/menu-logo.gif" style="border:0;"/>
     url: "https://www.bath.ac.uk/"
   - title: Study
     children:
@@ -45,7 +45,7 @@ research:
 #####################
 # Sidebar
 teaching:
-  - title:  <img src="https://people.bath.ac.uk/tjs42/menu-logo.gif" style="border:0;"/>
+  - title:  <img src="/assets/pics/menu-logo.gif" style="border:0;"/>
     url: "https://www.bath.ac.uk/"
   - title: Year One and Two
     children:

@@ -16,7 +16,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-#theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll 
 minimal_mistakes_skin: "air"
 # 
 permalink: /categories/:year/:title_:month_:day
