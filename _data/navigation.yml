@@ -9,6 +9,8 @@ main:
     url: /research/
   - title: "Teaching"
     url: /teaching/
+  - title: "Seminar"
+    url: /events/current_seminars.html
   - title: "Events"
     url: /events/
   - title: "About"
@@ -16,8 +18,6 @@ main:
 #####################
 # Side bars
 research:
-  - title: <img src="/assets/pics/menu-logo.gif" style="border:0;"/>
-    url: "https://www.bath.ac.uk/"
   - title: Study
     children:
       - title: "PhD"
@@ -45,8 +45,6 @@ research:
 #####################
 # Sidebar
 teaching:
-  - title:  <img src="/assets/pics/menu-logo.gif" style="border:0;"/>
-    url: "https://www.bath.ac.uk/"
   - title: Year One and Two
     children:
       - title: "Programming and Discrete Mathematics"
@@ -70,13 +68,9 @@ teaching:
 ####################### 
 # Sidebar
 people:
-  - title: <img src="https://people.bath.ac.uk/tjs42/menu-logo.gif" style="border:0;"/>
-    url:  "https://www.bath.ac.uk/"
 ######################
 # Sidebar
 events:
-  - title: <img src="https://people.bath.ac.uk/tjs42/menu-logo.gif" style="border:0;"/>
-    url: "https://www.bath.ac.uk/"
   - title: "This semester's seminars"
     url: /events/current_seminars.html
   - title: "Recent"
