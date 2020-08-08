@@ -13,7 +13,7 @@ toc: true
   <div class="archive-group">
   <h3><a id="{{year.name}}">{{ year.name }}</a></h3>
   {% for post in year.items %}
-    <a class="btn btn--inverse" href="{{site.url}}{{site.baseurl}}{{ post.url }}">{{post.title}}   {{ post.date | date: "%Y" }}</a>
+    <a class="btn btn--inverse" href="{{site.url}}{{site.baseurl}}{{ post.url }}">{{post.title}} </a>
     <p class="small"> {{post.excerpt}}
     </p>
    {% endfor %}

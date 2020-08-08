@@ -7,7 +7,8 @@ sidebar:
 ---
 <ul>
 {% for post in site.posts limit: 3 %}
-  <li><a class="btn btn--inverse" href="{{site.url}}{{site.baseurl}}{{post.url}}">  {{post.title}} {{ post.date | date: "%Y" }}   </a>
+  <li><a class="btn btn--inverse" href="{{site.url}}{{site.baseurl}}{{post.url}}">  {{post.title}}
+  </a>
   <div class="small"> {{post.excerpt}}
   </div></li>
 {% endfor %}

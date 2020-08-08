@@ -27,3 +27,20 @@ An example entry is
         abstract: 'An emerging technique in clustering, segmentation and classification problems is to consider the dynamics of flows defined on finite graphs. In particular Bertozzi and co-authors considered dynamics related to Allen-Cahn flow (Bertozzi, Flenner, 2012) and the MBO algorithm (Merkurjev, Kostic, Bertozzi, 2013) for this purpose. This talk will exhibit our recent work showing rigorous links between these two flows, explaining why MBO can be used as an alternative to Allen-Cahn.'
         teams: 'https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1588783928311?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d'
 
+# Adding an event
+
+Creating a file in the collections/_posts directory with filename year-month_number-date-title.md (e.g., 2020-3-4-budd60.md) with the contents. The date is important and controls how it appears on other apges. There are two ways to add contents:
+
+## As a redirect
+You have a conference webpage hosted elsewhere and simply want to link to it. Then create a file as directed above with the contents:
+
+    ---
+    layout: redirected
+    redirect_to: http::/mysite
+    title: "My wonderful conference"
+    excerpt:  n-day wonder
+    ---
+(e.g., 2020-3-4-budd60.md)
+
+## Directly
+You can host a simple webpage directly on this server by setting up file (e.g., 2018-11-22-High.markdown). 
