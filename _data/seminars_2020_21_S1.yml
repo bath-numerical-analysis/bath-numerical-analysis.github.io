@@ -1,61 +1,70 @@
 - date: 2 Oct 2020
   speaker: Pan Kessel (TU Berlin, Germany)
   url: https://bifold.berlin/person/pan-kessel-ph-d/
-  teams: TBC
+  teams: https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1600686289247?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d
   title: 	'Deep Generative Models in Lattice Field Theories'
   abstract: 'Recent work has taken promising first steps towards an application of deep generative models in lattice field theories. In these approaches, deep generative models are used to generate field configurations. These configurations can then be used to estimate physical observables. In this talk, I will give a (hopefully) pedagogical overview of the subject. In particular, I will outline how these methods can be used to estimate observables which cannot directly be measured by MCMC methods.'
   
 - date: 9 Oct 2020
   speaker: Luca Zanetti (Bath)
   url: https://www.cl.cam.ac.uk/~lz381/
+  teams: https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1600686289247?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d
   title: 	'TBA'
   abstract: 'TBA.'
   
 - date: 16 Oct 2020
   speaker: Yuji Nakatsukasa (Oxford)
   url: https://people.maths.ox.ac.uk/nakatsukasa/
+  teams: https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1600686289247?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d
   title: 	'TBA'
   abstract: 'TBA.'
   
 - date: 23 Oct 2020
   speaker: Constantino Antonio García Martínez (University of Santiago de Compostela, Spain)
   url: http://persoal.citius.usc.es/constantinoantonio.garcia/
+  teams: https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1600686289247?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d
   title: 	'TBA'
   abstract: 'TBA.'
   
 - date: 30 Oct 2020
   speaker: Christoph Brune (Twente, Netherlands)
   url: https://people.utwente.nl/c.brune
+  teams: https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1600686289247?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d
   title: 	'TBA'
   abstract: 'TBA.'
   
 - date: 6 Nov 2020
   speaker: Silvia Gazzola (Bath)
   url: https://people.bath.ac.uk/sg968/
+  teams: https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1600686289247?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d
   title: 	'TBA'
   abstract: 'TBA.'
   
 - date: 13 Nov 2020
   speaker: Andreas Langer (Stuttgart, Germany)
   url: https://www.ians.uni-stuttgart.de/institute/team/Langer-00005/
+  teams: https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1600686289247?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d
   title: 	'TBA'
   abstract: 'TBA.'
   
 - date: 20 Nov 2020
   speaker: Olivier Fercoq (Télécom Paris, France)
   url: https://perso.telecom-paristech.fr/ofercoq/
+  teams: https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1600686289247?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d
   title: 	'TBA'
   abstract: 'TBA.'
   
 - date: 27 Nov 2020
   speaker: Konrad Polthier (FU Berlin, Germany)
   url: https://www.mi.fu-berlin.de/en/math/groups/ag-geom/people/members/polthier.html
+  teams: https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1600686289247?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d
   title: 	'TBA'
   abstract: 'TBA.'
   
 - date: 4 Dec 2020
   speaker: Tobias Weinzierl (Durham)
   url: https://www.dur.ac.uk/research/directory/staff/?mode=staff&id=12329
+  teams: https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1600686289247?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d
   title: 	'TBA'
   abstract: 'TBA.'
   
