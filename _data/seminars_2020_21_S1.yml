@@ -1,50 +1,61 @@
 - date: 2 Oct 2020
-  speaker: TBA
-  title: 	'TBA'
-  abstract: 'TBA.'
+  speaker: Pan Kessel (TU Berlin, Germany)
+  url: https://bifold.berlin/person/pan-kessel-ph-d/
+  teams: TBC
+  title: 	'Deep Generative Models in Lattice Field Theories'
+  abstract: 'Recent work has taken promising first steps towards an application of deep generative models in lattice field theories. In these approaches, deep generative models are used to generate field configurations. These configurations can then be used to estimate physical observables. In this talk, I will give a (hopefully) pedagogical overview of the subject. In particular, I will outline how these methods can be used to estimate observables which cannot directly be measured by MCMC methods.'
   
 - date: 9 Oct 2020
   speaker: Luca Zanetti (Bath)
+  url: https://www.cl.cam.ac.uk/~lz381/
   title: 	'TBA'
   abstract: 'TBA.'
   
 - date: 16 Oct 2020
   speaker: Yuji Nakatsukasa (Oxford)
+  url: https://people.maths.ox.ac.uk/nakatsukasa/
   title: 	'TBA'
   abstract: 'TBA.'
   
 - date: 23 Oct 2020
   speaker: Constantino Antonio García Martínez (University of Santiago de Compostela, Spain)
+  url: http://persoal.citius.usc.es/constantinoantonio.garcia/
   title: 	'TBA'
   abstract: 'TBA.'
   
 - date: 30 Oct 2020
   speaker: Christoph Brune (Twente, Netherlands)
+  url: https://people.utwente.nl/c.brune
   title: 	'TBA'
   abstract: 'TBA.'
   
 - date: 6 Nov 2020
   speaker: Silvia Gazzola (Bath)
+  url: https://people.bath.ac.uk/sg968/
   title: 	'TBA'
   abstract: 'TBA.'
   
 - date: 13 Nov 2020
   speaker: Andreas Langer (Stuttgart, Germany)
+  url: https://www.ians.uni-stuttgart.de/institute/team/Langer-00005/
   title: 	'TBA'
   abstract: 'TBA.'
   
 - date: 20 Nov 2020
   speaker: Olivier Fercoq (Télécom Paris, France)
+  url: https://perso.telecom-paristech.fr/ofercoq/
   title: 	'TBA'
   abstract: 'TBA.'
   
 - date: 27 Nov 2020
-  speaker: TBA
+  speaker: Konrad Polthier (FU Berlin, Germany)
+  url: https://www.mi.fu-berlin.de/en/math/groups/ag-geom/people/members/polthier.html
   title: 	'TBA'
   abstract: 'TBA.'
   
 - date: 4 Dec 2020
   speaker: Tobias Weinzierl (Durham)
+  url: https://www.dur.ac.uk/research/directory/staff/?mode=staff&id=12329
   title: 	'TBA'
   abstract: 'TBA.'
   
