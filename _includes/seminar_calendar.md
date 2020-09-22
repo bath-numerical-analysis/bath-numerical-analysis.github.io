@@ -1,14 +1,16 @@
 <details class="notice--info" >
   <summary>Seminar calendar</summary>
+<p>To add the NA seminar calendar to your outlook, please email <a href="{{ page.organiser_url }}">{{ page.organiser }}</a> (<font face="Courier"><a href="{{ page.organiser_email }}">{{ page.organiser_email }}</a></font>).</p>
+    
 <p>Subscribing to the calendar using other calendar clients
 </p>
  
-</p>If you use other calendars such as Apple’s iCalendar or Google calendar, you can subscribe to the NA calendar using this <a href="https://outlook.office365.com/owa/calendar/86a34f4eb2a44247b2984f4dff49e900@bath.ac.uk/f12ed49ea1e14e35bdf8f965fcf3a5611468698658714972533/calendar.ics">ICS link</a>. 
+<p>If you use other calendars such as Apple’s iCalendar or Google calendar, you can subscribe to the NA calendar using this <a href="https://outlook.office365.com/owa/calendar/86a34f4eb2a44247b2984f4dff49e900@bath.ac.uk/f12ed49ea1e14e35bdf8f965fcf3a5611468698658714972533/calendar.ics">ICS link</a>. 
 </p>
 
-</p>To subscribe to a calendar in iCalendar, please follow these <a href="https://support.apple.com/en-gb/guide/calendar/icl1022/mac">instructions</a>.</p>
+<p>To subscribe to a calendar in iCalendar, please follow these <a href="https://support.apple.com/en-gb/guide/calendar/icl1022/mac">instructions</a>.</p>
 
-</p>To subscribe to a calendar in Google Calendar:
+<p>To subscribe to a calendar in Google Calendar:
 <ol>
 <li>Go to <a href="calendar.google.com">link</a>.</li>
 <li>On the left side go to "Other Calendars" and click on the dropdown.</li>
