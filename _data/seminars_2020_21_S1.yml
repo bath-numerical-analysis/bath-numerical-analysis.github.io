@@ -9,8 +9,8 @@
   speaker: Luca Zanetti (Bath)
   url: https://www.cl.cam.ac.uk/~lz381/
   teams: https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1600686289247?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d
-  title: 	'TBA'
-  abstract: 'TBA.'
+  title: 	'Spectral methods for graph clustering, old and new'
+  abstract: 'Graph clustering is one of the fundamental problems of data science and network analysis. Informally, the aim of graph clustering is to partition a network into subsets (clusters) so that nodes belonging to the same cluster are better connected to one another than nodes belonging to different clusters. A popular approach to graph clustering is to use the eigenvectors of the graph Laplacian to embed the nodes of the network in Euclidean space, and then use a geometric clustering scheme, such as k-means, to partition these embedded nodes. This approach is called Spectral Clustering. In this talk I will survey my work on Spectral Clustering. In particular, I would like to highlight my contributions in bridging the gap between our theoretical and practical understanding of Spectral Clustering. Finally, I will introduce recent work aiming to generalise spectral techniques from undirected to directed networks.'
   
 - date: 16 Oct 2020
   speaker: Yuji Nakatsukasa (Oxford)
