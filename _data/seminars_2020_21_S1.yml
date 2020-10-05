@@ -16,8 +16,8 @@
   speaker: Yuji Nakatsukasa (Oxford)
   url: https://people.maths.ox.ac.uk/nakatsukasa/
   teams: https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1600686289247?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d
-  title: 	'TBA'
-  abstract: 'TBA.'
+  title: 	'Fast and stable randomized low-rank matrix approximation'
+  abstract: "Randomized SVD has become an extremely successful approach for efficiently computing a low-rank approximation of matrices. In particular the paper by Halko, Martinsson, and Tropp (SIREV 2011) contains extensive analysis, and has made it a very popular method. The typical complexity for a rank-r approximation of mxn matrices is O(mnlog n+(m+n)r^2) for dense matrices. The classical Nystrom method is much faster, but applicable only to positive semidefinite matrices. This work studies a generalization of Nystrom's method applicable to general matrices, and shows that (i) it has near-optimal approximation quality comparable to competing methods, (ii) the computational cost is the near-optimal O(mnlog n+r^3) for dense matrices, with small hidden constants, and (iii) crucially, it can be implemented in a numerically stable fashion despite the presence of an ill-conditioned pseudoinverse. Numerical experiments illustrate that generalized Nystrom can significantly outperform state-of-the-art methods, especially when r>>1, achieving up to a 10-fold speedup. The method is also well suited to updating and downdating the matrix."
   
 - date: 23 Oct 2020
   speaker: Constantino Antonio García Martínez (University of Santiago de Compostela, Spain)
