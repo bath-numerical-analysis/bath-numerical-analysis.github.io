@@ -23,8 +23,8 @@
   speaker: Constantino Antonio García Martínez (University of Santiago de Compostela, Spain)
   url: http://persoal.citius.usc.es/constantinoantonio.garcia/
   teams: https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1600686289247?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d
-  title: 	'TBA'
-  abstract: 'TBA.'
+  title: 	'Applications of Stochastic Differential Equations in Machine Learning'
+  abstract: 'Stochastic Differential Equations (SDEs, also known as Langevin equations) have been extensively used in many fields, including physics or finance, due to their ability to describe complex phenomena with physically interpretable equations. Intuitively, a SDE couples a deterministic trend with noisy fluctuations that introduce uncertainty in the evolution of the system, hence generalizing ordinary differential equations to the stochastic framework. Recently, the machine learning community has also recognized the modeling capabilites that SDEs offer, resulting in new exciting research. In this talk we will discuss two applications of SDEs to machine learning. First, we will discuss how SDEs can be applied to system identification problems where the observed number of variables is less than the degrees of freedom of the dynamics (which is linked to the physical problem of phase state reconstruction). Then, we will introduce approaches aiming to construct stochastic processes that can be used as distributions on functions.'
   
 - date: 30 Oct 2020
   speaker: Christoph Brune (Twente, Netherlands)
