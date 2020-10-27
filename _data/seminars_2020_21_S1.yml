@@ -30,8 +30,8 @@
   speaker: Christoph Brune (Twente, Netherlands)
   url: https://people.utwente.nl/c.brune
   teams: https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1600686289247?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d
-  title: 	'TBA'
-  abstract: 'TBA.'
+  title: 	'Learned SVD - Solving Inverse Problems via Hybrid Autoencoding'
+  abstract: 'Our world is full of model-driven data where effective mappings between data manifolds are desired. There is an increasing demand for understanding combined model- and data-driven methods. For example in data assimilation model discovery and learned model-order reduction gain importance. We propose a nonlinear, learned singular value decomposition (L-SVD), which combines autoencoders that simultaneously learn and connect latent codes for desired signals and given measurements. We provide a convergence analysis for a specifically structured L-SVD that acts as a regularisation method. In a more general setting, we investigate the topic of model reduction via data dimensionality reduction to obtain a regularised inversion. We present a promising direction for solving inverse problems in data-driven cases where the underlying models are not fully available or have complex structure. We show that the building blocks of learned inversion maps can be obtained automatically, with improved performance upon classical methods and better interpretability than black-box methods. Keywords: representation learning, manifold learning, inverse problems, regularization theory, model-order reduction, model learning, error estimation'
   
 - date: 6 Nov 2020
   speaker: Silvia Gazzola (Bath)
