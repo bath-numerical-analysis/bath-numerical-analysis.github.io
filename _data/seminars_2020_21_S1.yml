@@ -41,7 +41,7 @@
   abstract: 'In this talk we introduce new solvers for the computation of low-rank approximate solutions to large-scale linear problems, with a particular focus on the regularisation of linear inverse problems. By adopting an iteratively reweighted norm approach, the nuclear norm regularised problem is reformulated as a sequence of quadratic problems, which can then be efficiently solved using Krylov methods, giving rise to an inner-outer iteration scheme. Numerical experiments show that our new solvers are competitive with other state-of-the-art solvers for low-rank problems, and deliver reconstructions of increased quality with respect to other classical Krylov methods. This is a joint work with James Nagy and Chang Meng, both at Emory University, USA.'
   
 - date: 13 Nov 2020
-  speaker: Andreas Langer (Stuttgart, Germany)
+  speaker: Andreas Langer (Coventry)
   url: https://www.ians.uni-stuttgart.de/institute/team/Langer-00005/
   teams: https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1600686289247?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d
   title: 	'TBA'
