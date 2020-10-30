@@ -51,8 +51,8 @@
   speaker: Olivier Fercoq (Télécom Paris, France)
   url: https://perso.telecom-paristech.fr/ofercoq/
   teams: https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1600686289247?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d
-  title: 	'TBA'
-  abstract: 'TBA.'
+  title: 	'Random extrapolation for primal-dual coordinate descent'
+  abstract: 'We  introduce  a  randomly  extrapolated  primal-dual  coordinate  descent  method  that  adapts  to sparsity of the data matrix and the favorable structures of the objective function.  Our method updates only a subset of primal and dual variables with sparse data, and it uses large step sizes with dense data, retaining the benefits of the specific methods designed for each case.  In addition to adapting to sparsity, our method attains fast convergence guarantees in favorable cases without any modifications. In particular, we prove linear convergence under metric subregularity, which applies to strongly convex-strongly concave problems and piecewise linear quadratic functions. We show almost sure convergence of the sequence and optimal sublinear convergence rates for the primal-dual gap and objective values, in the general convex-concave case.  Numerical evidence demonstrates the state-of-the-art empirical performance of our method in sparse and dense settings, matching and improving the existing methods.'
   
 - date: 27 Nov 2020
   speaker: Konrad Polthier (FU Berlin, Germany)
