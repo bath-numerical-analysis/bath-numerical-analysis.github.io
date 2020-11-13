@@ -65,8 +65,10 @@
   speaker: Tobias Weinzierl (Durham)
   url: https://www.dur.ac.uk/research/directory/staff/?mode=staff&id=12329
   teams: https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1600686289247?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d
-  title: 	'TBA'
-  abstract: 'TBA.'
+  title: 	'ExaHyPE enclaves explained - about the ideas, vision and some algorithms behind the ExaHyPE software'
+  abstract: "This talk orbits around the ExaHyPE software; originally funded by an EU H2020 grant, used in several H2020/ERC projects, and today driven mainly by EPSRC's ExCALIBUR programme. ExaHyPE is an engine to write solvers for hyperbolic differential equations given in first order. Similar to graphics engines in computer games offering particular graphics types, it requires users to buy into a certain compute-n-feel: adaptive Cartesian meshes, ADER-DG with arbitrary high order, and particular algorithmic workflows. We call this the Hollywood principle - don't call us, we call you - as the user delegates the ownership of what computations are done when where to the engine. In return, ExaHyPE offers a clear separation of concerns, and allows users that prefer to focus on numerical modelling or the application domain to prototype massively parallel solvers with fancy computer science ingredients quickly.
+
+  This talk introduces the vision behind ExaHyPE and its key ingredients, before it introduces the idea of enclave tasking. Enclave tasking is a novel tasking workhorse which allows the engine - under the hood, i.e. totally hidden from the user - to obtain high single-node concurrency, to overlap expensive and low concurrency steps such as AMR or MPI data exchange with computations, to balance workload lightly between ranks or to realise a resilient code setup. We close the discussion with an outlook on upcoming features, shortcomings of the present software and a discussion of things we urgently miss within our core team and thus search for collaborators."
   
 - date: 11 Dec 2020
   speaker: TBA
