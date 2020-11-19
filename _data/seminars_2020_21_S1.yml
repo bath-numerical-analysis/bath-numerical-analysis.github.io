@@ -71,7 +71,7 @@
   This talk introduces the vision behind ExaHyPE and its key ingredients, before it introduces the idea of enclave tasking. Enclave tasking is a novel tasking workhorse which allows the engine - under the hood, i.e. totally hidden from the user - to obtain high single-node concurrency, to overlap expensive and low concurrency steps such as AMR or MPI data exchange with computations, to balance workload lightly between ranks or to realise a resilient code setup. We close the discussion with an outlook on upcoming features, shortcomings of the present software and a discussion of things we urgently miss within our core team and thus search for collaborators."
   
 - date: 11 Dec 2020
-  speaker: TBA
-  title: 	'TBA'
-  abstract: 'TBA.'
+  speaker: Joseph Friar, Tom Sales, Roxani Sofia, Darrah Kirkpatrick, Patrick Lavelle
+  title: 	'MMath YLP presentations'
+  abstract: 'Joseph Friar: Topics in landslide prediction, Tom Sales: Topics in Geometric Numerical Integration, Roxani Sofia, Darrah Kirkpatrick, Patrick Lavelle: Machine Learning and Differential Equations'
   
