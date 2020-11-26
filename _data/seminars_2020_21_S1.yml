@@ -58,8 +58,8 @@
   speaker: Konrad Polthier (FU Berlin, Germany)
   url: https://www.mi.fu-berlin.de/en/math/groups/ag-geom/people/members/polthier.html
   teams: https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1600686289247?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d
-  title: 	'TBA'
-  abstract: 'TBA.'
+  title: 	'New Shapes, New Materials and New Processes'
+  abstract: "The classic geometric view on smooth surfaces hardly fits to the complex and often multiscale physical shapes in nature and, nowadays, in industrial applications. In this talk we will highlight new classes of multi-layered surface shapes derived from recent algorithms in geometry processing and related to classic complex analysis. Multivalued functions and differential forms naturally lead to the concept of branched covering surfaces and more generally of branched covering manifolds in the spirit of Hermann Weyl's book The Idea of a Riemann Surface' from 1913. We will illustrate and discretize basic concepts of branched (simplicial) covering surfaces starting from complex analysis and surface theory up to their recent appearance in geometry processing algorithms and artistic mathematical designs. Applications will touch discrete and differential surface modeling, image and geometry retargeting, optimal surfaces, and novel weaved shape representations."
   
 - date: 4 Dec 2020
   speaker: Tobias Weinzierl (Durham)
