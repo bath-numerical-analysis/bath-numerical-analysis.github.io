@@ -2,8 +2,8 @@
   speaker: Alberto Paganini (Leicester)
   url: https://www2.le.ac.uk/departments/mathematics/extranet/staff-material/staff-profiles/alberto-paganini
   teams: https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1600686289247?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d
-  title: 	'TBC'
-  abstract: 'TBC'
+  title: Automated shape optimization with finite elements
+  abstract: Shape optimization studies how to design a domain such that a shape function is minimized. Ubiquitous in industrial applications, shape optimization is often constrained to partial differential equations (PDEs). In such instances, deriving shape derivative formulas by hand and coupling domain updates with PDE-solvers can be challenging, if not discouraging. In this talk, we give a gentle introduction to shape optimization and illustrate how finite element techniques allow automating shape optimization and hence tackling challenging PDE-constrained problems with ease.
 
 - date: 12 Feb 2021
   speaker: Ronald Morgan (Baylor University, US)
