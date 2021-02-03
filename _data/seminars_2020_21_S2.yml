@@ -10,8 +10,8 @@
   inred: 'different time: 2:15 pm'
   url: https://www.baylor.edu/math/index.php?id=54013
   teams: https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1600686289247?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d
-  title: 	'TBC'
-  abstract: 'TBC'
+  title: Solving Large Systems of Linear Equations or Monster Matrices and How to Care for Them
+  abstract: We look at Krylov methods for solving large systems of linear equations. Convergence theory will be given in a hopefully easy way to understand, at least for people who like surfing. Then deflating eigenvalues is mentioned, and deflation is used in a two-grid BiCGStab method. Also, a new stable polynomial preconditioning approach will be given. Next, Krylov methods are developed for rank-one updated systems and maybe there will be time to apply this to singular matrices. Bears will be mentioned along the way including a certain English bear named Winnie. However, no animals will be harmed by this talk except for the feelings of a certain giraffe. 
 
 - date: 19 Feb 2021
   speaker: Leon Bungert (Erlangen, Germany)
