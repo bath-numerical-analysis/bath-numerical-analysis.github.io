@@ -17,8 +17,8 @@
   speaker: Leon Bungert (Erlangen, Germany)
   url: https://sites.google.com/view/leon-bungert
   teams: https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1612172995109?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d
-  title: 	'TBC'
-  abstract: 'TBC'
+  title: 	Continuum Limit for Lipschitz Learning on Graphs
+  abstract: In semi-supervised learning one is confronted with a large set of data points, only very few of which are labelled. The task is to find a labelling function which extends these labels to the whole data set. In order to find useful labelling functions, in graph-based semi-supervised learning one represents the data set as weighted graph and poses a smoothness constraint on the labelling function. In this context p-Laplacian learning has become very popular and consists in finding a p-harmonic function which coincides with labels on the labelled set. However, this method is asymptotically ill-posed if p is smaller than the dimension of the data space, and is not feasible for most applications. In this work, I will therefore speak about Lipschitz-learning which aims to find a Lipschitz-extension of the labels and is well-posed in arbitrary dimension. The main result is a discrete-to-continuum limit of Lipschitz-extensions as the data set grows to a continuum. Our theory uses Gamma-convergence and Hausdorff convergence of the data set. As a by-product we obtain a continuum limit for a nonlinear eigenvalue problem related to geodesic distance functions. 
   
 - date: 26 Feb 2021
   speaker: Rob Scheichl (Heidelberg, Germany)
