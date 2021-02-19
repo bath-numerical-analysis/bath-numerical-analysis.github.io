@@ -26,8 +26,8 @@
   speaker: Rob Scheichl (Heidelberg, Germany)
   url: https://ganymed.math.uni-heidelberg.de/~rscheichl/
   teams: https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1612172995109?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d
-  title: 	'TBC'
-  abstract: 'TBC'
+  title: Optimal local approximation spaces for generalized finite element methods
+  abstract: In this talk, I present new optimal local approximation spaces for the generalized finite element method for solving second order elliptic equations with rough coefficients, which are based on local eigenvalue problems involving the partition of unity. In addition to a nearly exponential decay rate of the local approximation error with respect to the dimension of the local spaces, I also give the rate of convergence with respect to the size of the oversampling region. To reduce the computational cost of the method, an efficient and easy-to-implement technique for generating the necessary discrete A-harmonic spaces is proposed. Numerical experiments are presented to support the theoretical analysis and confirm the effectiveness of the method. This is joint work with Chupeng Ma (Heidelberg).
   
 - date: 5 Mar 2021
   speaker: Dante Kalise (Nottingham)
