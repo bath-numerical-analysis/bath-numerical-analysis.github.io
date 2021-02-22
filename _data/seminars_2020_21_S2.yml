@@ -33,8 +33,9 @@
   speaker: Dante Kalise (Nottingham)
   url: https://sites.google.com/view/dkalise
   teams: https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1612172995109?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d
-  title: 	'TBC'
-  abstract: 'TBC'
+  title: Synthetic data-driven methods for approximating high-dimensional Hamilton-Jacobi PDEs
+  abstract: "Hamilton-Jacobi PDEs are central in control and differential games, enabling the computation of optimal control laws expressed in feedback form. High-dimensional HJ PDEs naturally arise in the feedback synthesis for high-dimensional control systems, and their numerical solution must be sought outside the framework provided by standard grid-based discretizations methods. 
+  In this talk, I will discuss the construction of causality-free, data-driven methods for the approximation of high-dimensional HJ PDEs. I will address the generation of a synthetic dataset based on the use of representation formulas (such as Lax-Hopf or Pontryagin's Maximum Principle), which is then fed into a high-dimensional sparse polynomial/ANN model for training. The use of representation formulas providing gradient information is fundamental to increase the data efficiency of the method. I will present applications in nonlinear dynamics, control of PDEs, and agent-based models."
 
 - date: 12 Mar 2021
   speaker: Eike Mueller (Bath)
