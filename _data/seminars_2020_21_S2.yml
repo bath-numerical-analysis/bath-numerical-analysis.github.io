@@ -41,8 +41,12 @@
   speaker: Eike Mueller (Bath)
   url: https://people.bath.ac.uk/em459/
   teams: https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1612172995109?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d
-  title: 	'TBC'
-  abstract: 'TBC'
+  title: Multilevel Monte Carlo for quantum mechanics on a lattice
+  abstract: "Monte Carlo simulations of quantum field theories on a lattice become increasingly expensive as the continuum limit is approached since the cost per independent sample grows with a high power of the inverse lattice spacing. Simulations on fine lattices suffer from critical slowdown, the rapid growth of autocorrelations in the Markov chain with decreasing lattice spacing a. This causes a strong increase in the number of lattice configurations that have to be generated to obtain statistically significant results. We discuss hierarchical sampling methods to tame this growth in autocorrelations; combined with multilevel variance reduction techniques, this significantly reduces the computational cost of simulations.
+ 
+We recently demonstrated the efficiency of this approach for two non-trivial model systems in quantum mechanics in https://arxiv.org/abs/2008.03090. This includes a topological oscillator, which is badly affected by critical slowdown due to freezing of the topological charge. On fine lattices our methods are several orders of magnitude faster than standard, single level sampling based on Hybrid Monte Carlo. For very high resolutions, multilevel Monte Carlo can be used to accelerate even the cluster algorithm, which is known to be highly efficient for the topological oscillator. Performance is further improved through perturbative matching. This guarantees efficient coupling of theories on the multilevel lattice hierarchy, which have a natural interpretation in terms of effective theories obtained by renormalisation group transformations.
+ 
+At the end I will also present some very recent results on how the methods can be extended to a two dimensional lattice gauge theory, namely the 2d Schwinger model, a simplified toy model for quantum electrodynamics."
   
 - date: 19 Mar 2021
   speaker: Milvia Rossini (Bicocca, Milano, Italy)
