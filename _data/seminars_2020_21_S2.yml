@@ -59,8 +59,8 @@ At the end I will also present some very recent results on how the methods can b
   speaker: Tiangang Cui (Monash University, Australia)
   url: https://www.fastfins.org/
   teams: https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1612172995109?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d
-  title: 	'TBC'
-  abstract: 'TBC'
+  title: 	Intrinsic subspaces of high-dimensional inverse problems and where to find them
+  abstract: The high-dimensionality is a central challenge faced by many numerical methods for solving large-scale Bayesian inverse problems. In this talk, we will present some old and new developments in the identification of low-dimensional subspaces that offer a viable path to alleviating this dimensionality barrier. Utilising concentration inequalities, we are able to identify the intrinsic subspaces from the solutions of certain eigenvalue problems and derive corresponding dimension-truncation error bounds. The resulting low-dimensional subspace enables the design of inference algorithms that can scale sub-linearly with the apparent dimensionality of the problem.
   
 - date: 16 Apr 2021
   speaker: James Foster (Oxford)
