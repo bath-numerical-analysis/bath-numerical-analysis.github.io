@@ -66,8 +66,8 @@ At the end I will also present some very recent results on how the methods can b
   speaker: James Foster (Oxford)
   url: https://www.maths.ox.ac.uk/people/james.foster
   teams: https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1612172995109?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d
-  title: 	'TBC'
-  abstract: 'TBC'
+  title: 	High order numerical simulation of the underdamped Langevin diffusion
+  abstract: The underdamped Langevin diffusion (ULD) is an important model in statistical mechanics and has recently seen applications in data science for sampling from high-dimensional distributions. In this talk, I will present a new approach to the numerical approximation of ULD. Our strategy is to first reduce the underdamped Langevin SDE to a comparable ODE, before then applying an appropriate ODE solver. For strongly convex potentials with Lipschitz continuous derivatives, we show that this ODE approximation is ergodic and obtain non-asymptotic estimates for the 2-Wasserstein error of its stationary distribution. Moreover, by discretizing this ODE using a third order Runge-Kutta method, we obtain a practical method that uses just two additional gradient evaluations per step. When applied to a logistic regression problem, this method empirically shows a third order convergence rate and outperforms other ULD-based sampling algorithms.
   
 - date: 23 Apr 2021
   speaker: Sergey Dolgov (Bath)
