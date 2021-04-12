@@ -76,8 +76,8 @@ At the end I will also present some very recent results on how the methods can b
   speaker: Yuya Suzuki (NTNU, Norway)
   url: https://www.ntnu.edu/employees/yuya.suzuki
   teams: https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1612172995109?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d
-  title: 	'TBC'
-  abstract: 'TBC'
+  title: 	'Rank-1 and rank-r lattices combined with operator splitting for time-dependent Schrödinger equations'
+  abstract: 'In this talk, we use lattice points combined with operator splitting for numerically solving time-dependent Schrödinger equations. Here "lattice points" refers to a specific point set coming from the context of quasi-Monte Carlo methods. We propose a Fourier pseudospectral method on lattice points combined with operator splitting, and we prove that our method converges with the desired order of splitting method, given that the potential function is in a Korobov space with a certain smoothness which is independent of the dimension of the problem. We conduct numerical experiments in various settings. Comparing with the sparse grid method, our method is shown to be more efficient. Even in higher dimensions and with higher-order splitting schemes, our method shows stable and higher-order convergence numerically. One of the essential tasks here is to compute the Fourier transform and the inverse transform repeatedly in a higher-dimensional space for simulating the time-stepping operator of the time-dependent Schrödinger equation in a stable manner. Our proposed method solves this task efficiently.'
   
 - date: 7 May 2021
   speaker: Jarrod Williams (Bath)
