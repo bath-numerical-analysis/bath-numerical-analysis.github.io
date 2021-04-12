@@ -69,8 +69,10 @@ At the end I will also present some very recent results on how the methods can b
   speaker: Sergey Dolgov (Bath)
   url: https://people.bath.ac.uk/sd901/
   teams: https://teams.microsoft.com/l/meetup-join/19%3ad8aa162230c14a67a10243ac2f75d98d%40thread.tacv2/1612172995109?context=%7b%22Tid%22%3a%22377e3d22-4ea1-422d-b0ad-8fcc89406b9e%22%2c%22Oid%22%3a%22ca31603c-bea1-49a9-9542-de84a57ad77c%22%7d
-  title: 	'TBC'
-  abstract: 'TBC'
+  title: 	Deep tensor decompositions for sampling from high-dimensional distributions
+  abstract: 'Characterising intractable high-dimensional random variables is one of the fundamental challenges in stochastic computation, for example, in the solution of Bayesian inverse problems. The recent surge of transport maps offers a mathematical foundation and new insights for tackling this challenge by coupling intractable random variables with tractable reference random variables.
+
+In this talk I will present a nested coordinate transformation framework inspired by deep neural networks but driven by functional tensor-train approximation of tempered probability density functions instead. This bypasses slow gradient descent optimisation by a direct inverse Rosenblatt transformation. The resulting deep inverse Rosenblatt transport significantly expands the capability of tensor approximations and transport maps to random variables with complicated nonlinear interactions and concentrated density functions. We demonstrate the efficiency of the proposed approach on a range of applications in uncertainty quantification, including parameter estimation for dynamical systems and inverse problems constrained by partial differential equations.'
   
 - date: 30 Apr 2021
   speaker: Yuya Suzuki (NTNU, Norway)
