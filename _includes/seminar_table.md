@@ -39,6 +39,10 @@
 
   <td style="text-align:left"> {% if X.teams %}<a href="{{X.teams}}"><font color="red">Teams</font></a>
    {% endif %}  
+       {% if X.zoom %}<a href="https://bath-ac-uk.zoom.us/j/96792674191?pwd=eWhGT2lNcjU0NnBuVmY1WGJkNXliZz09" alt="Meeting ID: 967 9267 4191; Passcode: 101433
+">
+   <font color="red">Zoom</font></a> {% endif %}
+
   {% if X.abstract %}
   <details>  
   <summary>
@@ -51,14 +55,12 @@
    </p>
     </details>
  {% else %}
-  {% if X.inred %} <font color="red"> {{ X.inred }} </font>   {% endif%}
-  {% if X.title %} {{X.title}} {% endif %}
-  {% if X.teams %}<a href="{{X.teams}}">
-   <font color="red">Teams</font></a> {% endif %}
-     {% if X.zoom %}<a href="https://bath-ac-uk.zoom.us/j/96792674191?pwd=eWhGT2lNcjU0NnBuVmY1WGJkNXliZz09" alt="Meeting ID: 967 9267 4191; Passcode: 101433
-">
-   <font color="red">Zoom</font></a> {% endif %}
-  {% endif %} </td>
+  {% if X.inred %} <font color="red"> {{ X.inred }} </font>   {% endif %}
+
+    {% if X.title %} <br /> {{X.title}} {% endif %}
+  {% endif %}
+  </td>
+
   </tr>
 {% endfor %}
 </tbody>
