@@ -11,8 +11,48 @@
   speaker: Kristian Bredies (University of Graz, Austria)
   url: https://imsc.uni-graz.at/bredies/index.html
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Dynamic inverse problems in spaces of measures with optimal-transport
+regularization
+  abstract: 'We discuss the solution of dynamic inverse problems in which for each
+time point, a time-dependent linear forward operator mapping the space
+of measures to a time-dependent Hilbert space has to be
+inverted. These problems are regularized with dynamic
+optimal-transport energies that base on the continuity equation as
+well as convex functionals of Benamou-Brenier-type. Well-posedness of
+respective Tikhonov minimization is discussed in detail. Further, for
+the purpose of deriving properties of the solutions as well as
+numerical algorithms, we present sparsity results for general inverse
+problems that are connected with the extremal points of the
+Benamou-Brenier energy subject to the continuity equation. For the
+latter, it is proven that the extremal points are realized by point
+masses moving along curves with Sobolev regularity. This result will
+be employed in numerical optimization algorithms of generalized
+conditional gradient type. We present instances of this algorithm that
+are tailored towards dynamic inverse problems associated with point
+tracking. Finally, the application and numerical performance of the
+method is demonstrated for sparse dynamic superresolution.
+
+This is joint work with Marcello Carioni, Silvio Fanzon and Francisco Romero.
+
+References:
+
+[1] Kristian Bredies, Silvio Fanzon. An optimal transport approach for
+solving dynamic inverse problems in spaces of
+measures. ESAIM: Mathematical Modelling and Numerical Analysis,
+54(6):2351-2382, 2020.
+
+[2] Kristian Bredies, Marcello Carioni. Sparsity of solutions for
+variational inverse problems with finite-dimensional
+data. Calculus of Variations and Partial Differential Equations, 59:14,
+2020.
+
+[3] Kristian Bredies, Marcello Carioni, Silvio Fanzon, Francisco
+Romero. On the extremal points of the ball of the Benamou-Brenier
+energy. Bulletin of the London Mathematical Society, 2021.
+
+[4] Kristian Bredies, Marcello Carioni, Silvio Fanzon and Francisco
+Romero. A generalized conditional gradient method for dynamic inverse
+problems with optimal transport regularization. arXiv:2012.11706, 2020.'
   
 - date: 22 Oct 2021
   speaker: Jingwei Liang (Shanghai Jiao Tong University, China)
