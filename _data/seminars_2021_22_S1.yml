@@ -11,8 +11,7 @@
   speaker: Kristian Bredies (University of Graz, Austria)
   url: https://imsc.uni-graz.at/bredies/index.html
   zoom: 1
-  title: Dynamic inverse problems in spaces of measures with optimal-transport
-regularization
+  title: Dynamic inverse problems in spaces of measures with optimal-transport regularization
   abstract: 'We discuss the solution of dynamic inverse problems in which for each
 time point, a time-dependent linear forward operator mapping the space
 of measures to a time-dependent Hilbert space has to be
