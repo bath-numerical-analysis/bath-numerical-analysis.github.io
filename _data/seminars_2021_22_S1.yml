@@ -57,8 +57,8 @@ problems with optimal transport regularization. arXiv:2012.11706, 2020.'
   speaker: Jingwei Liang (Shanghai Jiao Tong University, China)
   url: https://jliang993.github.io/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: A framework for analyzing variance reduced stochastic gradient methods and a new one
+  abstract: Over the past years, variance reduced stochastic gradient methods have become increasingly popular, not only in the machine learning community, but also other areas including inverse problems and mathematical imaging to name a few. However, despite the varieties of variance reduced stochastic gradient descent methods, their analysis varies from each other. In this talk, I will first present a unified framework, under which we manage to abstract different variance reduced stochastic gradient methods into one. Then I will introduce a new stochastic method for composed optimization problems, and illustrate its performance via several imaging problems.
   
 - date: 29 Oct 2021
   speaker: Sebastian Banert (Lund, Sweden)
