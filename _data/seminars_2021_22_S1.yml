@@ -62,10 +62,16 @@ problems with optimal transport regularization. arXiv:2012.11706, 2020.'
   
 - date: 29 Oct 2021
   speaker: Sebastian Banert (Lund, Sweden)
-  url: TBC
+  url: https://www.youtube.com/channel/UCYLLUL0SpmPeAhaXaBlug5g
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Deep Learning for convex optimisation (and beyond)
+  abstract: We present ideas how to create neural networks which are especially adapted to solve convex optimisation problems. The idea is that (contrary to classical approaches) we are less interested in worst-case performance than to adapt an algorithm to a specific class of problems which will be solved multiple times and each instance has a limited computational budget. Such problems typically appear in, e.g., the field of inverse problems.
+
+The first part of the presentation will deal with how standard first-order algorithms can be interpreted as neural networks and how deep learning can help in finding a robust choice for the parameters for the method. The second part will present an approach how to enlarge the space of parameters by introducing deviations with the intention to allow to get first-order information at points where it is as useful at possible. Both approaches have in common that we will restrict the parameter space so that the resulting algorithm will be convergent regardless of the outcome of the deep learning. This aims to give robustness in case that the training data does not exactly match the real data and to avoid overfitting.
+
+The last part will be an outlook to some unpublished work on monotone inclusions (which generalise convex optimisation problems) and on the combination of deterministically accelerated methods in the spirit of Nesterov with the aforementioned deep learning techniques.
+
+The presentation includes joint work with Jonas Adler, Pontus Giselsson, Martin Morin, Ozan Öktem, Jevgenija Rudzusika, and Hamed Sadeghi.
   
 - date: 5 Nov 2021
   speaker: Jemma Shipton (Exeter)
