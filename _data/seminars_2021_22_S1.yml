@@ -77,8 +77,8 @@ problems with optimal transport regularization. arXiv:2012.11706, 2020.'
   speaker: Jemma Shipton (Exeter)
   url: https://emps.exeter.ac.uk/mathematics/staff/js1075
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Compatible finite element methods and parallel-in-time schemes for numerical weather prediction
+  abstract: 'I will describe Gusto, a dynamical core toolkit built on top of the Firedrake finite element library; present recent results from a range of test cases and outline our plans for the development of time-parallel algorithms. Gusto uses compatible finite element methods, a form of mixed finite ele- ment method (meaning that different finite element spaces are used for different fields) that allow the exact representation of the standard vector calculus identi- ties div-curl=0 and curl-grad=0. The popularity of these methods for numerical weather prediction is due to the flexibility to run on non-orthogonal grids, thus avoiding the communication bottleneck at the poles, while retaining the neces- sary convergence and wave propagation properties required for accuracy. Although the flexibility of the compatible finite element spatial discretisation improves the parallel scalability of the model, it does not solve the parallel scal- ability problem inherent in the sequential timestepping: we need to find a way to perform parallel computations in the time domain. Exponential integrators, approximated by a near-optimal rational expansion, offer a way to take large timesteps and form the basis for parallel timestepping schemes based on wave averaging. I will describe the progress we have made towards implementing these schemes in Gusto.'
   
 - date: 12 Nov 2021
   speaker: Tony Shardlow (Bath)
