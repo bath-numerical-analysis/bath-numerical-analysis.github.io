@@ -84,15 +84,15 @@ problems with optimal transport regularization. arXiv:2012.11706, 2020.'
   speaker: Tony Shardlow (Bath)
   url: https://people.bath.ac.uk/tjs42/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Contaminant dispersal, numerical simulation, and stochastic PDEs
+  abstract: Atmospheric dispersal of ash and other contaminants are modelled by stochastic differential equations coupled to a large-scale weather model. We develop this model as used by the UK Met Office and discuss its numerical approximation. We show how a splitting method can be used to substantially improve the numerical simulation and justify this approach with a backward error analysis. We conclude the talk with a stochastic PDE description of the large-scale behaviour of such particle models, known as the Dean Kawasaki model, and show how this stochastic PDE can be approximated numerically.
   
 - date: 19 Nov 2021
   speaker: Alex Bespalov (Birmingham)
   url: http://web.mat.bham.ac.uk/A.Bespalov/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Hierarchical a posteriori error estimators and adaptive stochastic finite element methods
+  abstract: We present a framework for a posteriori error estimation in the FEM-based approximations of partial differential equations (PDEs) with parametric or uncertain inputs. The underlying hierarchical a posteriori error estimates are useful not only for assessing approximation errors, they also provide practical error indicators for guiding adaptive refinement strategies. I will start by introducing the framework and the associated adaptive algorithm in the context of multilevel stochastic Galerkin finite element methods, where approximations are represented as finite (sparse) generalised polynomial chaos expansions with spatial coefficients residing in finite element spaces (this representation allows for independent local refinement of finite element approximations for different spatial coefficients). We will discuss the convergence and rate optimality properties of the proposed adaptive algorithm and demonstrate its performance in numerical experiments for PDE problems with affine-parametric coefficients. I will then show how this framework of error estimation and adaptivity can be applied in a non-Galerkin setting of stochastic collocation FEM (a sampling technique based on multivariable interpolation of the discrete solutions sampled at nodes of a sparse grid), in particular, for PDE problems with non-affine parametric coefficient dependence.
   
 - date: 26 Nov 2021
   speaker: Lisa Maria Kreusser (Bath)
