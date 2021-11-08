@@ -83,7 +83,7 @@ problems with optimal transport regularization. arXiv:2012.11706, 2020.'
 - date: 12 Nov 2021
   speaker: Tony Shardlow (Bath)
   url: https://people.bath.ac.uk/tjs42/
-  zoom: 1
+  inred: in-person (4 West Wolfson 1.7)
   title: Contaminant dispersal, numerical simulation, and stochastic PDEs
   abstract: Atmospheric dispersal of ash and other contaminants are modelled by stochastic differential equations coupled to a large-scale weather model. We develop this model as used by the UK Met Office and discuss its numerical approximation. We show how a splitting method can be used to substantially improve the numerical simulation and justify this approach with a backward error analysis. We conclude the talk with a stochastic PDE description of the large-scale behaviour of such particle models, known as the Dean Kawasaki model, and show how this stochastic PDE can be approximated numerically.
   
