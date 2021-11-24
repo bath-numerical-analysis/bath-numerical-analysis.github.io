@@ -98,26 +98,22 @@ problems with optimal transport regularization. arXiv:2012.11706, 2020.'
   speaker: Lisa Maria Kreusser (Bath)
   url: https://people.bath.ac.uk/lmk54/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Wasserstein GANs Work Because They Fail (to Approximate the Wasserstein Distance)
+  abstract: Wasserstein GANs are based on the idea of minimising the Wasserstein distance between a real and a generated distribution. After an introduction to the Wasserstein distance and Wasserstein GANs, I will present both theoretical and empirical evidence that the Wasserstein GAN loss is not a meaningful approximation of the Wasserstein distance. Moreover, the Wasserstein distance may not even be a desirable loss function for deep generative models, and the success of Wasserstein GANs can be attributed to a failure to approximate the Wasserstein distance. This is joint work with Jan Stanczuk, Christian Etmann and Carola-Bibiane Schönlieb.
   
 - date: 3 Dec 2021
   speaker: Matthew Griffith (Bath)
   url: https://researchportal.bath.ac.uk/en/persons/matthew-griffith
-  zoom: 1
+  inred: in-person (4 West Wolfson 1.7)
   title: TBC
   abstract: TBC
   
 - date: 10 Dec 2021
   speaker: Jacob Byrne, Sam Cook, Alexandros Gonos, Danny Goodacre, Tom Ryan
   url: TBC
-  zoom: 1
+  inred: in-person (4 West Wolfson 1.7)
   title: Year-Long-Project student presentatations
   abstract: TBC
   
 - date: 17 Dec 2021
   speaker: no seminar
-  url: n/a
-  zoom: 1
-  title: n/a
-  abstract: n/a
