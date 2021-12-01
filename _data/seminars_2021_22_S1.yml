@@ -104,9 +104,10 @@ problems with optimal transport regularization. arXiv:2012.11706, 2020.'
 - date: 3 Dec 2021
   speaker: Matthew Griffith (Bath)
   url: https://researchportal.bath.ac.uk/en/persons/matthew-griffith
-  inred: in-person (4 West Wolfson 1.7)
-  title: TBC
-  abstract: TBC
+  zoom: 1
+  inred: hybrid, in-person (4 West Wolfson 1.7) and zoom
+  title: Accelerating climate- and weather-forecasts with faster multigrid solvers
+  abstract: Successful operational weather forecasting at the Met Office relies on obtaining an accurate solution to a very large system of equations in a timely manner. It is therefore crucial that the solver algorithm is fast and efficient, as this can account for 25 - 50% of model runtime. For its next-generation forecast model – codenamed LFRic – the Met Office is investigating a so called “hybridised” solver algorithm, which shows its full potential when combined with multigrid techniques. I will introduce both the hybridisation and multigrid techniques on simplified problems, comparing and contrasting these with the current solver algorithm used in the Met Office model. I will talk about how this is generalised to the full model and present results from this comparing several solver algorithm configurations. Finally, I will discuss possible optimisations which can be made to decrease the time to solution for the hybridised multigrid solver algorithm.
   
 - date: 10 Dec 2021
   speaker: Jacob Byrne, Sam Cook, Alexandros Gonos, Danny Goodacre, Tom Ryan
