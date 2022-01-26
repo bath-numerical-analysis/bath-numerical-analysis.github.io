@@ -5,5 +5,5 @@ research: Tomographic inverse problems, Sparse regularisation and optimisation, 
 homepage: https://people.bath.ac.uk/tab73/
 pic: bubba.jpg
 units: MA40050
-topics: de ip uq
+topics: ip 
 ---
