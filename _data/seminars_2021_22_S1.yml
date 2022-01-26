@@ -83,7 +83,7 @@ problems with optimal transport regularization. arXiv:2012.11706, 2020.'
 - date: 12 Nov 2021
   speaker: Tony Shardlow (Bath)
   url: https://people.bath.ac.uk/tjs42/
-  zoom: 1
+  inred: in-person (4 West Wolfson 1.7)
   title: Contaminant dispersal, numerical simulation, and stochastic PDEs
   abstract: Atmospheric dispersal of ash and other contaminants are modelled by stochastic differential equations coupled to a large-scale weather model. We develop this model as used by the UK Met Office and discuss its numerical approximation. We show how a splitting method can be used to substantially improve the numerical simulation and justify this approach with a backward error analysis. We conclude the talk with a stochastic PDE description of the large-scale behaviour of such particle models, known as the Dean Kawasaki model, and show how this stochastic PDE can be approximated numerically.
   
@@ -98,26 +98,23 @@ problems with optimal transport regularization. arXiv:2012.11706, 2020.'
   speaker: Lisa Maria Kreusser (Bath)
   url: https://people.bath.ac.uk/lmk54/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Wasserstein GANs Work Because They Fail (to Approximate the Wasserstein Distance)
+  abstract: Wasserstein GANs are based on the idea of minimising the Wasserstein distance between a real and a generated distribution. After an introduction to the Wasserstein distance and Wasserstein GANs, I will present both theoretical and empirical evidence that the Wasserstein GAN loss is not a meaningful approximation of the Wasserstein distance. Moreover, the Wasserstein distance may not even be a desirable loss function for deep generative models, and the success of Wasserstein GANs can be attributed to a failure to approximate the Wasserstein distance. This is joint work with Jan Stanczuk, Christian Etmann and Carola-Bibiane Schönlieb.
   
 - date: 3 Dec 2021
   speaker: Matthew Griffith (Bath)
   url: https://researchportal.bath.ac.uk/en/persons/matthew-griffith
   zoom: 1
-  title: TBC
-  abstract: TBC
+  inred: hybrid, in-person (4 West Wolfson 1.7) and zoom
+  title: Accelerating climate- and weather-forecasts with faster multigrid solvers
+  abstract: Successful operational weather forecasting at the Met Office relies on obtaining an accurate solution to a very large system of equations in a timely manner. It is therefore crucial that the solver algorithm is fast and efficient, as this can account for 25 - 50% of model runtime. For its next-generation forecast model – codenamed LFRic – the Met Office is investigating a so called “hybridised” solver algorithm, which shows its full potential when combined with multigrid techniques. I will introduce both the hybridisation and multigrid techniques on simplified problems, comparing and contrasting these with the current solver algorithm used in the Met Office model. I will talk about how this is generalised to the full model and present results from this comparing several solver algorithm configurations. Finally, I will discuss possible optimisations which can be made to decrease the time to solution for the hybridised multigrid solver algorithm.
   
 - date: 10 Dec 2021
   speaker: Jacob Byrne, Sam Cook, Alexandros Gonos, Danny Goodacre, Tom Ryan
   url: TBC
-  zoom: 1
+  inred: in-person (4 West Wolfson 1.7)
   title: Year-Long-Project student presentatations
   abstract: TBC
   
 - date: 17 Dec 2021
   speaker: no seminar
-  url: n/a
-  zoom: 1
-  title: n/a
-  abstract: n/a
