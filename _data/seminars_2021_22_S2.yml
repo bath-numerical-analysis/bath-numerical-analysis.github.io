@@ -2,8 +2,14 @@
   speaker: Gianluca Frasca-Caccia (Salerno)
   url: TBC
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Bespoke preservation of local conservation laws
+  abstract: The main goal of geometric integration is to reproduce, in a numerical approximation, key geometric properties of a given continuous differential problem. In the numerical treatment of partial differential equations, the benefits of conserving global integral invariants are well-known. Preserving the underlying local conservation laws gives, in general, a stricter constraint. Recently, a new approach has been introduced to develop bespoke finite difference schemes that preserve conservation laws. The schemes obtained in this way typically feature certain free parameters that can be arbitrarily chosen.
+
+The first part of the talk illustrates the new approach and its application to the Korteweg-de Vries equation. Numerical tests are presented to compare the obtained schemes and other integrators known in literature. 
+The experiments show that a convenient choice of the parameters yields to very accurate approximations. However, the parameters' optimal values are not available a priori and depend heavily on the initial conditions. 
+A new procedure for identifying their optimal values is introduced in the second part of the talk. The effectiveness and efficiency of the new strategy is tested. 
+The last part of the talk shows recent advances on the efficient solution of highly oscillatory problems.
+
   
 - date: 18 Feb 2022
   speaker: Tobias Jawecki (TU Vienna)
