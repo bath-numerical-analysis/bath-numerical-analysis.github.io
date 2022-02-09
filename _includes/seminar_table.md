@@ -39,7 +39,7 @@
 
   <td style="text-align:left"> {% if X.teams %}<a href="{{X.teams}}"><font color="red">Teams</font></a>
    {% endif %}  
-       {% if X.zoom %}<a href="https://bath-ac-uk.zoom.us/j/96792674191?pwd=eWhGT2lNcjU0NnBuVmY1WGJkNXliZz09" alt="Meeting ID: 967 9267 4191; Passcode: 101433
+       {% if X.zoom %}<a href="https://bath-ac-uk.zoom.us/j/99705137436?pwd=RTFwN1pEc1VMV01OMzlEWGpwRjFlZz09" alt="Meeting ID: 997 0513 7436; Passcode: 448307
 ">
    <font color="red">Zoom</font></a> {% endif %}
 
