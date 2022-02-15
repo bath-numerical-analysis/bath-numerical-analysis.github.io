@@ -18,8 +18,8 @@
   speaker: Tobias Jawecki (TU Vienna)
   url: https://tu-d.tuwien.ac.at/students/tobias_jawecki/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Krylov subspace approximations to the action of unitary matrix exponentials 
+  abstract: 'Defect-based a~posteriori error estimates for the polynomial Krylov approximation to the action of unitary matrix exponentials (i.e. exponentials of skew-Hermitian matrices) are discussed. Furthermore, a priori convergence results such as the near-best approximation property in the class of polynomial approximations are recalled. The performance of approximations to the action of matrix functions depends on the matrix spectrum and spectral coefficients of the initial vector. Based on properties of Gaussian-quadrature formulae, Krylov subspace techniques provide piecewise estimates on these quantities, and can be further used to classify the underlying problems. For the action of the matrix exponential, this approach is applied to discuss problems for which rational Krylov approximations potentially outperform polynomial Krylov approximations.'
   
 - date: 25 Feb 2022
   speaker: Sheehan Olver (Imperial College London)
