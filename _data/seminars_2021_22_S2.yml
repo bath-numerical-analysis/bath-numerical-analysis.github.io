@@ -25,8 +25,8 @@
   speaker: Sheehan Olver (Imperial College London)
   url: https://www.ma.imperial.ac.uk/~solver/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Computing equilibrium distributions with power law interactions
+  abstract: 'When particles interact, say by attracting or repulsing, they tend to form nice distributions as the number of particles become large. Examples include both physical (electrons in a potential well, space dust) and biological (flocking birds, bacteria). Naïve simulation via differential equations proves insufficient, with computational cost becoming prohibitively expensive in more than one dimensions. Instead, we will introduce techniques based on a measure minimisation reformulation using expansions in weighted orthogonal polynomials to approximate the measures, whereby incorporating the correct singularities of the distributions we can rapidly and accurately compute many such distributions in arbitrary dimensions. This leads to high accuracy confirmation of open conjectures on gap formation (imagine a flock of birds forming a ring, with no density in the middle).  These techniques involve new recurrence relationship of power law kernels applied to weighted orthogonal polynomials.'
   inred: (hybrid)
   
 - date: 4 Mar 2022
@@ -77,6 +77,7 @@
   zoom: 1
   title: TBC
   abstract: TBC
+  inred: (hybrid)
   
 - date: 6 May 2022
   speaker: TBC
