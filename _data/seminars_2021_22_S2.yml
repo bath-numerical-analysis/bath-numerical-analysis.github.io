@@ -35,7 +35,6 @@
   zoom: 1
   title: Bayesian Inverse Problems for NMR
   abstract: 'In petrophysics, information about the internal porosity structure of logging samples is indirectly recovered using the NMR T2 relaxation time distribution P(T2). As the measured magnetisation is noisy, solving the model for P(T2) is a highly ill-posed problem. So far, the petrophysicists have tackled this problem using Tikhonov regularization. Although quick and directly interpretable, this technique lacks information about the uncertainty of the solution. Instead, we proposed a Bayesian approach based on an atomic P(T2), i.e., a weighted sum of Dirac Deltas. Defining a posterior distribution for P(T2), we can sample from it. This allows to recover that distribution as well as the distribution of different quantities of interest, such as the porosity, quantifying their uncertainty. In this talk we will uncover the different issues associated with the exploration of a posterior distribution with many parameters, as well as the different techniques used to overcome them. This leads to a new MCMC algorithm overan unbounded domain, and a convergence result is discussed as well. Finally, we will show some numerical results of the exploration on real NMR dataset, together with a formal comparison between Bayesian and Tikhonov approaches. '
-  inred: (hybrid)
   
 - date: 11 Mar 2022
   speaker: Margaret Duff (University of Bath)
@@ -50,7 +49,8 @@
   zoom: 1
   title: TBC
   abstract: TBC
-  
+  inred: (hybrid)
+
 - date: 25 Mar 2022
   speaker: Shi Jin (Shanghai Jiao Tong University)
   url: https://ins.sjtu.edu.cn/people/shijin/
