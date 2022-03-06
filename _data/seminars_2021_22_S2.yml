@@ -40,9 +40,10 @@
   speaker: Margaret Duff (University of Bath)
   url: https://researchportal.bath.ac.uk/en/persons/margaret-duff
   zoom: 1
-  title: TBC
-  abstract: TBC
-  
+  title: Regularising inverse imaging problems using generative deep learning models
+  abstract: 'In this talk we consider the use of generative models in a variational regularisation approach to inverse problems. Generative models learn, from observations, approximations to high-dimensional data distributions. The considered regularisers penalise image reconstructions that are far from the range of a generative model that has learned to produce images similar to a training dataset.  In contrast to other data driven approaches, this approach does not require paired training data and models are learned independently of the forward model. We will see an introduction to inverse problems and generative deep learning methods before seeing different approaches to  generative regularisers. We will consider desired criteria for the generative model, to enable generative regularisers to be successful.  Finally, we will discuss how generative models could be improved for better use in inverse problems. '
+  inred: (hybrid)
+    
 - date: 18 Mar 2022
   speaker: Eric Baruch Gutierrez (University of Bath)
   url: TBC
