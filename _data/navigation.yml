@@ -45,7 +45,7 @@ research:
 #####################
 # Sidebar
 teaching:
-  - title: Year One and Two
+  - title: Year Two
     children:
       - title: Numerical Analysis
         url: /teaching/MA20222.html
