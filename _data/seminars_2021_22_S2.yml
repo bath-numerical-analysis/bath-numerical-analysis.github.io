@@ -72,6 +72,7 @@
   zoom: 1
   title: TBC
   abstract: TBC
+  inred: (hybrid)
   
 - date: 29 Apr 2022
   speaker: Catherine Higham (Glasgow University)
@@ -82,8 +83,9 @@
   inred: (hybrid)
   
 - date: 6 May 2022
-  speaker: TBC
-  url: TBC
+  speaker: Théophile Chaumont-Frelet
+  url: https://tchaumont.github.io/
   zoom: 1
   title: TBC
   abstract: TBC
+  inred: (hybrid)
