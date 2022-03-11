@@ -45,10 +45,8 @@ research:
 #####################
 # Sidebar
 teaching:
-  - title: Year One and Two
+  - title: Year Two
     children:
-      - title: "Programming and Discrete Mathematics"
-        url: /teaching/MA10265.html
       - title: Numerical Analysis
         url: /teaching/MA20222.html
   - title: Year Three

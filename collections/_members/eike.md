@@ -4,6 +4,6 @@ last: Mueller
 research: Numerical weather prediction, atmospheric modelling, scientific computing
 homepage: https://people.bath.ac.uk/em459/  
 pic: eike.jpg
-units: MA10265 MA40171
+units: 
 topics: ip hpc uq
 ---
