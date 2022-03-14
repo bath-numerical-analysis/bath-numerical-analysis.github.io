@@ -56,8 +56,9 @@
   speaker: Shi Jin (Shanghai Jiao Tong University)
   url: https://ins.sjtu.edu.cn/people/shijin/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Random Batch Methods for interacting particle systems and molecular dynamics
+  abstract: 'We first develop random batch methods for classical interacting particle systems with large number of particles. These methods use small but random batches for particle interactions, thus the computational cost is reduced from O(N^2) per time step to O(N), for a system with N particles with binary interactions. For one of the methods, we give a particle number independent error estimate under some special interactions. This method is also extended to molecular dynamics with Coulomb interactions, in the framework of Ewald summation. We will show its superior performance compared to the current state-of-the-art methods (for example PPPM) for the corresponding problems, in the computational efficiency and parallelizability.'
+
   
 - date: 1 Apr 2022
   speaker: Georg Maierhofer (Sorbonne University)
