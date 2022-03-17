@@ -6,5 +6,5 @@ header:
   actions:
     - label: "More info"
       url: /about/
-title: Numerical Analysis
+title: Numerical Analysis & Data Science
 ---
