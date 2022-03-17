@@ -23,7 +23,13 @@ ul#two_col{
   -webkit-columns: 2;
   -moz-columns: 2;
 }
-
+ul.notice--info  {
+  padding-left:20px;!important
+  padding-right:20px;!important
+}
+li{
+padding-bottom:10px;!important
+}
 #two_col_img {  width: 100%; border-radius: 5%;} 
 
 @media screen and (max-width: 700px) {
