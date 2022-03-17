@@ -49,8 +49,7 @@
   url: TBC
   zoom: 1
   title: Random Primal-Dual Method with applications to Parallel MRI
-  abstract: 'Stochastic Primal-Dual Hybrid Gradient, or SPDHG, is an algorithm proposed by Chambolle et al. to efficiently solve a wide class of nonsmooth large-scale optimization problems. Recently we proved its almost sure convergence for all convex functionals. In addition, to test performance we look into applications of SPDHG to parallel Magnetic Resonance Imaging reconstruction. Numerical results suggest significantly faster convergence for SPDHG than its deterministic counterpart. Furthermore, we'll see how the physical properties of MRI models
-might give us a clue on how to optimize our random process.'
+  abstract: 'Stochastic Primal-Dual Hybrid Gradient, or SPDHG, is an algorithm proposed by Chambolle et al. to efficiently solve a wide class of nonsmooth large-scale optimization problems. Recently we proved its almost sure convergence for all convex functionals. In addition, to test performance we look into applications of SPDHG to parallel Magnetic Resonance Imaging reconstruction. Numerical results suggest significantly faster convergence for SPDHG than its deterministic counterpart. Furthermore, we'll see how the physical properties of MRI models might give us a clue on how to optimize our random process.'
   inred: (hybrid)
 
 - date: 25 Mar 2022
