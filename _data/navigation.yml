@@ -49,6 +49,8 @@ teaching:
     children:
       - title: Numerical Analysis
         url: /teaching/MA20222.html
+      - title: Machine Learning I
+        url: /teaching/MA20278.html
   - title: Year Three
     children:
       - title: Numerical Linear Algebra
@@ -63,6 +65,8 @@ teaching:
         url: /teaching/MA40171.html
       - title: Scientific Computing
         url: /teaching/MA40177.html
+      - title: Mathematics of Machine Learning
+        url: /teaching/MA50263.html
 ####################### 
 # Sidebar
 people:
