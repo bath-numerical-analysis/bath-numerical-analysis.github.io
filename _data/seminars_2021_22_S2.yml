@@ -63,8 +63,8 @@
   speaker: Georg Maierhofer (Sorbonne University)
   url: https://www.ljll.math.upmc.fr/maierhofer/
   zoom: 1
-  title: 
-  abstract: TBC
+  title: Highly oscillatory quadrature and low-regularity integrators for nonlinear dispersive equations
+  abstract: 'Even after decades of thorough research, the efficient approximation of highly oscillatory integrals remains a challenging and fascinating topic. Amongst the most promising modern techniques are so-called Filon methods which aim to provide accurate approximations of integrals over rapidly varying functions at frequency-independent cost. However, for general oscillatory kernels, one of the central difficulties encountered in Filon methods is the fast computation of the quadrature moments. In this talk, we will describe a novel approach to the solution of this ‘moment-problem’ by providing a unified framework for the construction of moment recursions that can achieve this desired task for a wide range of oscillators. We will then exploit the deep connection of oscillatory phenomena and the regularity of functions to provide a bridge between Filon methods and low-regularity integrators for nonlinear dispersive partial differential equations. Based on recent advances in resonance-based integrators, this connection allows us to design innovative numerical schemes, which can efficiently approximate low-regularity solutions to nonlinear systems, even when classical methods (such as exponential integrators) fail. Most importantly, for the first time, we are able to describe and analyse low-regularity integrators with structure preservation properties, thus providing initial results on geometric numerical integration in low-regularity regimes. This is joint work with Arieh Iserles, Nigel Peake and Katharina Schratz.'
   
 - date: 8 Apr 2022
   speaker: Tatiana Bubba (University of Bath)
