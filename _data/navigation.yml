@@ -33,6 +33,8 @@ research:
         url: /research/ip.html
       - title: "Linear algebra"
         url: /research/nla.html
+      - title: "Machine learning"
+        url: /research/ml.html
       - title: "Uncertainty"
         url: /research/uq.html
   - title: Partners

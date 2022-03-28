@@ -2,9 +2,10 @@
 title: High-performance computing
 code: hpc
 feature_row:
-  - image_path: "/assets/pics/CubedSphereSm.jpg" 
+  - image_path: "/assets/pics/CubedSphereSm.png" 
+  - class: "ndsa"
 ---
-{% include feature_row %}
+{% include feature_row type="center" %}
 
 Many areas of science and engineering rely on the fast solution of very large systems of equations with millions or even billions of unknowns. For example, in numerical weather- and climate-prediction, the equations of fluid dynamics are discretised and solved on a computational grid with hundreds of millions of grid points. They have to be solved in less than an hour—tomorrow's weather forecast would be useless if it took a week to produce it!
 
