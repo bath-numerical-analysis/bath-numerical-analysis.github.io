@@ -2,7 +2,7 @@
 title: Inverse problems
 code: ip
 feature_row:
-  - image_path: "/assets/pics/dtv_scaled.jpg"  
+  - image_path: "/assets/pics/pet.png"  
   - image_path: "/assets/pics/dataassimilation.png"  
 ---
 {% include feature_row %}
