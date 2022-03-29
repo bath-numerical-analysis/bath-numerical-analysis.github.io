@@ -21,10 +21,8 @@
   url: https://www.gehealthcare.com/
 - name: Heidelberg
   title: Heidelberg
-  url: https://ganymed.math.uni-heidelberg.de/~rscheichl/
-- name: IFP
-  title: Institut Francais du Petrole
-  url: http://www.ifpenergiesnouvelles.fr/
+  url:  https://katana.iwr.uni-heidelberg.de/
+
 - name: LMS
   title: LMS
   url: http://www.lms.ac.uk/
