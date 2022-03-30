@@ -32,16 +32,14 @@
 </style>
 {% assign sorted = {{datafile}}  %}
 {% for X in sorted %}
-<tr>
+ <tr future-date="{{ X.date | date: '%Y-%m-%d' }}">
+
 <td> {% if X.cancelled %} <s>{{ X.date | date: "%-d %b %Y" }}</s> {% else %} {{ X.date | date: "%-d %b %Y" }} {% endif %}</td>
   <td>
   {% if X.url %} <a href="{{X.url}}">{{X.speaker}} </a> {% else %} {{X.speaker | markdownify }}   {% endif %}</td>
 
   <td style="text-align:left"> {% if X.teams %}<a href="{{X.teams}}"><font color="red">Teams</font></a>
    {% endif %}  
-       {% if X.zoom %}<a href="https://bath-ac-uk.zoom.us/j/99705137436?pwd=RTFwN1pEc1VMV01OMzlEWGpwRjFlZz09" alt="Meeting ID: 997 0513 7436; Passcode: 448307
-">
-   <font color="red">Zoom</font></a> {% endif %}
 
   {% if X.abstract %}
   <details>  
@@ -62,6 +60,7 @@
   </td>
 
   </tr>
+  
 {% endfor %}
 </tbody>
 </table>

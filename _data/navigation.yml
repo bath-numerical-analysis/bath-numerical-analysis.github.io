@@ -75,7 +75,7 @@ people:
 ######################
 # Sidebar
 events:
-  - title: "This semester's seminars"
+  - title: "Upcoming"
     url: /events/current_seminars.html
   - title: "Recent"
     url: /events/index.html
