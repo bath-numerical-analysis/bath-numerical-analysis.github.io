@@ -32,6 +32,8 @@ collections:
       output: true
     teaching:
       output: true
+    members2:
+      output: true
 #
 defaults:
   - scope:
