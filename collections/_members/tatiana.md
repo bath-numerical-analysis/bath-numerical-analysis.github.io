@@ -5,5 +5,5 @@ research: Tomographic inverse problems, Sparse regularisation and optimisation, 
 homepage: https://researchportal.bath.ac.uk/en/persons/tatiana-bubba
 pic: bubba.jpg
 units: MA40050
-topics: ip 
+topics: ip ml
 ---

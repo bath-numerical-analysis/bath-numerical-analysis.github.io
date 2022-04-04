@@ -1,3 +1,6 @@
+- name: AD
+  title: "Addenbrooke's Hospital"
+  url: https://www.cuh.nhs.uk/
 - name: Wood
   title: Wood
   url: https://www.woodplc.com/
@@ -13,12 +16,13 @@
 - name: GWR
   title: Great Western Research
   url: http://www.greatwesternresearch.ac.uk/
+- name: GEH
+  title: GE Healthcare
+  url: https://www.gehealthcare.com/
 - name: Heidelberg
   title: Heidelberg
-  url: https://ganymed.math.uni-heidelberg.de/~rscheichl/
-- name: IFP
-  title: Institut Francais du Petrole
-  url: http://www.ifpenergiesnouvelles.fr/
+  url:  https://katana.iwr.uni-heidelberg.de/
+
 - name: LMS
   title: LMS
   url: http://www.lms.ac.uk/
