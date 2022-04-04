@@ -70,8 +70,8 @@
   speaker: Tatiana Bubba (University of Bath)
   url: https://sites.google.com/view/tatianabubba/home
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Limited angle tomography, wavelets and convolutional neural networks
+  abstract: 'Sparsity promotion is a popular regularization technique for inverse problems, reflecting the prior knowledge that the exact solution is expected to have few non-vanishing components, e.g. with respect to a suitable wavelet basis. In this talk, I will present a convolutional neural network designed for sparsity-promoting regularization for linear inverse problems. The architecture of the network is deduced by unrolling the well-known Iterative Soft Thresholding Algorithm (ISTA), together with a novel convolutional structure of each layer, motivated by the wavelet representation of the involved operator. As a result, the proposed network is able to replicate the application of ISTA and outperform it, by learning a suitable pseudodifferential operator. By a combination of techniques and tools from regularization theory of inverse problems, harmonic wavelet analysis and microlocal analysis, we are able to theoretically analyze the network and to prove approximation error estimates. Our case study is limited-angle computed tomography - we test two different implementations of our network on simulated data from limited-angle geometry, achieving promising results.'
   inred: (hybrid)
   
 - date: 29 Apr 2022
