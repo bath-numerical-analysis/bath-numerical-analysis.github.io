@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Recent events
+title: Upcoming and recent events
 permalink: /events/index.html
 sidebar: 
   nav: "events"

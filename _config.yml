@@ -4,6 +4,8 @@ author: Bath Numerical Analysis
 masthead_title: Numerical Analysis & Data Science
 description: "Homepage of the research group in Numerical Analysis & Data Science at the University of Bath."
 github_username:  bath-numerical-analysis
+repository: bath-numerical-analysis/bath-numerical-analysis.github.io
+future: true
 #
 atom_feed:
   path: ""
