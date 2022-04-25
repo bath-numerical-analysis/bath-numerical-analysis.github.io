@@ -86,6 +86,6 @@
   speaker: Théophile Chaumont-Frelet
   url: https://tchaumont.github.io/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: A posteriori error estimates for high-frequency Maxwell's equations
+  abstract: "Maxwell's equations play a central role in a vast number of applications involving electromagnetic fields. The numerical approximation of the solution is often required is practice and is particularly challenging when the frequency is high. In this talk, I will consider finite element discretizations and focus on a posteriori error estimates. These estimates not only allow for a robust control of the error, but they also enable iterative mesh refinements that are locally adapted to the features of the solution. In this context, Maxwell's equations exhibit two specific  difficulties: (a) in the high-frequency regime, their variational formulation is not coercive and (b) the functional framework associated with the "curl" operator is substantially more involved than the one used for scalar wave propagation problems. The goal of this talk is to explain, as simply as possible, how these two issues manifest and how they can be handled. To do so, I will proceed in three steps. (i)  I will first describe how a posteriori error estimators are constructed in the simple case of the (coercive) Poisson problem. (ii) I will then examine the high-frequency aspect by considering the Helmholtz equation modelling high-frequency scalar wave propagation problems. Finally (iii), I will present the necessary adjustments to correctly handle Maxwell's equations. Numerical examples will be presented to illustrate the key theoretical results."
   inred: (hybrid)
