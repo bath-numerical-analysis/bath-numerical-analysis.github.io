@@ -1,5 +1,5 @@
 ---
-title: Machine Learning 
+title: Machine learning 
 code: ml
 feature_row:
   - image_path: "/assets/pics/mri5a.png" 

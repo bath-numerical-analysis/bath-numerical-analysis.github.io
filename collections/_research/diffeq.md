@@ -1,5 +1,5 @@
 ---
-title: Differential Equations
+title: Differential equations
 code: de
 feature_row:
   - image_path: "/assets/pics/helmholtz.jpg" 
