@@ -4,9 +4,7 @@
 - name: Wood
   title: Wood
   url: https://www.woodplc.com/
-- name: DNVGL
-  title: DNV GL
-  url: http://www.dnvgl.com/
+
 - name: EPSRC
   title: EPSRC
   url: https://epsrc.ukri.org/
