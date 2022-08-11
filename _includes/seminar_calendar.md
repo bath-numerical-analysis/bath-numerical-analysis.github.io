@@ -1,6 +1,6 @@
 <details class="notice--info" >
   <summary>Subscribe to seminar calendar</summary>
-<p>You can subscribe to the NA calendar directly from your calendar client, including Outlook, Apple’s iCalendar or Google calendar. The web address of the calendar is this <a href="https://outlook.office365.com/owa/calendar/86a34f4eb2a44247b2984f4dff49e900@bath.ac.uk/f12ed49ea1e14e35bdf8f965fcf3a5611468698658714972533/calendar.icsed=0">ICS link</a> which you will need to copy.</p>
+<p>You can subscribe to the NA calendar directly from your calendar client, including Outlook, Apple’s iCalendar or Google calendar. The web address of the calendar is this <a href="https://outlook.office365.com/owa/calendar/86a34f4eb2a44247b2984f4dff49e900@bath.ac.uk/f12ed49ea1e14e35bdf8f965fcf3a5611468698658714972533/calendar.ics">ICS link</a> which you will need to copy.</p>
     
 <p>To subscribe to a calendar in Outlook:
 <ol>
