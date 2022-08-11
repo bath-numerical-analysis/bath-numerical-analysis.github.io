@@ -2,6 +2,7 @@
   speaker: TBC
   url: TBC
   zoom: 1
+  inred: speaker in-person/remote
   title: TBC
   abstract: TBC
   
@@ -9,6 +10,7 @@
   speaker: TBC
   url: TBC
   zoom: 1
+  inred: speaker in-person/remote
   title: TBC
   abstract: TBC
 
@@ -16,6 +18,7 @@
   speaker: TBC
   url: TBC
   zoom: 1
+  inred: speaker in-person/remote
   title: TBC
   abstract: TBC
   
@@ -23,6 +26,7 @@
   speaker: TBC
   url: TBC
   zoom: 1
+  inred: speaker in-person/remote
   title: TBC
   abstract: TBC
   
@@ -30,6 +34,7 @@
   speaker: TBC
   url: TBC
   zoom: 1
+  inred: speaker in-person/remote
   title: TBC
   abstract: TBC
   
@@ -37,6 +42,7 @@
   speaker: TBC
   url: TBC
   zoom: 1
+  inred: speaker in-person/remote
   title: TBC
   abstract: TBC
   
@@ -44,6 +50,7 @@
   speaker: TBC
   url: TBC
   zoom: 1
+  inred: speaker in-person/remote
   title: TBC
   abstract: TBC
   
@@ -51,6 +58,7 @@
   speaker: TBC
   url: TBC
   zoom: 1
+  inred: speaker in-person/remote
   title: TBC
   abstract: TBC
 
@@ -58,13 +66,14 @@
   speaker: TBC
   url: TBC
   zoom: 1
+  inred: speaker in-person/remote
   title: TBC
   abstract: TBC
 
-  date: 2 Dec 2022
+  date: 9 Dec 2022
   speaker: NASC YLP students
   url: TBC
   zoom: 1
-  inred: in-person (4 West Wolfson 1.7)
+  inred: speaker in-person
   title: Year-Long-Project student presentatations
   abstract: TBC
