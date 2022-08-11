@@ -5,7 +5,7 @@ sidebar:
 permalink: /about/
 ---
 
-The Numerical Analysis & Data Science group in the [Department of Mathematical Sciences]({{ site.data.links.dms_url }}) began in 1973 when Alastair Spence came to [Bath]({{site.data.links.uob_url}}). It currently has [expertise]({% link people.md %}) in all areas of numerical analysis and is one of the largest in the UK, and has recently expanded to include a significant interest in data science, including inverse problems and machine learning.
+The Numerical Analysis & Data Science group in the [Department of Mathematical Sciences]({{ site.data.links.dms_url }}) began when Alastair Spence (in 1973) and Ivan Graham (in 1985) came to [Bath]({{site.data.links.uob_url}}). It currently has [expertise]({% link people.md %}) in all areas of numerical analysis and is one of the largest in the UK, and has recently expanded to include a significant interest in data science, including inverse problems and machine learning.
 
 
 We teach a full range of undergraduate and postgraduate [units]({% link teaching.md %}).
