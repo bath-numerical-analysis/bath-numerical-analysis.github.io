@@ -1,13 +1,13 @@
 - date: 7 Oct 2022
   speaker: Andrea Sebastiani (University of Bologna)
-  url: TBC
+  url: https://www.unibo.it/sitoweb/andrea.sebastiani3/en
   zoom: 1
   title: TBC
   abstract: TBC
   
 - date: 14 Oct 2022
-  speaker: TBC
-  url: TBC
+  speaker: Iain Smears (UCL)
+  url: http://www.homepages.ucl.ac.uk/~ucahism/
   zoom: 1
   title: TBC
   abstract: TBC
@@ -41,8 +41,8 @@
   abstract: 'We introduce and analyse a novel discretization method for acoustic scattering by fractal screens. In contrast to previous studies, in which a conventional boundary element method (BEM) was applied on a “pre-fractal” approximation of the fractal, here we work with BEM basis functions supported on the fractal itself, integrating with respect to Hausdorff measure rather than the conventional surface (Lebesgue) measure. Using approximation results in appropriate Besov spaces on the fractal we prove convergence of our BEM, and obtain convergence rates under natural solution regularity assumptions. We also detail a strategy for the numerical evaluation of the required Hausdorff measure integrals, accompanied by a fully discrete convergence analysis.'
   
 - date: 18 Nov 2022
-  speaker: TBC
-  url: TBC
+  speaker: Oliver Townsend (Bath)
+  url: https://researchportal.bath.ac.uk/en/persons/oliver-townsend
   zoom: 1
   title: TBC
   abstract: TBC
