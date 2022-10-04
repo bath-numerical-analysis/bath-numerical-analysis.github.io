@@ -2,8 +2,10 @@
   speaker: Andrea Sebastiani (University of Bologna, Italy)
   url: https://www.unibo.it/sitoweb/andrea.sebastiani3/en
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Deep Image Prior optimization models with automatic regularization
+  abstract: 'Deep Image Prior (DIP) is one of the most useful unsupervised deep learning methods for imaging inverse problems. This framework uses a Convolutional Neural Network (CNN) as implicit prior to model and represent all the natural images. Combined with classical or novel regularizers, DIP has been shown to be very powerful. However, all the regularized methods, proposed up to now, require a computational expensive estimation of the regularization parameter, to balance the contribute of the regularizer.
+In order to overcome this drawback, the original model can be reformulated as an unconstrained or a constrained optimization problem. In particular, the unconstrained model combines DIP with a space-variant Total Variation regularizer with an automatic estimation of the local regularization parameters. Conversely, the constrained formulation is derived from the Morozov’s discrepancy principle, considering an estimate of the noise level in the acquired image. This approach completely avoids the choice of a regularization parameter and it also allows to consider di erent regularizers by making the framework very general and versatile.
+Both the arising minimization problems are solved using proximal gradient descent-ascent (PGDA) algorithms and under suitable assumptions it is possible to provide convergence results.'
   
 - date: 14 Oct 2022
   speaker: Iain Smears (UCL)
