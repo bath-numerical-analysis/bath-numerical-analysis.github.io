@@ -11,8 +11,11 @@ Both the arising minimization problems are solved using proximal gradient descen
   speaker: Iain Smears (UCL)
   url: http://www.homepages.ucl.ac.uk/~ucahism/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Numerical methods for fully nonlinear PDE
+  abstract: "Joint work with Max Jensen, Endre Süli, Ellya Kawecki and Yohance Osborne 
+
+ Second-order fully nonlinear PDE feature nonlinearities that include the second partial derivatives of the unknown solution. Important examples of fully nonlinear PDE include the Hamilton—Jacobi—Bellman equation, the Monge—Ampere equation and Isaacs’ equation, which arise in a large range of application areas, from optimal control, optimal transport, stochastic games, and many more. The nonlinearity makes the analysis and numerical treatment of these problems particularly challenging, as there is no possibility of a standard weak formulation based on integration by parts of the second-order terms. In this talk, we will give a brief overview of the state of art of numerical methods in this area, before focusing on the recent proof of convergence of adaptive finite element methods for the class of elliptic Isaacs equations with Cordes coefficients. " 
+
 
 - date: 21 Oct 2022
   speaker: James Foster (Bath)
