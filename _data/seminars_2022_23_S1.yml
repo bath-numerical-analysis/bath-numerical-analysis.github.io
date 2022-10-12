@@ -21,8 +21,12 @@ Both the arising minimization problems are solved using proximal gradient descen
   speaker: James Foster (Bath)
   url: https://researchportal.bath.ac.uk/en/persons/james-foster
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: High order splitting methods for stochastic differential equations
+  abstract: "In this talk, we will discuss how ideas from rough path theory can be leveraged to develop high order numerical methods for SDEs. To motivate our approach, we consider what happens when the Brownian motion driving an SDE is replaced by a piecewise linear path. We show that this procedure transforms the SDE into a sequence of ODEs – which can then be discretized using an appropriate ODE solver. Moreover, to achieve a high accuracy, we construct these piecewise linear paths to match certain features of the Brownian motion.
+
+At the same time, the ODE sequences obtained from this path-based approach can be interpreted as a splitting method, which neatly connects our work to the existing literature. For example, we show that the well-known Strang splitting falls under our framework and can be modified to give an improved convergence rate. We conclude the talk with several examples, which demonstrate the flexibility and convergence properties of our methodology."
+
+
   
 - date: 28 Oct 2022
   speaker: Martin Averseng (Bath)
