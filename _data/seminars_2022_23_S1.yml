@@ -32,8 +32,8 @@ At the same time, the ODE sequences obtained from this path-based approach can b
   speaker: Martin Averseng (Bath)
   url: TBC
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Singular geometries, DtN map and preconditioning
+  abstract: "In boundary value problems, approximations of the Dirichlet to Neumann (DtN) map appear in many applications, such as domain decomposition methods, absorbing boundary conditions and preconditioning for integral equations. On smooth boundaries, a popular method is to approximate the DtN map by the square-root of a differential operator involving the Laplace-Beltrami operator, and local curvature terms. Finding suitable formulas in the context of singular boundaries (e.g. polygonal/ polyhedral, or screens) is an active area of research. In this talk, we focus on a recent approach in which the central role is played by a weighted Laplace-Beltrami operator. Applications in 2D and 3D to the preconditioning of integral equations for Laplace and Helmholtz boundary value problems will also be presented."
   
 - date: 4 Nov 2022
   speaker: Jennifer Ryan (KTH, Stockholm, Sweden)
