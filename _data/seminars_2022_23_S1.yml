@@ -39,8 +39,8 @@ At the same time, the ODE sequences obtained from this path-based approach can b
   speaker: Jennifer Ryan (KTH, Stockholm, Sweden)
   url: TBC
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Designing effective, efficient, and flexible convolution kernels
+  abstract: "Convolution kernels are powerful tools that have proven useful in multiple areas, such as data compression, shock filtering, post-processing, and machine learning.  The popularity of this approach has given rise to the need for effective and efficient design of convolution kernels, suitable for a variety of applications. In this talk, we focus on the design of convolution kernels for efficiency, effectiveness, and flexibility.  Well-designed convolution kernels, such as the one that gives rise to Smoothness-Increasing Accuracy-Conserving (SIAC) post-processing filters, can be used to extract hidden information in certain numerical simulations, creating even more accurate representations of the data. They can be adapted for boundaries, unstructured grids, and non-smooth solutions. Furthermore, such well-designed convolution kernels have the potential to accurately capture multi-scale physics, and are flexible enough to combine simulation information with experimental data.   This presentation will focus on identifying the essential properties in convolution kernel design, what information it is exploiting and the possibilities in applications."
   
 - date: 11 Nov 2022
   speaker: David Hewett (UCL)
