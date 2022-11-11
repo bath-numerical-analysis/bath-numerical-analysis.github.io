@@ -53,8 +53,9 @@ At the same time, the ODE sequences obtained from this path-based approach can b
   speaker: Oliver Townsend (Bath)
   url: https://researchportal.bath.ac.uk/en/persons/oliver-townsend
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Undersampling raster scans in spectromicroscopy for a reduced dose and faster measurements
+  abstract: 'Combinations of spectroscopic analysis and microscopic techniques are used across many disciplines of scientific research, including material science, chemistry and biology. X-ray spectromicroscopy, in particular, is a powerful tool used for studying chemical state distributions at the micro and nano scales. With the beam fixed, a specimen is typically rastered through the probe with continuous motion and a range of multimodal data is collected at fixed time intervals. The application of this technique is limited in some areas due to: long scanning times to collect the data, either because of the area/volume under study or the compositional properties of the specimen; and material degradation due to the dose absorbed during the measurement. In this work, we propose a novel approach for reducing the dose and scanning times by undersampling the raster data. This is achieved by skipping rows within scans and reconstructing the x-ray spectromicroscopic measurements using low-rank matrix completion. The new method is robust and allows for 5 to 6-fold reduction in sampling. Experimental results obtained on real data are illustrated.'
+
   
 - date: 25 Nov 2022
   speaker: Kurusch Ebrahimi-Fard (NTNU Trondheim, Norway)
