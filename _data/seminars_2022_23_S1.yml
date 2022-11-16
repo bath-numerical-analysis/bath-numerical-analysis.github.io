@@ -72,8 +72,13 @@ At the same time, the ODE sequences obtained from this path-based approach can b
   abstract: TBC
 
 - date: 9 Dec 2022
-  speaker: NA & DS YLP students
+  speaker: NA & DS  students
   url: 
   zoom: 1
-  title: Year-Long-Project student presentations
-  abstract: TBC
+  title: "Year-long Projects  (12.15 to 2.05; click for running order)"
+  abstract: "Speakers:<br> 1. Andrew Polston -  Partial Differential Equations: Classical numerical methods vs. Deep Learning.<br>2.  Ben Bradshaw -  Optimization for Large-Scale Machine Learning Problems<br>3. Jasmine Donato - Imaginary time eigenvalue method<br>
+4. Charlotte Johns -  Machine learning and differential equations<br>
+5. Jasmine Lewis -  Treatment planning in radiotherapy<br>
+6. Benno Marstaller -  Deep learning and inverse problems<br>
+7. Nuala Pennycook -  Shape modelling with deep neural networks<br>
+8. Abi McNeill -  Efficient representations for signal and image processing<br>"
