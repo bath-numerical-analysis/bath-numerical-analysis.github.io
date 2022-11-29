@@ -66,10 +66,10 @@ At the same time, the ODE sequences obtained from this path-based approach can b
 
 - date: 2 Dec 2022
   speaker: Subhadip Mukherjee (Bath)
-  url: TBC
+  url: https://sites.google.com/view/subhadip-mukherjee/home?pli=1
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Data-Driven Mirror Descent with Input-Convex Neural Networks
+  abstract: 'Learning-to-optimize is an emerging framework that seeks to speed up the solution of certain optimization problems by leveraging training data. Learned optimization solvers have been shown to outperform classical optimization algorithms in terms of convergence speed, especially for convex problems. Many existing data-driven optimization methods are based on parameterizing the update step and learning the optimal parameters (typically scalars) from the available data. We propose a novel functional parameterization approach for learned convex optimization solvers based on the classical mirror descent (MD) algorithm. Specifically, we seek to learn the optimal Bregman distance in MD by modeling the underlying convex function using an input-convex neural network (ICNN). The parameters of the ICNN are learned by minimizing the target objective function evaluated at the MD iterate after a predetermined number of iterations. The inverse of the mirror map is modeled approximately using another neural network, as the exact inverse is intractable to compute. We derive convergence rate bounds for the proposed learned mirror descent (LMD) approach with an approximate inverse mirror map and perform an extensive numerical evaluation on various convex problems such as image inpainting, denoising, learning a two-class support vector machine (SVM) classifier and a multi-class linear classifier on fixed features.'
 
 - date: 9 Dec 2022
   speaker: NA & DS  students
