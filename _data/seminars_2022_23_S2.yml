@@ -43,11 +43,11 @@
   abstract: TBC
   
 - date: 24 Mar 2023
-  speaker: TBC
+  speaker: Philip J Herbert (Heriot-Watt)
   url: TBC
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Shape optimisation with Lipschitz functions
+  abstract: In this talk, we discuss a novel method in PDE constrained shape optimisation.  We begin by introducing the concept of PDE constrained shape optimisation.  While it is known that many shape optimisation problems have a solution, their approximation in a meaningful way is non-trivial.  To find a minimiser, it is typical to use first order methods.  The novel method we propose is to deform the shape with fields which are a direction of steepest descent in the topology of $W^{1,\infty}$.  We present an analysis of this in a discrete setting along with the existence of directions of steepest descent.  Several numerical experiments will be considered which compare a classical Hilbertian approach to this novel approach.
   
 - date: 31 Mar 2023
   speaker: Arieh Iserles (Cambridge)
