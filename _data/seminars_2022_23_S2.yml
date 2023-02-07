@@ -11,7 +11,7 @@
   url: https://research-information.bris.ac.uk/en/persons/changpeng-shao
   zoom: 1
   title: Quantum algorithms for linear regression
-  abstract: 'Quantum computers could solve linear algebra problems much faster than classical computers. In this talk, I will talk about some recent quantum algorithms for linear regression with the goal of outputting a vector solution. First, I will introduce a quantum algorithm that accelerates the technique of leverage score sampling (which is a useful technique in randomised numerical linear algebra). Then I will show how to use it to propose efficient quantum algorithms for solving linear regressions. The talk is mainly based on arXiv:2301.06107.''
+  abstract: 'Quantum computers could solve linear algebra problems much faster than classical computers. In this talk, I will talk about some recent quantum algorithms for linear regression with the goal of outputting a vector solution. First, I will introduce a quantum algorithm that accelerates the technique of leverage score sampling (which is a useful technique in randomised numerical linear algebra). Then I will show how to use it to propose efficient quantum algorithms for solving linear regressions. The talk is mainly based on arXiv 2301.06107.''
 
 
 - date: 24 Feb 2023
