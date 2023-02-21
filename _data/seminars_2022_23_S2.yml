@@ -16,10 +16,10 @@
 
 - date: 24 Feb 2023
   speaker: Rihuan Ke (Bristol)
-  url: https://www.bristolmathsresearch.org/2022/02/03/welcome-to-rihuan-ke/
+  url: https://research-information.bris.ac.uk/en/persons/rihuan-ke
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Hybrid learning for label-efficient solvers for inverse problems and beyond
+  abstract: Recent deep learning techniques enable the learning of high-quality inverse problem solvers from data. These techniques handle the ill-posedness of the problems with data, by looking at the examples, and do not require explicit regularisation modelling. Typically, a large set of paired measurements and ground truth solutions is used in order to learn a well-performing model. The learning task can be challenging without such a high-quality dataset, and it is an ill-posed problem itself. In this talk, I will introduce some hybrid learning methods for solving inverse problems in a label-efficient manner. 
   
 - date: 3 Mar 2023
   speaker: Yue Wu (Strathclyde)
