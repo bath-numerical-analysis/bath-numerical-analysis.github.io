@@ -22,8 +22,8 @@
   abstract: Recent deep learning techniques enable the learning of high-quality inverse problem solvers from data. These techniques handle the ill-posedness of the problems with data, by looking at the examples, and do not require explicit regularisation modelling. Typically, a large set of paired measurements and ground truth solutions is used in order to learn a well-performing model. The learning task can be challenging without such a high-quality dataset, and it is an ill-posed problem itself. In this talk, I will introduce some hybrid learning methods for solving inverse problems in a label-efficient manner. 
   
 - date: 3 Mar 2023
-  speaker: Yue Wu (Strathclyde)
-  url: https://pureportal.strath.ac.uk/en/persons/yue-wu
+  speaker: CANCELLED
+  url: TBC
   zoom: 1
   title: TBC
   abstract: TBC
