@@ -48,8 +48,8 @@ which is the average of local matrices held by the network agents).
   speaker: Eike Mueller (Bath)
   url: https://people.bath.ac.uk/em459/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Equivariant and invariant neural networks
+  abstract: Equivariance and invariance play a very important role in physics since they strongly constrain the dynamics of a system. For example, Einstein’s famous theory of Special Relativity and Maxwell’s electrodynamics follow naturally if we assume that the equations of motion are equivariant under Lorentz transformations. Recently, there has been a lot of work on constructing equivariant neural networks. A well-known example are Convolutional Neural Networks (CNNs) for image classification, in which the output is invariant under translations - the network doesn’t care whether a cat appears in the upper left or lower right corner of an image. Here translational invariance provides a strong prior, which allows the network to generalise from limited training data. Equivariance under other symmetry groups such as rotations can be incorporated into the architecture of neural networks in similar ways. In this session I will try to summarise some of the main ideas, based on some papers I came across recently. I’m by no means an expert in this area, so this will be a very informal session, hopefully with lively and interesting discussions.
   
 - date: 24 Mar 2023
   speaker: Philip J Herbert (Heriot-Watt)
