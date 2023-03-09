@@ -32,12 +32,21 @@
   speaker: Francisco de Lima Andrade (ENS Paris)
   url: TBC
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Distributed Banach-Picard Iteration for Distributed Inference - Theory and Applications
+  abstract: Many inference problems can be mathematically formulated as finding a fixed point of a contractive operator/map. In modern distributed scenarios
+(e.g., distributed machine learning or sensor networks), this map can be naturally written as the average of individual maps held locally and privately (i.e.,
+the agents don't want to share their local data with the others) by a set of agents linked by a (maybe sparse) communication network. Starting with the classical
+Banach-Picard iteration (BPI), which is is a widely used natural choice to find fixed points of locally contractive maps, this talk shows how to extend the BPI
+to these distributed settings. We do not assume that the locally contractive map comes from an underlying optimization problem, which precludes exploiting
+strong global properties such as convexity, coercivity, or Lipschitzianity. Yet, we present a distributed algorithm (called distributed Banach-Picard iteration
+DBPI) that keeps the linear convergence rate of the standard BPI for the average locally contractive map. As an application, we derive and prove linear convergence
+of two distributed algorithms for two classical data analysis problems - the expectation-maximization algorithm for parameter estimation from noisy and
+faulty distributed sensors; principal component analysis with distributed data (equivalently finding the top m eigenvectors of a positive semidefinite matrix,
+which is the average of local matrices held by the network agents).
   
 - date: 17 Mar 2023
-  speaker: TBC
-  url: TBC
+  speaker: Eike Mueller (Bath)
+  url: https://people.bath.ac.uk/em459/
   zoom: 1
   title: TBC
   abstract: TBC
