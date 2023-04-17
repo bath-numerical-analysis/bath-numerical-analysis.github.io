@@ -67,5 +67,5 @@
   speaker: Jemima M. Tabeart (Oxford)
   url: https://jemimat.github.io/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Stein-based Preconditioners for Weak-constraint 4D-var
+  abstract: Algorithms for data assimilation try to predict the most likely state of a dynamical system by combining information from observations and prior models. Variational approaches, such as the weak-constraint four-dimensional variational data assimilation formulation considered in this paper, can ultimately be interpreted as a minimization problem. One of the main challenges of such a formulation is the solution of large linear systems of equations which arise within the inner linear step of the adopted nonlinear solver. In this talk we develop new structure-exploiting preconditioners for the saddle point formulation of this problem. These novel, efficient preconditioning operators involve the solution of certain Stein matrix equations. In addition to achieving better computational performance, the latter machinery allows us to derive tighter bounds for the eigenvalue distribution of the preconditioned linear system for certain problem settings. I will present theoretical results and our efficient implementation will be demonstrated via a panel of diverse numerical results. This is joint work with Davide Palitta. 
