@@ -9,8 +9,8 @@
   speaker: Ioannis Papadopoulos (Imperial)
   url: https://www.imperial.ac.uk/people/ioannis.papadopoulos13
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: A sparse hp-finite element method for the screened Poisson equation posed on disks, annuli and cylinders
+  abstract: We introduce a sparse and very high order hp-finite element method for the weak form of the screened Poisson equation.  The domain may be a disk, an annulus, or a cylinder. The cells of the mesh are an innermost disk (omitted if the domain is an annulus) and concentric annuli. We demonstrate the effectiveness of this method on PDEs with radial direction discontinuities in the coefficients and data. The discretization matrix is symmetric positive-definite. Moreover, the Fourier modes decouple, reducing a two-dimensional PDE solve to a series of one-dimensional solves that may be computed in parallel, scaling with linear complexity. We also utilize the ADI method of Fortunato and Townsend to apply the method to a 3D cylinder with a quasi-optimal complexity solve.
 
 - date: 20 Oct 2023
   speaker: Seb Scott (Bath)
