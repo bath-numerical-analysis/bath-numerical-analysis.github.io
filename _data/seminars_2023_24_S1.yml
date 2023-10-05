@@ -4,7 +4,16 @@
   zoom: 1
   title: Complex-plane singularity dynamics for blow up in a nonlinear heat equation - analysis and computation
   abstract: Blow-up solutions to a heat equation with spatial periodicity and a quadratic nonlinearity are studied through asymptotic analyses and a variety of numerical methods. The focus is on the dynamics of the singularities in the complexified space domain. Blow up in finite time is caused by these singularities eventually reaching the real axis. The analysis provides a distinction between small and large nonlinear effects, as well as insight into the various time scales on which blow up is approached. It is shown that an ordinary differential equation with quadratic nonlinearity plays a central role in the asymptotic analysis. This equation is studied in detail, including its numerical computation on multiple Riemann sheets, and the far-field solutions are shown to be given at leading order by a Weierstrass elliptic function. This is joint work with J.R. King (Nottingham) and J.A.C Weideman (Stellenbosch).
-  
+
+
+- date: 10 Oct 2023, 3.15pm
+  speaker: Silvia Gazzola (Bath) [Ada Lovelace Day Talk]
+  url: TBC
+  zoom: 1
+  title: Solving inverse problems by (non-standard) Krylov methods
+  abstract: Inverse problems arise in a variety of scientific and engineering applications and, to meaningfully solve them, one should apply some kind of regularisation. This talk is about the so-called `hybrid projection methods', i.e., regularisation methods that combine iterative regularisation methods (such as Krylov subspace methods) and variational regularisation methods. We will survey some well-established hybrid projection methods based on some standard Krylov subspace methods (such as LSQR, LSMR, and GMRES) and standard Tikhonov regularisation. We will then present some novel hybrid projection methods that exploit inexact Krylov subspace methods to handle separable nonlinear inverse problems.
+
+
 - date: 13 Oct 2023
   speaker: Ioannis Papadopoulos (Imperial)
   url: https://www.imperial.ac.uk/people/ioannis.papadopoulos13
