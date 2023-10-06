@@ -10,7 +10,7 @@
   speaker: Silvia Gazzola (Bath)
   url: TBC
   zoom: 1
-  title: [3.15pm, 4W 1.7, Ada Lovelace Day Talk] Solving inverse problems by (non-standard) Krylov methods
+  title: (3.15pm, 4W 1.7, Ada Lovelace Day Talk) Solving inverse problems by (non-standard) Krylov methods
   abstract: Inverse problems arise in a variety of scientific and engineering applications and, to meaningfully solve them, one should apply some kind of regularisation. This talk is about the so-called `hybrid projection methods', i.e., regularisation methods that combine iterative regularisation methods (such as Krylov subspace methods) and variational regularisation methods. We will survey some well-established hybrid projection methods based on some standard Krylov subspace methods (such as LSQR, LSMR, and GMRES) and standard Tikhonov regularisation. We will then present some novel hybrid projection methods that exploit inexact Krylov subspace methods to handle separable nonlinear inverse problems.
 
 
