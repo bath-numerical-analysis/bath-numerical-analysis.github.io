@@ -5,5 +5,5 @@ research: Stochastic PDEs, Fluctuating Hydrodynamics, Interacting Particle Syste
 homepage: https://people.bath.ac.uk/fc402/  
 pic: federico.jpg
 units: 
-topics: uq
+topics: uq ml
 ---
