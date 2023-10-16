@@ -25,8 +25,8 @@
   speaker: Seb Scott (Bath)
   url: TBC
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: On optimal regularisation parameters via bilevel learning
+  abstract: Variational regularisation is commonly used to solve linear inverse problems and involves augmenting a data fidelity by a regulariser, weighted by a regularisation parameter. Often the regularisation parameter is assumed to be strictly positive which implicitly assumes the regulariser is a good choice for the given application - but what does it mean for a regulariser to be “good”? One characterisation is offered via bilevel learning, a powerful framework to determine optimal parameters which involves solving a nested optimisation problem. Indeed, by optimising over the regularisation parameter we can determine conditions which guarantee that zero is not an optimal parameter. While existing conditions primarily focus on the denoising application, in this talk a new condition involving Bregman distances will be introduced that offers a better characterisation than existing theory and is applicable to a wide class of inverse problems and regularisers.
   
 - date: 27 Oct 2023
   speaker: Alexander Bastounis (Leicester)
