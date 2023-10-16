@@ -59,6 +59,8 @@ teaching:
         url: /teaching/MA30051.html
       - title: Numerical Solution of Elliptic PDEs
         url: /teaching/MA30170.html
+      - title: Numerical Solution of Elliptic PDEs
+        url: /teaching/MA30279.html
   - title: Year Four
     children:
       - title: Numerical optimisation and large-scale problems
