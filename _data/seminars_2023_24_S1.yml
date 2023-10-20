@@ -39,8 +39,8 @@
   speaker: Alexander Belozerov (Bath)
   url: TBC
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: How do you know when you're right? -- On Smale's 9th problem and the limits of trustworthy AI  
+  abstract: Instability and hallucinations are the Achilles’ heel of modern AI and a paradox, with training algorithms finding unstable and hallucinating neural networks (NNs) despite the provable existence of stable and accurate NNs. This prompts the fundamental question -- can one build trustworthy AI? This is now becoming a delicate question with connections to the regulation of AI technology in high risk areas. In this talk we discuss how this question is linked to recent results on the extended Smale’s 9th problem, from the list of mathematical problems for the 21st century, and newly discovered phase transitions in optimisation. In particular, we will discuss how these results link to the difficulty of creating verification algorithms that can verify the validity of the output of modern AI. In particular, we demonstrate how in general it is impossible to check if AI based on neural networks hallucinate or not. The immediate corollary is that trustworthy AI can only have a weaker from of trust -- the ability to say ‘I don’t know’.
   
 - date: 10 Nov 2023
   speaker: Matthias Ehrhardt (Bath)
