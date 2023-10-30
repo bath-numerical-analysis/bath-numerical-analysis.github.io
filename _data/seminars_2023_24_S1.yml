@@ -39,9 +39,9 @@
   speaker: Alexander Belozerov (Bath)
   url: TBC
   zoom: 1
-  title: TBC
-  abstract: TBC
-  
+  title: Inadequacy of the Darcy model in some 2D/3D flows, its implications and a way forward
+  abstract: The classical Darcy model consisting of the continuity equation and the Darcy law is the main theoretical tool used to describe flows in porous media. It is known, however, that the conventional Darcy model, originally formulated for unidirectional flows, can exhibit nonphysical singularities in the velocity field for flows with essentially non-unidirectional streamlines, such as flows past corners. We study a class of models where the permeability even of a spatially uniform porous matrix is considered as a function of the curvature of the flow streamlines. This approach preserves the Darcy model for unidirectional flows, where it has been well-tested experimentally, whilst removing the velocity singularity for flows over corners where the curvature of the streamlines becomes singular. The introduced relation between the permeability and the flow completely changes the mathematical essence of the problem turning the classical linear elliptic equation formulated for Darcy’s model into a third-order strongly nonlinear PDE requiring thorough analysis and giving rise to a number of challenges in numerical implementation.
+
 - date: 10 Nov 2023
   speaker: Matthias Ehrhardt (Bath)
   url: https://mehrhardt.github.io/
