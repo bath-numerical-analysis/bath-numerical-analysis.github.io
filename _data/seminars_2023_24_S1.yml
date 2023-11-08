@@ -46,8 +46,8 @@
   speaker: Matthias Ehrhardt (Bath)
   url: https://mehrhardt.github.io/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Towards Reliable Solutions of Inverse Problems with Deep Learning
+  abstract: Deep learning has revolutionised many scientific fields and so it is no surprise that state-of-the-art solutions to several inverse problems also include this technology. However, for many inverse problems (e.g. in medical imaging) stability and reliability are particularly important. Furthermore, unlike other image analysis tasks, usually only a fairly small amount of training data is available to train image reconstruction algorithms. Thus, we require tailored solutions which maximise the potential of all ingredients - data, domain knowledge and mathematical analysis. In this talk we discuss a range of such hybrid approaches and will encounter along the way connections to various topics like generative models, convex optimization, differential equations and equivariance.
   
 - date: 17 Nov 2023
   speaker: Winfried Auzinger (TU Wien)
