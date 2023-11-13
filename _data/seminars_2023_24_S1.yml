@@ -60,8 +60,8 @@
   speaker: Federico Cornalba (Bath)
   url: https://sites.google.com/view/federicocornalba/home
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Describing interacting particle systems via stochastic PDEs
+  abstract: Large-scale systems of interacting particles are ubiquitous in several relevant applications (in fact, the term particle may stand for actual particles, individuals, animals, parameters in neural networks, etc…). In many circumstances, it may be convenient to describe such particle systems on the continuum scale, i.e., to view their empirical density as the solution of suitable stochastic PDEs. This way of looking at particle systems has given rise to the theory nowadays referred to as Fluctuating Hydrodynamics (FH). In this talk, I plan to (1) give a brief overview of the theory of Fluctuating Hydrodynamics. (2) discuss numerical discretisation and variance reduction for the Dean-Kawasaki model, a prototype model of FH (this part is based on joint works with Julian Fischer, Jonas Ingmanns, Claudia Raithel). (3) mention recent developments of FH in the high dimensional case (relevant for, e.g., SGD in shallow neural networks).
 
 - date: 1 Dec 2023
   speaker: Coralia Cartis (Oxford)
