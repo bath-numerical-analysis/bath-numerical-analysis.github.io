@@ -67,8 +67,8 @@
   speaker: Coralia Cartis (Oxford)
   url: TBC
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Sparse random embeddings and their applications to optimization
+  abstract: We present subspace embedding properties for hashing/count-sketch matrices that are optimal in the projection dimension of the sketch. A diverse set of results are presented that address the case when the input matrix has sufficiently low coherence; how this coherence changes with the number of column nonzeros (allowing a scaling of the coherence bound), or is reduced through suitable transformations (when considering hashed- instead of subsampled- coherence reducing transformations such as randomised Hadamard). We then discuss the application of these and other sketching results to optimization algorithms -- improving on the efficiency of Blendenpik for linear-least squares; and on the efficiency and complexity of random subspace methods for nonconvex optimization. 
 
 - date: 8 Dec 2023
   speaker: MMath Year Long Project (YLP) talks
