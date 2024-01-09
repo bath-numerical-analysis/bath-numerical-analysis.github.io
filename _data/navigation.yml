@@ -59,13 +59,13 @@ teaching:
         url: /teaching/MA30051.html
       - title: Numerical Solution of Elliptic PDEs
         url: /teaching/MA30170.html
-      - title: Numerical Solution of Elliptic PDEs
+      - title: Machine Learning II
         url: /teaching/MA30279.html
   - title: Year Four
     children:
-      - title: Numerical optimisation and large-scale problems
+      - title: Numerical Optimisation and Large-Scale Problems
         url: /teaching/MA40050.html
-      - title: Numerical solution of evolutionary equations
+      - title: Numerical Solution of Evolutionary Equations
         url: /teaching/MA40171.html
       - title: Scientific Computing
         url: /teaching/MA40177.html
