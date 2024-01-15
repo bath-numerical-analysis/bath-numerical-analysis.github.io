@@ -13,12 +13,12 @@
   abstract: TBC
 
 - date: 23 Feb 2024
-  speaker: TBC
-  url: 
+  speaker: Guannan Chen (Bath) and Andraž Jelinčič (Bath)
+  url: https://people.bath.ac.uk/gc759/
   zoom: 1
   title: TBC
   abstract: TBC
-  
+
 - date: 1 Mar 2024
   speaker: Yue Wu (Strathclyde)
   url: https://yuewu57.github.io/
@@ -30,8 +30,8 @@
   speaker: Boris Shustin (Oxford)
   url: https://www.maths.ox.ac.uk/people/boris.shustin
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Tractable Riemannian Optimization via Randomized Preconditioning and Manifold Learning
+  abstract: Optimization problems constrained on manifolds are prevalent across science and engineering. For example, they arise in (generalized) eigenvalue problems, principal component analysis, and low-rank matrix completion, to name a few problems. Riemannian optimization is a principled framework for solving optimization problems where the desired optimum is constrained to a (Riemannian) manifold.  Algorithms designed in this framework usually require some geometrical description of the manifold, i.e., tangent spaces, retractions, Riemannian gradients, and Riemannian Hessians of the cost function. However, in some cases, some of the aforementioned geometric components cannot be accessed due to intractability or lack of information. In this talk, we present methods that allow for overcoming cases of intractability and lack of information. We demonstrate the case of intractability on canonical correlation analysis (CCA) and on Fisher linear discriminant analysis (FDA). Using Riemannian optimization to solve CCA or FDA with the standard geometric components is as expensive as solving them via a direct solver. We address this shortcoming using a technique called Riemannian preconditioning, which amounts to changing the Riemannian metric on the constraining manifold. We use randomized numerical linear algebra to form efficient preconditioners that balance the computational costs of the geometric components and the asymptotic convergence of the iterative methods. If time permits, we also show the case of lack of information, e.g., the constraining manifold can be accessed only via samples of it. We propose a novel approach that allows approximate Riemannian optimization using a manifold learning technique.
 
 - date: 15 Mar 2024
   speaker: TBC
