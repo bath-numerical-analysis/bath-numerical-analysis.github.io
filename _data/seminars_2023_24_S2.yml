@@ -6,7 +6,7 @@
   abstract: In this talk we discuss a new algorithm called RTSMS which is designed for approximating low-rank Tucker decompositions of tensors. Our approach uses sketching and a least-squares framework to compute the Tucker decomposition. The single-mode sketching aspect of RTSMS allows utilizing simple sketch matrices which are substantially smaller than alternative methods leading to considerable performance gains. Within its least-squares framework, RTSMS incorporates leverage scores for efficiency with Tikhonov regularization and iterative refinement for stability. The algorithm is demonstrated to be competitive with existing methods, sometimes outperforming them by a large margin. To set the stage for our discussion, we will first provide a brief overview of the preliminaries in tensor decompositions, establishing foundational concepts essential for understanding RTSMS.
 
 - date: 16 Feb 2024
-  speaker: Andraž Jelinčič
+  speaker: Andraž Jelinčič (Bath)
   url: https://samba.ac.uk/student/andraz-jelincic/
   zoom: 1
   title: TBC
