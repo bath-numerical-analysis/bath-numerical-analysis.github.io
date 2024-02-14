@@ -10,17 +10,15 @@
   url: https://people.bath.ac.uk/gc759/
   zoom: 1
   title: Quantum simulation of highly-oscillatory many-body Hamiltonians for near-term devices
-  abstract: We develop a fourth-order Magnus expansion based quantum algorithm for the simulation of many-body problems involving two-level quantum systems with time-dependent Hamiltonians, H(t). A major hurdle in the utilization of the Magnus expansion is the appearance of a commutator term which leads to prohibitively long circuits. We present a technique for eliminating this commutator and find that a single time-step of the resulting algorithm is only marginally costlier than that required for time-stepping with a time-independent Hamiltonian, requiring only three additional single-qubit layers. For a large class of Hamiltonians appearing in liquid-state nuclear magnetic resonance (NMR) applications, we further exploit symmetries of the Hamiltonian and achieve a surprising reduction in the expansion, whereby a single time-step of our fourth-order method has a circuit structure and cost that is identical to that required for a fourth-order Trotterized time-stepping procedure for time-independent Hamiltonians. Moreover, our algorithms are able to take time-steps that are larger than the wavelength of oscillation of the time-dependent Hamiltonian, making them particularly suited for highly-oscillatory controls. The resulting quantum circuits have shorter depths for all levels of accuracy when compared to first and second-order Trotterized methods, as well as other fourth-order Trotterized methods, making the proposed algorithm a suitable candidate for simulation of time-dependent Hamiltonians on near-term quantum devices.
-
-
+  abstract: 
+  
 - date: 16 Feb 2024
   speaker: Andraž Jelinčič (Bath)
   url: https://samba.ac.uk/student/andraz-jelincic/
   zoom: 1
   title: "SDEs and Brownian Trees: Now also on your GPU"
-  abstract: In this talk, we will give a quick overview of the new high order solvers for Stochastic Differential Equations (SDEs) in the Diffrax library. Diffrax is a toolbox for solving and analysing a wide variety of time-evolving differential equations, using sophisticated GPU-acceleration capabilities based on JAX. In particular, ODE/SDE solvers in Diffrax are autodifferentiable and can thus be calibrated to data via gradient-based optimization. To facilitate the use of SDE solvers with adaptive step sizes, Diffrax generates sample paths of Brownian motion using a "Virtual Brownian Tree" (VBT) data structure – which can be queried non-chronologically. We will discuss recent work extending Diffrax's VBT to generate the additional time integrals of Brownian motion needed for SDE solvers to achieve higher convergence rates. In our numerical experiment, we will show that high order adaptive SDE solvers can achieve state-of-the-art convergence for simulating (underdamped) Langevin dynamics. Whilst this SDE originates as a model in molecular dynamics, it has recently seen applications as an MCMC algorithm for Bayesian inference. Finally, to conclude, we will discuss applications of adaptive solvers in Diffrax to more general classes of SDEs.
-
-
+  abstract: 
+  
 - date: 23 Feb 2024
   speaker: Mohammad Sadegh Salehi (Bath)
   url: https://mohammadsadeghsalehi.github.io/
