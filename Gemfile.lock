@@ -32,17 +32,16 @@ GEM
       http_parser.rb (~> 0)
     ethon (0.16.0)
       ffi (>= 1.15.0)
-    eventmachine (1.2.7-x64-mingw32)
-    eventmachine (1.2.7-x86-mingw32)
+    eventmachine (1.2.7)
     execjs (2.9.1)
     faraday (2.9.0)
       faraday-net_http (>= 2.0, < 3.2)
     faraday-net_http (3.1.0)
       net-http
-    ffi (1.16.3)
+    ffi (1.16.3-x64-mingw-ucrt)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
-    github-pages (230)
+    github-pages (231)
       github-pages-health-check (= 1.18.2)
       jekyll (= 3.9.5)
       jekyll-avatar (= 0.8.0)
@@ -58,7 +57,7 @@ GEM
       jekyll-paginate (= 1.1.0)
       jekyll-readme-index (= 0.3.0)
       jekyll-redirect-from (= 0.16.0)
-      jekyll-relative-links (= 0.7.0)
+      jekyll-relative-links (= 0.6.1)
       jekyll-remote-theme (= 0.4.3)
       jekyll-sass-converter (= 1.5.2)
       jekyll-seo-tag (= 2.8.0)
@@ -112,8 +111,6 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
-    jekyll-archives (2.2.1)
-      jekyll (>= 3.6, < 5.0)
     jekyll-avatar (0.8.0)
       jekyll (>= 3.0, < 5.0)
     jekyll-coffeescript (1.2.2)
@@ -147,7 +144,7 @@ GEM
       jekyll (>= 3.0, < 5.0)
     jekyll-redirect-from (0.16.0)
       jekyll (>= 3.3, < 5.0)
-    jekyll-relative-links (0.7.0)
+    jekyll-relative-links (0.6.1)
       jekyll (>= 3.3, < 5.0)
     jekyll-remote-theme (0.4.3)
       addressable (~> 2.0)
@@ -218,7 +215,6 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
-    mini_portile2 (2.8.5)
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
@@ -227,8 +223,7 @@ GEM
     mutex_m (0.2.0)
     net-http (0.4.1)
       uri
-    nokogiri (1.16.2)
-      mini_portile2 (~> 2.8.2)
+    nokogiri (1.16.2-x64-mingw-ucrt)
       racc (~> 1.4)
     octokit (4.25.1)
       faraday (>= 1, < 3)
@@ -261,31 +256,22 @@ GEM
       ethon (>= 0.9.0)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
-    tzinfo-data (1.2024.1)
-      tzinfo (>= 1.0.0)
     unf (0.1.4)
       unf_ext
-    unf_ext (0.0.9.1)
+    unf_ext (0.0.9.1-x64-mingw-ucrt)
     unicode-display_width (1.8.0)
     uri (0.13.0)
     wdm (0.1.1)
     webrick (1.8.1)
 
 PLATFORMS
-  x64-mingw32
-  x86-mingw32
+  x64-mingw-ucrt
 
 DEPENDENCIES
   github-pages
-  jekyll-archives
-  jekyll-feed
   jekyll-include-cache
-  jekyll-remote-theme
-  minima (~> 2.0)
-  nokogiri (~> 1.13, >= 1.13.4)
-  tzinfo-data
-  wdm (~> 0.1.0)
-  webrick (~> 1.7)
+  wdm (>= 0.1.0)
+  webrick (>= 1.7.0)
 
 BUNDLED WITH
-   2.2.28
+   2.5.6
