@@ -24,15 +24,16 @@
   speaker: Mohammad Sadegh Salehi (Bath)
   url: https://mohammadsadeghsalehi.github.io/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: "An adaptively inexact first-order method for bilevel learning"
+  abstract: 'In various domains within imaging and data science, tasks are modelled using the variational regularisation approach. In this framework, manually selecting regularisation parameters poses a cumbersome challenge, especially when employing regularisers involving a large number of hyperparameters. To address this issue, machine learning offers a solution by learning parameters from data. However, the unattainability of exact function values and gradients with respect to hyperparameters requires reliance on inexact evaluations. State-of-the-art approaches often face difficulties in selecting accuracy sequences and determining an appropriate step size due to the unknown Lipschitz constant of the hypergradient. In this talk, we focus on overcoming these challenges through inexact gradient-based methods. We present our algorithm, the "Method of Adaptive Inexact Descent (MAID)," which provides a provably convergent backtracking line search, incorporating inexact function evaluations and hypergradients. This ensures convergence to a stationary point and adaptively determines the required accuracy. We conduct numerical comparisons to assess the effectiveness of our method against various state-of-the-art methods on an image denoising problem. Furthermore, we showcase our method's robustness across different initial accuracy and step size choices, emphasizing its practical applicability.'
+
 
 - date: 23 Feb 2024
   speaker: Ben Ashby (Bath)
   url: https://researchportal.bath.ac.uk/en/persons/ben-ashby-2
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: "Structure preserving numerical methods for non-Newtonian fluid flows"
+  abstract: "In this talk, we will discuss some key structures in non-Newtonian flows and how to design numerical methods that preserve them. The Oldroyd-B model for non-Newtonian fluid flows provides a constitutive relation for the elastic stress. It is typically formulated in terms of the conformation tensor, a quantity motivated by kinematics, and which can be proven to remain positive definite at the PDE level. This property is not guaranteed to be inherited by numerical schemes, and in cases where positivity is lost, numerical solutions can become unstable. We present a discretisation that preserves positive definiteness of the conformation tensor to increase stability of computations. The method consists of a finite element method for the fluid flow coupled to a finite difference method for a Lie derivative formulation of the constitutive law. In this framework, the advection and deformation terms of the upper convected derivative are discretised along fluid particle trajectories in a simple, cheap and cohesive manner, ensuring that the discrete conformation tensor is positive definite. We demonstrate the performance of this method with detailed numerical experiments in a lid-driven cavity setup. Numerical results are benchmarked against published data, and the method is shown to perform well in this challenging case."
 
 - date: 1 Mar 2024
   speaker: Emmanuil Georgoulis (Heriot-Watt and National Technical University of Athens)
@@ -47,6 +48,13 @@
   zoom: 1
   title: Tractable Riemannian Optimization via Randomized Preconditioning and Manifold Learning
   abstract: Optimization problems constrained on manifolds are prevalent across science and engineering. For example, they arise in (generalized) eigenvalue problems, principal component analysis, and low-rank matrix completion, to name a few problems. Riemannian optimization is a principled framework for solving optimization problems where the desired optimum is constrained to a (Riemannian) manifold.  Algorithms designed in this framework usually require some geometrical description of the manifold, i.e., tangent spaces, retractions, Riemannian gradients, and Riemannian Hessians of the cost function. However, in some cases, some of the aforementioned geometric components cannot be accessed due to intractability or lack of information. In this talk, we present methods that allow for overcoming cases of intractability and lack of information. We demonstrate the case of intractability on canonical correlation analysis (CCA) and on Fisher linear discriminant analysis (FDA). Using Riemannian optimization to solve CCA or FDA with the standard geometric components is as expensive as solving them via a direct solver. We address this shortcoming using a technique called Riemannian preconditioning, which amounts to changing the Riemannian metric on the constraining manifold. We use randomized numerical linear algebra to form efficient preconditioners that balance the computational costs of the geometric components and the asymptotic convergence of the iterative methods. If time permits, we also show the case of lack of information, e.g., the constraining manifold can be accessed only via samples of it. We propose a novel approach that allows approximate Riemannian optimization using a manifold learning technique.
+
+- date: 8 Mar 2024
+  speaker: Paz Fink Shustin (Oxford)
+  url: https://www.maths.ox.ac.uk/people/paz.finkshustin
+  zoom: 1
+  title: TBC
+  abstract: TBC
 
 - date: 15 Mar 2024
   speaker: Yury Korolev (Bath)
