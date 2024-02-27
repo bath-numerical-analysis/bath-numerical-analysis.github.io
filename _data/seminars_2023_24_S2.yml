@@ -39,8 +39,8 @@
   speaker: Emmanuil Georgoulis (Heriot-Watt and National Technical University of Athens)
   url: http://www.math.ntua.gr/~georgoulis/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: "Hypocoercivity-preserving Galerkin discretisations"
+  abstract: 'Degenerate differential evolution PDE problems are often characterised by the explicit presence of diffusion/dissipation in some of the spatial directions _only_, yet may still admit decay properties to some long time equilibrium. Classical examples include the inhomogeneous Fokker-Planck equation, Boltzmann equation with various collision kernels, systems of equation arising in micromagnetism or flow vorticity modelling, etc. In the celebrated AMS memoir "Hypocoercivity", Villani introduced the concept of hypocoercivity to describe a framework able to explain decay to equilibrium in the presence of dissipation in some directions only. The key technical idea involved is to exploit certain commutators to overcome the degeneracy of dissipation. I shall present some results and ideas on the development of numerical methods which preserve the hypocoercivity property upon discretisation. As a result, such numerical methods will be suitable for arbitrarily long-time simulations of complex phenomena modelled by kinetic-type formulations. This will be achieved by addressing the key challenge of lack of commutativity between differentiation and discretisation in the context of mesh-based Galerkin-type numerical methods via the use of carefully constructed non-conforming weak formulations of the underlying evolution problems. Some of the results I plan to present are based on joint work with Zhaonan Dong (INRIA-Paris) and Philip Herbert (Sussex).'
   
 - date: 8 Mar 2024
   speaker: Boris Shustin (Oxford)
