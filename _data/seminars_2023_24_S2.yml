@@ -53,8 +53,8 @@
   speaker: Paz Fink Shustin (Oxford)
   url: https://www.maths.ox.ac.uk/people/paz.finkshustin
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Scalable Gaussian Process Regression with Quadrature-based Features
+  abstract: Gaussian processes provide a powerful probabilistic kernel learning framework, which allows high-quality nonparametric learning via methods such as Gaussian process regression. Nevertheless, its learning phase requires unrealistic massive computations for large datasets. In this talk, we present a quadrature-based approach for scaling up Gaussian process regression via a low-rank approximation of the kernel matrix. The low-rank structure is utilized to achieve effective hyperparameter learning, training, and prediction. Our Gauss-Legendre features method is inspired by the well-known random Fourier features approach, which also builds low-rank approximations via numerical integration. However, our method is capable of generating high-quality kernel approximation using a number of features that is poly-logarithmic in the number of training points, while similar guarantees will require an amount that is at the very least linear in the number of training points when using random Fourier features. The utility of our method for learning with low-dimensional datasets is demonstrated using numerical experiments.
 
 - date: 15 Mar 2024
   speaker: Yury Korolev (Bath)
