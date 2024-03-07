@@ -55,17 +55,17 @@
   zoom: 1
   title: Scalable Gaussian Process Regression with Quadrature-based Features
   abstract: Gaussian processes provide a powerful probabilistic kernel learning framework, which allows high-quality nonparametric learning via methods such as Gaussian process regression. Nevertheless, its learning phase requires unrealistic massive computations for large datasets. In this talk, we present a quadrature-based approach for scaling up Gaussian process regression via a low-rank approximation of the kernel matrix. The low-rank structure is utilized to achieve effective hyperparameter learning, training, and prediction. Our Gauss-Legendre features method is inspired by the well-known random Fourier features approach, which also builds low-rank approximations via numerical integration. However, our method is capable of generating high-quality kernel approximation using a number of features that is poly-logarithmic in the number of training points, while similar guarantees will require an amount that is at the very least linear in the number of training points when using random Fourier features. The utility of our method for learning with low-dimensional datasets is demonstrated using numerical experiments.
-
-- date: 15 Mar 2024
-  speaker: Yury Korolev (Bath)
-  url: https://yury-korolev.gitlab.io/
-  zoom: 1
-  title: TBC
-  abstract: TBC
   
 - date: 15 Mar 2024
   speaker: Alex Trenam (Bath)
   url: https://alextrenam.github.io/
+  zoom: 1
+  title: Structure-preserving finite element methods for electrolyte models
+  abstract: Structure-preserving numerical methods retain at the discrete level some properties of interest possessed by the continuum model (e.g. conservation of mass, positivity of concentrations, energy dissipation laws). In this talk I will discuss structure preservation in the context of the Poisson-Nernst-Planck system of coupled, non-linear PDEs. This evolution model describes the interaction between concentrations of different charged particles in the presence of a global electric field, which also evolves with the concentrations. In particular, I will consider the use of discontinuous Galerkin finite element methods, with a view towards stable, structure-preserving discretisations of the extended Navier-Stokes-Poisson-Nernst-Planck model.
+  
+- date: 15 Mar 2024
+  speaker: Yury Korolev (Bath)
+  url: https://yury-korolev.gitlab.io/
   zoom: 1
   title: TBC
   abstract: TBC
@@ -77,7 +77,6 @@
   title: TBC
   abstract: TBC
   
-
 - date: 19 Apr 2024
   speaker: Nicolas Boullé (Cambridge)
   url: https://nboulle.github.io/
