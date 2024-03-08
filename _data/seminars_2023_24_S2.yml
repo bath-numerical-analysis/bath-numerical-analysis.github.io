@@ -67,8 +67,9 @@
   speaker: Yury Korolev (Bath)
   url: https://yury-korolev.gitlab.io/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Infinite infimal convolution regularisation
+  abstract: Infimal convolutions of two or more convex regularisers have proven very useful for decomposing an image into a sum of two or more components, each of which has low energy with respect to one of the regularisers. Such components can, e.g., have different smoothness or different dominant directions of anisotropy. We extend this idea further to infimal convolutions of an infinite (continuum) family of functionals. For variational problems regularised by an infinite infimal convolution functional we propose a lifting to the space of vector-valued measures, where we prove a representer theorem (existence of sparse solutions in the case of finite-dimensional measurements) and derive a generalised conditional gradient method. This allows us to select adaptively the parameters of the infinite infimal convolution that best suit a given image. We apply this paradigm for finding dominant directions of oscillation in an image using an infinite infimal convolution of anisotropic fractional Laplacians. Joint work with Kristian Bredies, Marcello Carioni, Martin Holler, and Carola Schönlieb.
+
   
 - date: 22 Mar 2024
   speaker: Yue Wu (Strathclyde)
