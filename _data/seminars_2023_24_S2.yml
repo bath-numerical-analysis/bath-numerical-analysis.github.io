@@ -81,8 +81,8 @@
   speaker: Nicolas Boullé (Cambridge)
   url: https://nboulle.github.io/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Elliptic PDE learning is provably data-efficient
+  abstract: PDE learning is an emerging field at the intersection of machine learning, physics, and mathematics, that aims to discover properties of unknown physical systems from experimental data. Popular techniques exploit the approximation power of deep learning to learn solution operators, which map source terms to solutions of the underlying PDE. Solution operators can then produce surrogate data for data-intensive machine learning approaches such as learning reduced order models for design optimization in engineering and PDE recovery. In most deep learning applications, a large amount of training data is needed, which is often unrealistic in engineering and biology. However, PDE learning is shockingly data-efficient in practice. We provide a theoretical explanation for this behaviour by constructing an algorithm that recovers solution operators associated with elliptic PDEs and achieves an exponential convergence rate with respect to the size of the training dataset. The proof technique combines prior knowledge of PDE theory and randomized numerical linear algebra techniques and may lead to practical benefits such as improving dataset and neural network architecture designs.
 
 - date: 26 Apr 2024
   speaker: Wei Pan (Imperial College London)
