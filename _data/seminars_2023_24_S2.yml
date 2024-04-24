@@ -89,7 +89,8 @@
   url: https://scholar.google.com/citations?user=RNNYygwAAAAJ&hl=en
   zoom: 1
   title: Numerics and applications of Stochastic Advection by Lie Transport
-  abstract: TBC
+  abstract: 'In the prediction of geophysical fluid dynamics (GFD) such as ocean and weather phenomena, two main types of uncertainty arise. The first concerns the transport uncertainty, which dictates the path of fluid flow. The second pertains to the uncertainty in the thermodynamic behaviour. "Stochastic advection by Lie transport" (SALT) addresses the first type of uncertainty. SALT serves as a stochastic parameterisation for fluid transport, yielding stochastic partial differential equations (SPDE) models that preserve circulation. In this presentation, first we provide an overview of the application of SALT-type SPDEs in high dimensional data assimilation. Then we introduce the recently developed SALT thermal-quasigeostrophic model. We discuss the consistency of our implementation and demonstrate how alpha regularisation can be employed to control inherent system instabilities.'
+
   
 - date: 3 May 2024
   speaker: Carlos Jerez Hanckes (Universidad Adolfo Ibáñez)
