@@ -95,5 +95,5 @@
   speaker: Carlos Jerez Hanckes (Universidad Adolfo Ibáñez)
   url: https://sites.google.com/view/jerez-hanckes
   zoom: 1
-  title: Multiple Traces Formulation: a marriage between Boundary Integral and Domain Decomposition Methods 
+  title: "Multiple Traces Formulation: a marriage between Boundary Integral and Domain Decomposition Methods"
   abstract: For over a decade boundary integral formulations dubbed Multiple Traces Formulations (MTFs) were developed aiming originally to tackle wave scattering by heterogenous objects. These formulations regard solution traces over each subdomain as independent unknowns and impose adequate transmission conditions weakly. Such an approach is reminiscent to the more established Domain Decomposition methods (DDMs) but portraying several novelties. Specifically, under general conditions, MTFs can be shown to be well posed, robust, parallelizable and either well conditioned or easy to precondition with Krylov methods converging quickly. In this talk, we will explain the construction of MTFs, their intrinsic properties and present an overview of its numerical implementations and applications in electromagnetics, acoustics, bioengineering as well as their limitations and recent advances.
