@@ -91,10 +91,9 @@
   title: Numerics and applications of Stochastic Advection by Lie Transport
   abstract: 'In the prediction of geophysical fluid dynamics (GFD) such as ocean and weather phenomena, two main types of uncertainty arise. The first concerns the transport uncertainty, which dictates the path of fluid flow. The second pertains to the uncertainty in the thermodynamic behaviour. "Stochastic advection by Lie transport" (SALT) addresses the first type of uncertainty. SALT serves as a stochastic parameterisation for fluid transport, yielding stochastic partial differential equations (SPDE) models that preserve circulation. In this presentation, first we provide an overview of the application of SALT-type SPDEs in high dimensional data assimilation. Then we introduce the recently developed SALT thermal-quasigeostrophic model. We discuss the consistency of our implementation and demonstrate how alpha regularisation can be employed to control inherent system instabilities.'
 
-  
 - date: 3 May 2024
   speaker: Carlos Jerez Hanckes (Universidad Adolfo Ibáñez)
   url: https://sites.google.com/view/jerez-hanckes
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Multiple Traces Formulation: a marriage between Boundary Integral and Domain Decomposition Methods 
+  abstract: For over a decade boundary integral formulations dubbed Multiple Traces Formulations (MTFs) were developed aiming originally to tackle wave scattering by heterogenous objects. These formulations regard solution traces over each subdomain as independent unknowns and impose adequate transmission conditions weakly. Such an approach is reminiscent to the more established Domain Decomposition methods (DDMs) but portraying several novelties. Specifically, under general conditions, MTFs can be shown to be well posed, robust, parallelizable and either well conditioned or easy to precondition with Krylov methods converging quickly. In this talk, we will explain the construction of MTFs, their intrinsic properties and present an overview of its numerical implementations and applications in electromagnetics, acoustics, bioengineering as well as their limitations and recent advances.
