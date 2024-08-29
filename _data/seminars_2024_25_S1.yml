@@ -27,19 +27,19 @@
   abstract: TBC
   
 - date: 1 Nov 2024
-  speaker: Abdalaziz Hamdan (Bath)
-  url: https://www.researchgate.net/profile/Abdalaziz-Hamdan
-  zoom: 1
-  title: TBC
-  abstract: TBC
-
-- date: 1 Nov 2024
   speaker: Jenny Power (Bath)
   url: https://jenny-power.github.io/
   zoom: 1
   title: TBC
   abstract: TBC
-  
+
+- date: 1 Nov 2024
+  speaker: TBC
+  url: 
+  zoom: 1
+  title: TBC
+  abstract: TBC
+
 - date: 8 Nov 2024
   speaker: Hok Shing Wong (Bath)
   url: https://maths4dl.ac.uk/team-member/hok-shing-wong
@@ -62,12 +62,19 @@
   abstract: TBC
   
 - date: 22 Nov 2024
+  speaker: Abdalaziz Hamdan (Bath)
+  url: https://www.researchgate.net/profile/Abdalaziz-Hamdan
+  zoom: 1
+  title: TBC
+  abstract: TBC
+
+- date: 22 Nov 2024
   speaker: TBC
   url: 
   zoom: 1
   title: TBC
   abstract: TBC
-  
+
 - date: 29 Nov 2024
   speaker: TBC
   url: 
