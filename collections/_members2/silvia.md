@@ -4,6 +4,5 @@ last: Gazzola
 research: Regularization of inverse problems, imaging problems, numerical linear algebra
 homepage: https://people.bath.ac.uk/sg968/
 pic: silvia.jpg
-units: MA30170 
 topics: nla ip
 ---

@@ -8,4 +8,3 @@ header:
       url: /about/
 title: "Numerical Analysis & Data Science"
 ---
-# .
