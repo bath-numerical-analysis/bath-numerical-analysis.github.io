@@ -2,8 +2,16 @@
   speaker: Katie MacKenzie (Strathclyde)
   url: https://pureportal.strath.ac.uk/en/persons/katherine-mackenzie
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Using Firedrake to develop Machine Learning models for atmospheric fluid dynamics
+  abstract: Recently, there has been a lot of interest in machine learning based surrogate models for atmospheric fluid dynamics. Successful approaches such as GraphCast [Lam et al, Science, 382(6677), 2023] use an encoder-processor-decoder architecture where the processor describes the propagation of information on a Graph Neural Network (GNN) via message passing. Since the dynamics is approximated on a low-dimensional space, these models are much faster than traditional methods that solve the underlying PDE numerically on a fine mesh. We explore a variation of this architecture where the processor is replaced by the solution of a time-dependent differential equation in a low-dimensional latent space. Compared to GNNs, this allows the application of standard techniques from numerical analysis, thus potentially improving stability and interpretability for example by exactly enforcing conservation laws. To implement this, we use the recent Firedrake/PyTorch interface [Bouziani & Ham, 2023] to train and solve time-dependent PDE surrogate models on the sphere. The encoder in our model combines the interpolation of the initial condition to the latent space on a vertex-only-mesh with a learnable embedding; the decoder has a similar structure based on the adjoint of the interpolation. Our model is trained on numerical solutions of PDE which have been calculated a-priori using Firedrake. The aim of our work is to combine the reliability of Finite Elements with the efficiency of Neural Networks surrogates to produce a competitive model which has the potential to be applied to time-critical applications in weather forecasting.
+
+- date: 27 Sep 2024
+  speaker: James Foster (Bath)
+  url: https://people.bath.ac.uk/jmf68/
+  zoom: 1
+  title: On the convergence of adaptive approximations for SDEs
+  abstract: When using ordinary differential equations (ODEs), numerical solutions are often approximated and propagated in time via discrete step sizes. For a large variety of ODE problems, performance can be improved by making these step sizes "adaptive" – that is, adaptively changed based on the state of system. However, for stochastic differential equations (SDEs), adaptive numerical methods can be difficult to study and even fail to converge due to the rough nature of Brownian motion. In this talk, we will show that convergence does indeed occur, provided the underlying Brownian motion is discretized in an adaptive but "martingale-like" fashion. Whilst this prevents adaptive steps from skipping over time points (which we show can prevent convergence), we believe our convergence theory is the first that is applicable to standard SDE solvers. We will discuss the key ingredients in this analysis – including martingale convergence, rough path theory and the approximation of Brownian motion by polynomials. Based on our theory, we also modify an adaptive "Proportional-Integral" (PI) step size controller for use in the SDE setting. Unlike those used for ODEs, this new PI controller is designed to revisit time points where the Brownian motion was previously sampled. Finally, we conclude with a numerical experiment showing that SDE solvers can achieve an order of magnitude more accuracy with adaptive step sizes than with constant step sizes. (joint work with Andraž Jelinčič)
+
 
 - date: 4 Oct 2024
   speaker: Malena Sabaté Landman (Oxford)
