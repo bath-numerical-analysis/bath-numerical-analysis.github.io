@@ -17,8 +17,8 @@
   speaker: Malena Sabaté Landman (Oxford)
   url: https://sites.google.com/view/malena-sabate-landman
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Inner product free Krylov methods for large-scale inverse problems
+  abstract: Inverse problems focus on reconstructing hidden objects from indirect, often noisy measurements, and are prevalent in numerous scientific and engineering disciplines. These reconstructions are typically highly sensitive to perturbations such as measurement errors, making regularization essential. In this presentation, I will discuss Krylov subspace methods that avoid inner-product computations and are specifically designed to efficiently address large-scale linear inverse problems.  In particular, I will highlight their regularization capabilities and present computational results that demonstrate the effectiveness of these methods in different scenarios.
 
 - date: 11 Oct 2024
   speaker: Subhayan Roy Moulik (Cambridge)
