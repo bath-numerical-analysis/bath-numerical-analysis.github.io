@@ -27,13 +27,12 @@
   title: Quantum algorithms for sampling eigenstates with Spectral Sieve
   abstract: I would like to illustrate a method for sampling eigenstates of a class of Hermitian matrices, called k-local Hamiltonians, using a quantum computer. The algorithm will be presented in a framework utilising numerical integral transformations, to implement a spectral projector. A sequence of parameterised spectral projectors will be then shown to drive any state vector to some desired eigenspace. Numerical quantum computational examples and complexity theoretic consequences of the algorithm will be discussed in conclusion.
 
-
 - date: 18 Oct 2024
   speaker: Johannes Hertrich (UCL)
   url: https://johertrich.github.io/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Fast Kernel Summation via Slicing and Fourier Transforms
+  abstract: The fast computation of large kernel sums is a challenging task which arises as a subproblem in any kernel method. Initially, this problem has complexity O(N<sup>2</sup>), where N is the number of considered data points. In this talk, we propose an approxmation algorithm which reduces this complexity to O(N). Our approach is based on two ideas. First, we prove that under mild assumptions radial kernels can be represented as sliced version of some one-dimensional kernel and derive an analytic formula for the one-dimensional counterpart. Hence, we can reduce the d-dimensional kernel summation to a one-dimensional setting. Second, for solving these one-dimensional problems efficiently, we apply fast Fourier summations on non-equispaced data or a sorting algorithm. We prove bounds for the slicing error, employ quasi-Monte Carlo methods for improved error rates and demonstrate the advantages of our approach by numerical examples. Finally, we present an application in generative modelling.
 
 - date: 25 Oct 2024
   speaker: Xiaocheng Shang (Birmingham)
