@@ -38,8 +38,8 @@
   speaker: Xiaocheng Shang (Birmingham)
   url: https://sites.google.com/site/xiaochengshang/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Accurate and Efficient Numerical Methods for Molecular Dynamics and Data Science Using Adaptive Thermostats
+  abstract: I will discuss the design of state-of-the-art numerical methods for sampling probability measures in high dimension where the underlying model is only approximately identified with a gradient system. Extended stochastic dynamical methods, known as adaptive thermostats that automatically correct thermodynamic averages using a negative feedback loop, are discussed which have application to molecular dynamics and Bayesian sampling techniques arising in emerging machine learning applications. I will also discuss the characteristics of different algorithms, including the convergence of averages and the accuracy of numerical discretizations.
   
 - date: 1 Nov 2024
   speaker: Francesco Tudisco (Edinburgh)
