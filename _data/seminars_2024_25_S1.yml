@@ -45,8 +45,8 @@
   speaker: Francesco Tudisco (Edinburgh)
   url: https://ftudisco.gitlab.io/post/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Exploiting low-rank geometry in deep learning for training and fine-tuning
+  abstract: As models and datasets grow, modern AI faces significant challenges related to timing, costs, energy consumption, and accessibility. To address these, there has been a surge of interest in network compression and parameter-efficient fine-tuning (PEFT) techniques to reduce computational overhead while maintaining model performance. In terms of compression, the majority of the existing methods focus on post-training pruning to reduce inference costs. However, an important subset tackles the reduction of training overhead, with layer factorization emerging as a key approach both for training and fine-tuning. In fact, recent empirical and theoretical findings indicate that deep networks exhibit an implicit low-rank bias, suggesting the existence of highly effective low-rank subnetworks. In this talk, I will present our recent work on analyzing and leveraging this low-rank bias for efficient model compression and fine-tuning. By exploiting the Riemannian geometry of low-rank spaces, we propose a geometry-aware variant of stochastic gradient descent that trains small, factorized layers while dynamically adjusting their rank. We provide theoretical guarantees on convergence and approximation, alongside experimental results demonstrating competitive performance across various state-of-the-art network architectures both in terms of pre-training and fine-tuning.
 
 - date: 8 Nov 2024
   speaker: SAMBa personal research project (PRP) talks
