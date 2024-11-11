@@ -59,8 +59,8 @@
   speaker: Megan Griffin-Pickering (UCL)
   url: https://griffinpickering.wordpress.com
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Kinetic-Type Mean Field Games
+  abstract: "Mean Field Games describe the Nash equilibria of large many-player differential games. Much of the literature has previously focused on games in which players have full control over the derivative of their state variable. However, this assumption may not be appropriate in applications, for example, if players control their acceleration rather than their velocity. Another key factor is the properties of the Hamiltonian: whether the dependence on the measure variable is local or non-local, and whether the Hamiltonian is additively separable. Such conditions are mathematically useful but unrealistic in many applications. I will discuss recent work, in which we obtain well-posedness results for certain classes of kinetic Mean Field Games with local Hamiltonians, including: deterministic games with variational structure; and games with degenerate diffusion and non-separable Hamiltonians. Based on joint works with David Ambrose (Drexel University) and Alpár Mészaros (Durham University)."
   
 - date: 22 Nov 2024
   speaker: Abdalaziz Hamdan (Bath)
