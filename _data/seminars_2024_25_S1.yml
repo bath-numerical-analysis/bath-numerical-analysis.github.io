@@ -66,8 +66,8 @@
   speaker: Abdalaziz Hamdan (Bath)
   url: https://www.researchgate.net/profile/Abdalaziz-Hamdan
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Mixed finite-element methods for smectic A liquid crystals
+  abstract: In recent years, energy-minimization finite-element methods have been proposed for the computational modelling of equilibrium states of several types of liquid crystals. Here, we present a four-field formulation for models of smectic A liquid crystals, based on the free-energy functionals proposed by Pevnyi, Selinger, and Sluckin, and by Xia et al. The Euler-Lagrange equations for these models include fourth-order terms acting on the smectic order parameter (or density variation of the LC). While H<sup>2</sup> conforming or C<sup>0</sup> interior penalty methods can be used to discretize such terms, we investigate introducing the gradient of the smectic order parameter as an explicit variable, and constraining its value using a Lagrange multiplier. Numerical results are obtained using Firedrake for the finite element discretization and PETSc for the nonlinear and linear solvers.
 
 - date: 22 Nov 2024
   speaker: Jenny Power (Bath)
