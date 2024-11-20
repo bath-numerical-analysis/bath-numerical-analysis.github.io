@@ -73,8 +73,8 @@
   speaker: Jenny Power (Bath)
   url: https://jenny-power.github.io/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Adaptive Regularisation for PDE Constrained Optimal Control
+  abstract: PDE constrained optimal control problems require regularisation to ensure well-posedness. The optimality conditions for these problems can be reduced to a singularly perturbed PDE involving a, typically small, regularisation parameter, making the solutions challenging to approximate accurately. We present a method to adaptively vary the regularisation parameter across the domain, allowing us to choose this parameter to be larger where needed. Our approach is a finite element approach that couples both regularisation and discretisation adaptivity, varying both the regularisation parameter and meshsize locally based on rigorous a posteriori error estimates, aiming to dynamically balance induced regularisation and discretisation errors.
 
 - date: 29 Nov 2024
   speaker: Veronika Chronholm (Bath)
