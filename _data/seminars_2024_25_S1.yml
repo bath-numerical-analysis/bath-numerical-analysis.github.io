@@ -12,7 +12,6 @@
   title: On the convergence of adaptive approximations for SDEs
   abstract: When using ordinary differential equations (ODEs), numerical solutions are often approximated and propagated in time via discrete step sizes. For a large variety of ODE problems, performance can be improved by making these step sizes "adaptive" – that is, adaptively changed based on the state of system. However, for stochastic differential equations (SDEs), adaptive numerical methods can be difficult to study and even fail to converge due to the rough nature of Brownian motion. In this talk, we will show that convergence does indeed occur, provided the underlying Brownian motion is discretized in an adaptive but "martingale-like" fashion. Whilst this prevents adaptive steps from skipping over time points (which we show can prevent convergence), we believe our convergence theory is the first that is applicable to standard SDE solvers. We will discuss the key ingredients in this analysis – including martingale convergence, rough path theory and the approximation of Brownian motion by polynomials. Based on our theory, we also modify an adaptive "Proportional-Integral" (PI) step size controller for use in the SDE setting. Unlike those used for ODEs, this new PI controller is designed to revisit time points where the Brownian motion was previously sampled. Finally, we conclude with a numerical experiment showing that SDE solvers can achieve an order of magnitude more accuracy with adaptive step sizes than with constant step sizes. (joint work with Andraž Jelinčič)
 
-
 - date: 4 Oct 2024
   speaker: Malena Sabaté Landman (Oxford)
   url: https://sites.google.com/view/malena-sabate-landman
@@ -52,8 +51,8 @@
   speaker: SAMBa personal research project (PRP) talks
   url: 
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: 
+  abstract: 
  
 - date: 15 Nov 2024
   speaker: Megan Griffin-Pickering (UCL)
@@ -80,7 +79,7 @@
   speaker: Veronika Chronholm (Bath)
   url: https://samba.ac.uk/student/veronika-chronholm/
   zoom: 1
-  title: TBC
+  title: Simulating charged particle transport for radiotherapy
   abstract: TBC
   
 - date: 29 Nov 2024
