@@ -80,7 +80,7 @@
   url: https://samba.ac.uk/student/veronika-chronholm/
   zoom: 1
   title: Simulating charged particle transport for radiotherapy
-  abstract: TBC
+  abstract: Proton Beam Therapy (PBT) is a type of radiotherapy used for cancer treatment. Due to the sharply peaked dose-depth curve characteristic of protons, and the fact that protons stop at a finite depth inside the tissue, PBT is especially useful when treating tumours situated close to vital organs, which need to be spared from radiation damage. To produce a treatment plan suited to a specific patient, an accurate forward model for proton radiation is required. Many evaluations of this forward model are needed to produce an optimal treatment plan, meaning that in addition to being accurate, the forward model also needs to be quick to evaluate, either numerically or analytically. This talk will present a spatially one dimensional PDE model for proton transport, and its simulation using numerical methods. We will discuss some of the challenges that arise in simulating this model using standard methods, and present some possible ways to tackle these challenges.
   
 - date: 29 Nov 2024
   speaker: William Warren (Bath)
