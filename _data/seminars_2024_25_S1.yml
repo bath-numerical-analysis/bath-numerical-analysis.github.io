@@ -87,7 +87,7 @@
   url: https://uk.linkedin.com/in/william-warren1
   zoom: 1
   title: Recombination for efficient cubature formulae
-  abstract: TBC
+  abstract: Numerical integration is one of the most common tasks in scientific computing. For integrals over finite intervals, numerical integration can be efficiently performed using Gaussian quadrature rules. However, extending this to design practical cubature rules for multidimensional integrals can be very challenging. In this talk, I will present a recent algorithm called "Recombination" &mdash; which can be used to reduce the number of points in a cubature rule. In particular, I will demonstrate recombination for designing cubature rules on both the cube and an irregular domain. (joint work with James Foster and Thomas Coxon)
 
 - date: 6 Dec 2024
   speaker: MMath Year Long Project (YLP) talks
