@@ -90,11 +90,11 @@
   abstract: Numerical integration is one of the most common tasks in scientific computing. For integrals over finite intervals, numerical integration can be efficiently performed using Gaussian quadrature rules. However, extending this to design practical cubature rules for multidimensional integrals can be very challenging. In this talk, I will present a recent algorithm called "Recombination" &ndash; which can be used to reduce the number of points in a cubature rule. In particular, I will demonstrate recombination for designing cubature rules on both the cube and an irregular domain. (joint work with James Foster and Thomas Coxon)
 
 - date: 6 Dec 2024
-  speaker: MMath Year Long Project (YLP) talks
+  speaker: MMath students
   url: 
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: "Year-Long Projects  (click for running order)"
+  abstract: "Speakers:<br> 1.  Alex Keyes -  Finite element methods for the Stokes model<br>2. Dylan Nimmo - Numerical methods for stochastic differential equations<br>3. Sam Smithwick -  Solving Inverse Problems with Optimization<br>"
   
 - date: 13 Dec 2024
   speaker: Allen Paul (Bath)
