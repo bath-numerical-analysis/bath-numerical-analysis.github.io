@@ -100,8 +100,8 @@
   speaker: Hok Shing Wong (Bath)
   url: https://maths4dl.ac.uk/team-member/hok-shing-wong
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: A primal-dual algorithm for variational image reconstruction with learned convex regularizers
+  abstract: We address the optimization problem in a data-driven variational reconstruction framework, where the regularizer is parameterized by an input-convex neural network (ICNN). While gradient-based methods are commonly used to solve such problems, they struggle to effectively handle non-smoothness which often leads to slow convergence. Moreover, the nested structure of the neural network complicates the application of standard non-smooth optimization techniques, such as proximal algorithms. To overcome these challenges, we reformulate the problem and eliminate the network's nested structure. We prove that this reformulation is equivalent to the original variational problem, which can then be solved efficiently with a primal-dual algorithm.
 
 - date: 13 Dec 2024
   speaker: Aaron Pim (Bath)
