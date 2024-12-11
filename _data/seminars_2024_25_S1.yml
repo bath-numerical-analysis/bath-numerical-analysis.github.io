@@ -107,5 +107,5 @@
   speaker: Aaron Pim (Bath)
   url: https://uk.linkedin.com/in/aaronpim
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: A Deep Uzawa-Lagrange Multiplier Approach for Boundary Conditions in Deep Ritz Methods
+  abstract: In this talk I will introduce a deep learning-based framework for weakly enforcing boundary conditions in the numerical approximation of partial differential equations. Building on existing deep Ritz methods, I will propose the Deep Uzawa algorithm, which incorporates Lagrange multipliers to handle boundary conditions effectively. This modification requires only a minor computational adjustment but ensures enhanced convergence properties and provably accurate enforcement of boundary conditions, even for singularly perturbed problems.
