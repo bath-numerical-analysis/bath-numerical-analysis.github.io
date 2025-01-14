@@ -13,6 +13,14 @@
   abstract: TBC
 
 - date: 21 Feb 2025
+  speaker: Eike Mueller (University of Bath)
+  url: https://people.bath.ac.uk/em459/
+  zoom: 1
+  title: High-order IMEX-HDG timestepping methods for the incompressible Euler equations
+  abstract: Discretisation methods that are of high order in space and time are highly desirable when solving the equations of fluid dynamics since they show superlinear convergence and make efficient use of modern computer hardware. We develop an efficient timestepping method for the incompressible Euler equations based on combining implicit-explicit (IMEX) time-integrators, high-order Hybridised Discontinuous Galerkin (HDG) discretisations and splitting methods. The two computational bottlenecks are the calculation of a tentative velocity and the solution of a velocity-pressure system to enforce incompressibility. The second solve is preconditioned with a non-nested hybridised multigrid preconditioner as proposed by Cockburn, Dubois, Gopalakrishnan and Tan for the Schur-complement system that arises from static condensation to eliminate the pressure/velocity unknowns in favour of variables on the mesh-facets. The tentative velocity solve is preconditioned with ILU0. With this choice of preconditioners, the number of solver iterations depends only weakly on the polynomial degree and the grid-spacing; in other words, empirically the method is approximately h- and p-robust. As a consequence, the cost of a single timestep is roughly proportional to the total number of unknowns. At high order this allows the computation of highly accurate solutions at a low computational cost. The code has been implemented in Firedrake, using static condensation technology and PETSc to construct a fairly complex solver/preconditioner. Numerical results are presented for the simulation of a two-dimensional Taylor-Green vertex.
+
+
+- date: 21 Feb 2025
   speaker: TBC
   url: 
   zoom: 1
@@ -20,7 +28,7 @@
   abstract: TBC
 
 - date: 28 Feb 2025
-  speaker: Henry Lockyer
+  speaker: Henry Lockyer (University of Bath)
   url: https://hl785.github.io/
   zoom: 1
   title: TBC
