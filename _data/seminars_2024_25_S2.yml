@@ -19,10 +19,9 @@
   title: High-order IMEX-HDG timestepping methods for the incompressible Euler equations
   abstract: Discretisation methods that are of high order in space and time are highly desirable when solving the equations of fluid dynamics since they show superlinear convergence and make efficient use of modern computer hardware. We develop an efficient timestepping method for the incompressible Euler equations based on combining implicit-explicit (IMEX) time-integrators, high-order Hybridised Discontinuous Galerkin (HDG) discretisations and splitting methods. The two computational bottlenecks are the calculation of a tentative velocity and the solution of a velocity-pressure system to enforce incompressibility. The second solve is preconditioned with a non-nested hybridised multigrid preconditioner as proposed by Cockburn, Dubois, Gopalakrishnan and Tan for the Schur-complement system that arises from static condensation to eliminate the pressure/velocity unknowns in favour of variables on the mesh-facets. The tentative velocity solve is preconditioned with ILU0. With this choice of preconditioners, the number of solver iterations depends only weakly on the polynomial degree and the grid-spacing; in other words, empirically the method is approximately h- and p-robust. As a consequence, the cost of a single timestep is roughly proportional to the total number of unknowns. At high order this allows the computation of highly accurate solutions at a low computational cost. The code has been implemented in Firedrake, using static condensation technology and PETSc to construct a fairly complex solver/preconditioner. Numerical results are presented for the simulation of a two-dimensional Taylor-Green vertex.
 
-
 - date: 21 Feb 2025
-  speaker: TBC
-  url: 
+  speaker: Sam McCallum (University of Bath)
+  url: https://samba.ac.uk/student/sam-mccallum/
   zoom: 1
   title: TBC
   abstract: TBC
@@ -98,15 +97,8 @@
   abstract: TBC
 
 - date: 25 April 2025
-  speaker: Sam McCallum (University of Bath)
-  url: https://samba.ac.uk/student/sam-mccallum/
-  zoom: 1
-  title: TBC
-  abstract: TBC
-
-- date: 25 April 2025
-  speaker: TBC
-  url: 
+  speaker: Ben Tapley (SINTEF, AI and Analytics research group)
+  url: https://www.bentapley.com/
   zoom: 1
   title: TBC
   abstract: TBC
@@ -119,7 +111,7 @@
   abstract: TBC
 
 - date: 2 May 2025
-  speaker: Maximilian Scott (University of Bath)
+  speaker: Max Scott (University of Bath)
   url: https://uk.linkedin.com/in/maximilian-scott-a67a3b196
   zoom: 1
   title: TBC
