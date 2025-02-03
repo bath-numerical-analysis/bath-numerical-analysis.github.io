@@ -2,8 +2,8 @@
   speaker: Andreas Kyprianou (University of Warwick)
   url: https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/kyprianou/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Proton beam de-energisation and the Bragg peak for cancer therapy via jump diffusion stochastic differential equations
+  abstract: Proton beam therapy is a relatively modern way of treating cancer. In short, protons are accelerated to around 2/3 the speed of light and projected into the body in the direction of cancerous tissues. Subatomic interactions slow the protons down causing energy deposition into tissue. The less energy protons have, the greater the number of subatomic interactions and the greater the rate at which energy is deposed. This results in the proton beam having an approximate "end point" where the majority of the initial energy in the beam is deposited. Rather obviously, this needs to be positioned into cancerous tissues and accuracy is essential. In this talk we discuss a mathematical model of the proton beam, grounded in the subatomic physics, taking the form of a (7+1)-dimensional SDE which has both diffusive and jump components. A fundamental modelling question of this class of SDEs pertains to constructing a well-defined meaning of "rate of energy deposition" in the three dimensions of space and how relates to Monte Carlo simulation. Ultimately this boils down to the existence of an occupation density for the SDE, which, in turn requires us to work with fundamental ideas from Malliavin calculus.  This work is part of a larger body of research that is currently being undertaken in collaboration with colleagues in the MaThRad programme grant.
 
 - date: 14 Feb 2025
   speaker: Colin Cotter (Imperial College London)
