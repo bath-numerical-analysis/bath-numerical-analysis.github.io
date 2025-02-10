@@ -9,8 +9,8 @@
   speaker: Colin Cotter (Imperial College London)
   url: https://profiles.imperial.ac.uk/colin.cotter
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Parallel-in-time methods for atmosphere simulation using time diagonalisation
+  abstract: The goal of parallel-in-time methods is to employ parallelism in the time direction in addition to the space direction, in the hope of obtaining further parallel speedups at the limits of what is possible due to spatial parallelism with domain decomposition alone. Recently diagonalisation techniques have emerged as a way of solving the coupled system for the solution of a differential equation at several timesteps simultaneously. One approach, sometimes referred to as "ParaDiag II" involves preconditioning this "all-at-once" system obtained from time discretisation of a linear constant coefficient ODE (perhaps obtained as the space discretisation of a time dependent PDE) with a nearby system that can be diagonalised in time, allowing the solution of independent blocks in parallel. For nonlinear PDEs this approach can form the basis of a preconditioner within a Newton-Krylov method for the all-at-once system after time averaging the (now generally time dependent) Jacobian system. After some preliminary description of the ParaDiag II approach, I will present results from our investigation of ParaDiag II applied to some testcases from the hierarchy of models used in the development of dry dynamical cores for atmosphere models, including performance benchmarks. Using these results I will identify the key challenges in obtaining further speedups and identify some directions to address these.
 
 - date: 21 Feb 2025
   speaker: Eike Mueller (University of Bath)
