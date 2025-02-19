@@ -23,8 +23,8 @@
   speaker: Sam McCallum (University of Bath)
   url: https://samba.ac.uk/student/sam-mccallum/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Efficient gradients for Neural ODEs
+  abstract: Training Neural ODEs requires backpropagating through an ODE solve. The state-of-the-art backpropagation algorithm is recursive checkpointing that balances recomputation with memory cost. In this talk, I will introduce a class of algebraically reversible ODE solvers that significantly improve upon both the time and memory cost of recursive checkpointing.
 
 - date: 28 Feb 2025
   speaker: Henry Lockyer (University of Bath)
