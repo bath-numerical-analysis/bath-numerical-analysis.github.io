@@ -37,8 +37,8 @@
   speaker: Sergey Dolgov (University of Bath)
   url: https://people.bath.ac.uk/sd901/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Smoothed risk-averse optimisation
+  abstract: We develop an algorithm to solve high-dimensional risk-averse optimization problems governed by differential equations (ODEs and/or PDEs) under uncertainty. As an example, we focus on the so-called Conditional Value at Risk (CVaR), but the approach is equally applicable to other coherent risk measures. To avoid non-smoothness of the objective function underpinning the CVaR, we propose an adaptive strategy to select the width parameter of the smoothed CVaR to balance the smoothing and approximation errors. This enables both Newton's method for asymptotically quadratic convergence in the number of iterations, and higher-order (such as spectral tensor) approximation of the high-dimensional random fields for exponential convergence in the number of degrees of freedom.
 
 - date: 7 March 2025
   speaker: Eric Hester (University of Bath)
