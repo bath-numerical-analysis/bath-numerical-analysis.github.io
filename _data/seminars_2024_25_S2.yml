@@ -30,8 +30,8 @@
   speaker: Henry Lockyer (University of Bath)
   url: https://hl785.github.io/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Learning splitting and composition methods
+  abstract: Splitting and composition methods are ubiquitous in the solution of ordinary and partial differential equations since it is often easier to solve the differential equation under separate flows. This may be due to the availability of exact solutions under sub-flows or due to their efficient approximations that exploit, for instance, the favourable structure, sparsity or smaller spectral radius of the resulting numerical linear algebra problems. Traditionally, splitting and composition methods have been derived using analytic and algebraic techniques. This normally means truncated Taylor series or its Lie algebraic analogue &ndash; the Baker-Campbell-Hausdorff formula. Very high order splitting and composition methods have been derived in this way, which achieve high accuracy for small time-steps, and have exact or near conservation of physical properties such as mass, unitarity, and energy. However, in many applications of practical interest a moderate accuracy is acceptable while the limited computational resources necessitate the use of larger time-steps. For these large time-steps, the asymptotically derived high-order splittings typically fail to achieve adequate accuracy. In contrast, machine learning approaches for solving differential equation are often efficient, but come with no convergence guarantees, and often do not conserve physical properties such as energy. In this work we outline a hybrid approach for designing machine learned splitting and composition methods that work effectively for large time steps, and have provably convergence and conservation guarantees.
 
 - date: 28 Feb 2025
   speaker: Sergey Dolgov (University of Bath)
