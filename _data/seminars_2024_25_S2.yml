@@ -51,8 +51,8 @@
   speaker: Michael Murray (University of Bath)
   url: https://mm5110.github.io/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: "How does the sample-to-feature ratio affect overfitting outcomes: benign, tempered, or harmful?"
+  abstract: "Traditional machine learning wisdom suggests that training a highly flexible model on noisy data without explicit regularization will likely result in harmful overfitting. However, experimentally it has been observed that neural networks trained in this context can generalize well despite achieving near perfect training loss. This unexpected behaviour is referred to as benign or tempered overfitting, depending on whether the overfitting causes a marginal or proportional (to the noise level) drop in test accuracy. In this talk I'll provide a high-level overview of this topic before presenting a couple of recent results pertaining to the role of the sample-to-feature ratio in driving different training outcomes."
 
 - date: 14 March 2025
   speaker: Sam Flynn (National Physical Laboratory)
