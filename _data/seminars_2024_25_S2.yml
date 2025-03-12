@@ -58,8 +58,8 @@
   speaker: Sam Flynn (National Physical Laboratory)
   url: https://uk.linkedin.com/in/s-flynn
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: "Advanced Numerical Techniques in Primary Standard Calorimetry at the UK's National Standards Institute"
+  abstract: Achieving optimal patient outcomes in radiation therapy depends on precise radiation dose measurements. The most accurate form of radiation detector is the calorimeter, which in the UK serve as the primary standard for calibrating clinical dosimetry systems. However, accurate dose determination requires a series of correction factors and conversions, derived from a variety of numerical techniques. This seminar will explore the computational methods underpinning primary standard calorimetry, including thermal modelling and Monte Carlo simulations, to reduce the uncertainty in radiation dose measurements and maximise patient quality of life.
 
 - date: 21 March 2025
   speaker: Jemma Shipton (University of Exeter)
