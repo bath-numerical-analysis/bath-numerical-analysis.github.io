@@ -65,8 +65,8 @@
   speaker: Jemma Shipton (University of Exeter)
   url: https://mathematics.exeter.ac.uk/people/profile/index.php?username=js1075
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Time-parallel spectral deferred correction schemes for numerical weather prediction
+  abstract: In numerical weather prediction and climate modelling, semi-implicit time-stepping methods have long been favoured for their ability to take large time steps without excessively damping slow-moving waves. Fast-Wave Slow-Wave Spectral Deferred Correction (FWSW-SDC) methods offer an attractive alternative, achieving arbitrary-order accuracy by iteratively solving a collocation problem, akin to implicit Runge-Kutta methods. Similar to semi-implicit methods, FWSW-SDC improves stability compared to fully explicit schemes, enabling large time steps while retaining accuracy. Additionally, the rich literature on parallel-in-time SDC methods presents opportunities for both parallelization within the correction process and across time steps.<br><br> In this talk I will present recent work in collaboration with Alex Brown, Joscha Fregin and Daniel Ruprecht that extends prior work with FWSW-SDC from linear systems to the nonlinear compressible Euler equations, evaluating its potential for numerical weather prediction and climate modelling applications. We apply SDC methods to standard dynamical core test cases, including the non-hydrostatic gravity wave, moist rising bubble, and baroclinic wave tests, to assess stability, accuracy, and computational performance. Finally, we explore the implementation of parallelisable SDC preconditioners in the FWSW framework.
 
 - date: 28 March 2025
   speaker: Poppy Nikou (UCL Hospitals NHS Foundation Trust)
@@ -76,8 +76,8 @@
   abstract: TBC
 
 - date: 28 March 2025
-  speaker: Mathew Southerby (UCL Hospitals NHS Foundation Trust)
-  url: https://mathrad.ac.uk/team/mathew-southerby/
+  speaker: Pablo Arratia López (University of Bath)
+  url: https://parratia.netlify.app/
   zoom: 1
   title: TBC
   abstract: TBC
