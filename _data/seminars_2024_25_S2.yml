@@ -73,7 +73,7 @@
   url: https://profiles.ucl.ac.uk/79710-poppy-nikou/
   zoom: 1
   title: Modelling anatomical changes of head and neck cancer patients during radiotherapy treatment
-  abstract: TBC
+  abstract: Progressive anatomical changes are often observed in head and neck cancer patients over the course of radiotherapy. To create proton therapy treatment plans that are robust against these changes, these potential anatomical changes must be known in advance. In this work we present a novel methodology for developing statistical population models that capture progressive anatomical changes and their variability. The models are continuous in time, and can be built from a population of patients with a varying number and frequency of images over treatment. The statistical population models are based on principal component analysis of the progressive anatomical changes, and can generate scenarios of many potential anatomical changes. In this work two principal components were used to generate nine scenarios of potential anatomical change. The evaluation found, on average, one scenario that matched their progressive anatomical changes better than by just considering the average change.
 
 - date: 28 March 2025
   speaker: Pablo Arratia López (University of Bath)
