@@ -93,8 +93,8 @@
   speaker: Maud Lemercier (University of Oxford)
   url: https://www.maths.ox.ac.uk/people/maud.lemercier
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: A High Order Solver for Signature Kernels
+  abstract: Signature kernels are at the core of several machine learning algorithms for analysing multivariate time series. The kernels of bounded variation paths, such as piecewise linear interpolations of time series data, are typically computed by solving a linear hyperbolic second-order PDE. However, this approach becomes considerably less practical for highly oscillatory inputs, due to significant time and memory complexities. To mitigate this issue, I will introduce a high order method which involves replacing the original PDE, which has rapidly varying coefficients, with a system of coupled equations with piecewise constant coefficients. These coefficients are derived from the first few terms of the log-signatures of the input paths and can be computed efficiently using existing Python libraries.
 
 - date: 25 April 2025
   speaker: Ben Tapley (SINTEF, AI and Analytics group)
