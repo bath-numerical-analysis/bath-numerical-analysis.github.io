@@ -86,8 +86,8 @@
   speaker: Cristopher Salvi (Imperial College London)
   url: https://profiles.imperial.ac.uk/c.salvi
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: "ParallelFlow: Parallelizing Linear Transformers via Flow Discretization"
+  abstract: I will present a framework for analysing linear attention models through matrix-valued state space models (SSMs). Central to this framework is the reinterpretation of chunking procedures in linear transformers as computations of flows of their continuous-time counterparts. As a concrete example, I will explain how the framework can be applied to DeltaNet. Joint work with Nicola M. Cirone.
 
 - date: 4 April 2025
   speaker: Maud Lemercier (University of Oxford)
