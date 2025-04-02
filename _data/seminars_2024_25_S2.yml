@@ -86,8 +86,8 @@
   speaker: Cristopher Salvi (Imperial College London)
   url: https://profiles.imperial.ac.uk/c.salvi
   zoom: 1
-  title: "ParallelFlow: Parallelizing Linear Transformers via Flow Discretization"
-  abstract: I will present a framework for analysing linear attention models through matrix-valued state space models (SSMs). Central to this framework is the reinterpretation of chunking procedures in linear transformers as computations of flows of their continuous-time counterparts. As a concrete example, I will explain how the framework can be applied to DeltaNet. Joint work with Nicola M. Cirone.
+  title: Quantum Signature Kernels
+  abstract: I will formulate randomised path developments within the framework of matrix models in quantum field theory. I will then explain how to derive the corresponding loop equations, and examine the associated kernels. If time allows, I will interpret these randomised path developments as time evolution operators on a Hilbert space of qubits, leading to the construction of a quantum algorithm for computing the kernels. Joint work with Samuel Crew and Will Turner.
 
 - date: 4 April 2025
   speaker: Maud Lemercier (University of Oxford)
