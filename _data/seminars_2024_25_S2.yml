@@ -100,8 +100,8 @@
   speaker: Ben Tapley (SINTEF, AI and Analytics group)
   url: https://www.bentapley.com/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Structure-Preserving Neural Networks for Dynamical Systems
+  abstract: Incorporating known physics and geometry constraints into machine learning models is an effective strategy for improving generalisation, interpretability, and data efficiency in modelling dynamical systems. Popular models such as physics-informed neural networks (PINNs) can enforce physical laws in a weak sense via penalty terms in the loss function. However, a stronger inductive bias arises when these laws are embedded directly into the neural network architecture. Such models are often called "structure-preserving" and offer an alternative approach to exploiting known physics and geometry such as energy-preservation, a preserved symplectic form, variational structure, dissipation, Lyapunov functions and so forth. In this talk, we will review the motivation for structure-preserving modelling, summarise some popular structure-preserving models, how they guard against spurious phenomena, and show how to extend these methods to capture realistic dissipative effects.
 
 - date: 2 May 2025
   speaker: Xinyi Wu (University of Birmingham)
