@@ -110,16 +110,23 @@
   title: TBC
   abstract: TBC
 
-- date: 2 May 2025
+- date: 9 May 2025
+  speaker: Patrick Fahy (University of Bath)
+  url: https://samba.ac.uk/student/patrick-fahy/
+  zoom: 1
+  title: TBC
+  abstract: TBC
+
+- date: 9 May 2025
   speaker: Max Scott (University of Bath)
   url: https://uk.linkedin.com/in/maximilian-scott-a67a3b196
   zoom: 1
   title: TBC
   abstract: TBC
 
-- date: 9 May 2025
-  speaker: Patrick Fahy (University of Bath)
-  url: https://samba.ac.uk/student/patrick-fahy/
+- date: 16 May 2025
+  speaker: Andraž Jelinčič (University of Bath)
+  url: https://samba.ac.uk/student/andraz-jelincic/
   zoom: 1
-  title: TBC
+  title: "A Scalable Deep Learning Architecture for Probabilistic Computers: How Denoising Boltzmann Machines Overcome the Mixing-Expressivity Tradeoff"
   abstract: TBC
