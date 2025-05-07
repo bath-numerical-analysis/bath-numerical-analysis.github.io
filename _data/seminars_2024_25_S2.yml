@@ -114,8 +114,8 @@
   speaker: Patrick Fahy (University of Bath)
   url: https://samba.ac.uk/student/patrick-fahy/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Greedy learning to optimise with convergence guarantees
+  abstract: Learning to optimise is an approach that leverages training data to accelerate the solution of optimisation problems. Many approaches use unrolling to parametrise the update step and learn parameters. Although L2O has shown empirical advantages over classical optimisation algorithms, memory restrictions often greatly limit the unroll length, and learned algorithms usually do not provide convergence guarantees. In contrast, we introduce a novel method employing a greedy strategy that learns iteration-specific parameters by minimising the function value at the next iteration. This enables training over significantly more iterations while maintaining constant GPU memory usage. We parametrise the update such that parameter learning is no more difficult than solving the initial optimisation problem. In particular, we explore an extension of Polyak's Heavy Ball Method with multiple parametrisations, including a convolutional preconditioner. With our learned algorithms, convergence in the training set is proved even when the preconditioners are not necessarily symmetric nor positive definite. Convergence on a class of unseen functions is also obtained under certain assumptions, ensuring robust performance and generalisation beyond the training data. We test our learned algorithms on a Computed Tomography example, on which we demonstrate improved empirical performance over classical optimisation algorithms such as Nesterov's Accelerated Gradient Method and L-BFGS.
 
 - date: 9 May 2025
   speaker: Max Scott (University of Bath)
@@ -129,4 +129,11 @@
   url: https://samba.ac.uk/student/andraz-jelincic/
   zoom: 1
   title: "A Scalable Deep Learning Architecture for Probabilistic Computers: How Denoising Boltzmann Machines Overcome the Mixing-Expressivity Tradeoff"
+  abstract: TBC
+
+- date: 23 May 2025
+  speaker: Robert Kirby (Baylor University)
+  url: https://sites.baylor.edu/robert_kirby/
+  zoom: 1
+  title: TBC
   abstract: TBC
