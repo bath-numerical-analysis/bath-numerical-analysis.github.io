@@ -121,8 +121,8 @@
   speaker: Max Scott (University of Bath)
   url: https://uk.linkedin.com/in/maximilian-scott-a67a3b196
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Underdamped Langevin MCMC with third order convergence
+  abstract: Markov Chain Monte Carlo methods of the discretised underdamped Langevin SDE allow for the sampling of a given target distribution. This in turn has a wide array of applications, ranging from molecular dynamics to machine learning. However, especially in high dimensional settings, inefficient sampling methodologies can quickly become prohibitively computationally expensive. I will present a new sampling method named QUICSORT with the novel behaviour that it exhibits third order global convergence under the 2-Wasserstein metric. The core components of this theoretical result will be discussed along with examples of it in action.
 
 - date: 16 May 2025
   speaker: Andraž Jelinčič (University of Bath)
