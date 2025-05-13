@@ -129,7 +129,7 @@
   url: https://samba.ac.uk/student/andraz-jelincic/
   zoom: 1
   title: "A Scalable Deep Learning Architecture for Probabilistic Computers: How Denoising Boltzmann Machines Overcome the Mixing-Expressivity Tradeoff"
-  abstract: TBC
+  abstract: Deep learning often uses probabilistic models to handle the inherent randomness of real-world phenomena. This fact, along with the growing energy demand of deep learning applications, has prompted proposals for specialized probabilistic computers. Despite promising efficiency gains, these proposals have failed to gain commercial traction in part because they rely solely on Energy-Based Models (EBMs), which often struggle to represent real-world datasets. In this work, we address this shortcoming by introducing the Thermodynamic Denoising Models (TDMs), an architecture that merges probabilistic-hardware-accelerated EBMs with Denoising Diffusion Models. TDMs can take advantage of the significant energy efficiency gains of probabilistic computers without making the sacrifices to expressivity associated with EBMs. Simulations suggest that TDMs running on future probabilistic hardware achieve performance parity with GPUs on image generation benchmarks, while using approximately 10000 times less energy.
 
 - date: 23 May 2025
   speaker: Robert Kirby (Baylor University)
