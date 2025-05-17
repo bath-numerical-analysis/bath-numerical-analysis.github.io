@@ -135,5 +135,5 @@
   speaker: Robert Kirby (Baylor University)
   url: https://sites.baylor.edu/robert_kirby/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: From finite elements to domain-specific languages
+  abstract: Starting from a basic understanding of the finite element method, this introductory talk will survey various aspects of FEM and work towards developing appropriate software abstractions. The first part of the talk will discuss variational forms, meshes, basis functions, and algebraic solvers and how they interact with each other. Simple approaches suffice for applying a particular low-order method to a particular model equation, but these interactions become more complex and interesting as we consider higher-order methods, more complex operators, and advanced solution algorithms. Hence, designing for <i>generality</i> is an essential consideration. The second part of the talk will address certain key components the Firedrake project uses, such as FInAT for constructing basis functions and the Unified Form Language (UFL) for variational forms. These tools capably describe finite element problems, but effective simulation also requires fast solution algorithms for algebraic systems. The last part of this talk will discuss the interactions between Firedrake and PETSc, showing how composition of these components leads to clean deployment of powerful solvers.
