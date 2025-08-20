@@ -56,11 +56,11 @@ teaching:
   - title: Year Three
     children: 
       - title: Numerical Linear Algebra
-        url: /teaching/MA30051.html
+        url: /teaching/MA32065.html
       - title: Numerical Solution of Elliptic PDEs
-        url: /teaching/MA30170.html
+        url: /teaching/MA32066.html
       - title: Machine Learning II
-        url: /teaching/MA30279.html
+        url: /teaching/MA32026.html
   - title: Year Four
     children:
       - title: Numerical Optimisation and Large-Scale Problems
@@ -69,12 +69,10 @@ teaching:
         url: /teaching/MA40171.html
       - title: Scientific Computing
         url: /teaching/MA40177.html
-      - title: Applied Machine Learning
-        url: /teaching/MA50290.html
-      - title: Mathematics of Machine Learning  
-        url: /teaching/MA50263.html
+      - title: Foundations and applications of machine learning
+        url: /teaching/MA52101.html
       - title: Advanced topics in machine learning and mathematical modelling  
-        url: /teaching/MA50303.html
+        url: /teaching/MA52125.html
 ####################### 
 # Sidebar
 people:
