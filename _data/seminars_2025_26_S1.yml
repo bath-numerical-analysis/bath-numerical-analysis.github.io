@@ -34,33 +34,40 @@
   abstract:
 
 - date: 24 Oct 2025
-  speaker: TBC
-  url:
+  speaker: Cangxiong Chen (University of Bath)
+  url: https://cangxiongchen.github.io/
   zoom: 1
   title: TBC
   abstract:
-  
+
+- date: 24 Oct 2025
+  speaker: 
+  url: 
+  zoom: 1
+  title: TBC
+  abstract:
+
 - date: 31 Oct 2025
+  speaker: Sam Power (University of Bristol)
+  url: https://sites.google.com/view/sp-monte-carlo/ 
+  zoom: 1
+  title: TBC
+  abstract:
+
+- date: 7 Nov 2025
   speaker: Robert Johnson (University of Bath)
   url: https://samba.ac.uk/student/robert-johnson/
   zoom: 1
   title: TBC
   abstract:
 
-- date: 31 Oct 2025
+- date: 7 Nov 2025
   speaker: Ahmed Rashwan (University of Bath)
   url: https://samba.ac.uk/student/ahmed-rashwan/
   zoom: 1
   title: TBC
   abstract:
 
-- date: 7 Nov 2025
-  speaker: TBC
-  url:
-  zoom: 1
-  title: TBC
-  abstract:
- 
 - date: 14 Nov 2025
   speaker: Zhengang Zhong (University of Warwick)
   url: https://zhengang-zhong.github.io/
@@ -69,8 +76,8 @@
   abstract:
 
 - date: 21 Nov 2025
-  speaker: TBC
-  url:
+  speaker: Alain Zemkoho (University of Southampton)
+  url: https://www.southampton.ac.uk/~abz1e14/
   zoom: 1
   title: TBC
   abstract:
@@ -90,7 +97,14 @@
   abstract:
 
 - date: 12 Dec 2025
-  speaker: TBC
+  speaker: Joanna Ni (University of Bath)
+  url: https://samba.ac.uk/student/joanna-ni/
+  zoom: 1
+  title: TBC
+  abstract:
+
+- date: 12 Dec 2025
+  speaker:
   url:
   zoom: 1
   title: TBC
