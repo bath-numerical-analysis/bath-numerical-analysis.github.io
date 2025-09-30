@@ -30,15 +30,15 @@
   speaker: Thomas Coxon (Loughborough University)
   url: https://github.com/tttc3
   zoom: 1
-  title: TBC
-  abstract:
+  title: "From 1/√n to 1/n: Accelerating SDE Simulation with Cubature Formulae (part 1)"
+  abstract: Monte Carlo sampling is the standard approach for estimating properties of solutions to stochastic differential equations (SDEs), but its error decays only as 1/√n, requiring huge sample sizes. Lyons and Victoir (2004) proposed replacing independently sampled Brownian driving paths with "cubature formulae", deterministic weighted sets of paths that match Brownian "signature moments" up to some degree D. They prove that cubature formulae exist for arbitrary D, but explicit constructions are difficult and have only reached D=7, too small for practical use. We present an algorithm that efficiently and automatically constructs cubature formulae of arbitrary degree, reproducing D=7 in seconds and reaching D=17 within hours on modest hardware. In simulations across multiple SDEs, our cubature formulae achieve an error roughly of order 1/n, orders of magnitude smaller than Monte Carlo with the same number of paths.
 
 - date: 17 Oct 2025
   speaker: Peter Koepernik (University of Oxford)
-  url: https://www.stats.ox.ac.uk/people/peter-koepernik
+  url: https://peter.koepernik.net/
   zoom: 1
-  title: TBC
-  abstract:
+  title: "From 1/√n to 1/n: Accelerating SDE Simulation with Cubature Formulae (part 2)"
+  abstract: Monte Carlo sampling is the standard approach for estimating properties of solutions to stochastic differential equations (SDEs), but its error decays only as 1/√n, requiring huge sample sizes. Lyons and Victoir (2004) proposed replacing independently sampled Brownian driving paths with "cubature formulae", deterministic weighted sets of paths that match Brownian "signature moments" up to some degree D. They prove that cubature formulae exist for arbitrary D, but explicit constructions are difficult and have only reached D=7, too small for practical use. We present an algorithm that efficiently and automatically constructs cubature formulae of arbitrary degree, reproducing D=7 in seconds and reaching D=17 within hours on modest hardware. In simulations across multiple SDEs, our cubature formulae achieve an error roughly of order 1/n, orders of magnitude smaller than Monte Carlo with the same number of paths.
 
 - date: 24 Oct 2025
   speaker: Cangxiong Chen (University of Bath)
