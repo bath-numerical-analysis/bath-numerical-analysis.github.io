@@ -16,8 +16,8 @@
   speaker: Caitlin O'Hara (University of Bath)
   url: https://researchportal.bath.ac.uk/en/persons/caitlin-ohara
   zoom: 1
-  title: TBC
-  abstract:
+  title: Physics Enhanced Deep Surrogates for Solving Partial Differential Equations
+  abstract: "I'll present Physics Enhanced Deep Surrogate (PEDS) models, a hybrid approach that combines neural networks with traditional PDE solvers to efficiently solve diffusion problems. The method addresses the computational challenge of needing thousands of PDE evaluations for material design optimisation by maintaining physical accuracy whilst achieving significant speedup over conventional numerical methods."
 
 - date: 10 Oct 2025
   speaker: Viraj Patel (University of Bath)
