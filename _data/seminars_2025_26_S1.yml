@@ -51,8 +51,8 @@
   speaker: Ahmed Rashwan (University of Bath)
   url: https://samba.ac.uk/student/ahmed-rashwan/
   zoom: 1
-  title: TBC
-  abstract:
+  title: Enforcing convex constraints in Graph Neural Networks
+  abstract: Many machine learning tasks require model outputs to satisfy specific convex constraints. Enforcing these constraints is especially difficult in Graph Neural Networks, as graph-structured data results in outputs of varying sizes. We introduce a simple neural network architecture which guarantees constraint satisfaction. Our method leverages the Component-Averaged Dykstra (CAD) algorithm — a sparse, iterative scheme for computing convex projections. We establish a convergence result for CAD and present a GPU-accelerated implementation capable of efficiently processing large-scale data. Experiments across four classes of constrained optimisation problems demonstrate that our approach is significantly faster than traditional optimisation techniques.
 
 - date: 31 Oct 2025
   speaker: Sam Power (University of Bristol)
