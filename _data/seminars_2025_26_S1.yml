@@ -44,8 +44,8 @@
   speaker: Cangxiong Chen (University of Bath)
   url: https://cangxiongchen.github.io/
   zoom: 1
-  title: TBC
-  abstract:
+  title: Solving Life-Cycle Models Using Neural Networks
+  abstract: In this talk, I will present how we can develop solutions to life cycle models in macroeconomics using neural networks. This is based on joint work from Avi Mayorcas (Bath), Sigmund Ellingsrud, Fabian Harang, and Alfonso Irarrazabal (BI Oslo), which provides a stochastic analysis of an overlapping-generations model under incomplete markets. My focus will be on how neural networks can efficiently approximate the solution to the optimal control problem from the model, yielding a consumption policy that is flexible, generative and scalable.
 
 - date: 24 Oct 2025
   speaker: Ahmed Rashwan (University of Bath)
