@@ -59,7 +59,7 @@
   url: https://sites.google.com/view/sp-monte-carlo/ 
   zoom: 1
   title: Gradient Flow Methods for Statistical Computation - Trends and Trajectories
-  abstract: "When conducting statistical estimation and inference, it is relatively commonplace that the dominant computational burden takes the form of an optimisation task. This has long been recognised for tasks of parameter estimation, though there is an increasing recognition that other tasks of interest can be fruitfully interpreted as optimisation tasks over a space of probability measures, or even over some 'hybrid' space involving both parameters and measures.<br><br> In this talk, I will survey some trends in this area, focusing on how this high-level perspective finds use in both analysis of popular existing algorithms and synthesis of novel algorithms. I will also highlight opportunities for future contributions in this fast-growing area.
+  abstract: "When conducting statistical estimation and inference, it is relatively commonplace that the dominant computational burden takes the form of an optimisation task. This has long been recognised for tasks of parameter estimation, though there is an increasing recognition that other tasks of interest can be fruitfully interpreted as optimisation tasks over a space of probability measures, or even over some 'hybrid' space involving both parameters and measures.<br><br> In this talk, I will survey some trends in this area, focusing on how this high-level perspective finds use in both analysis of popular existing algorithms and synthesis of novel algorithms. I will also highlight opportunities for future contributions in this fast-growing area."
 
 - date: 7 Nov 2025
   speaker: Robert Johnson (University of Bath)
