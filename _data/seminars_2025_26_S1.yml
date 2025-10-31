@@ -65,8 +65,8 @@
   speaker: Robert Johnson (University of Bath)
   url: https://samba.ac.uk/student/robert-johnson/
   zoom: 1
-  title: TBC
-  abstract:
+  title: Mathematical Methods for Ptychography Imaging
+  abstract: Ptychography is an inverse problem that aims to recover the modulus and phase of a complex-valued sample under illumination from its diffraction pattern. Recovery algorithms use an iterative approach to recover the phase and amplitude by looking at the difference between the diffraction pattern of the true sample and the diffraction pattern of the current best guess of the sample.<br><br> In this talk a new mathematical method for Ptychographic recovery using the L-BFGS optimization algorithm will be presented and compared to an existing recovery algorithm on synthetically generated data. The new method will later be extended for use in Spectral Ptychography, which is performing Ptychography at multiple illumination beam energies. 
 
 - date: 7 Nov 2025
   speaker: Joanna Ni (University of Bath)
