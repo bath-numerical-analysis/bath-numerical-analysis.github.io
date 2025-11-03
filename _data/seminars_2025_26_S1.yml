@@ -72,8 +72,8 @@
   speaker: Joanna Ni (University of Bath)
   url: https://samba.ac.uk/student/joanna-ni/
   zoom: 1
-  title: TBC
-  abstract:
+  title: Coarse-to-Fine Acceleration Framework for Probabilistic Shape Models
+  abstract: Training probabilistic diffeomorphic shape models is computationally demanding due to repeated flow computations and the variance arising in stochastic optimisation. We propose a coarse-to-fine framework that first pre-trains the model on a much smaller set of control points and then refines it at higher resolution using the fitted parameters. The coarse model acts as a control variate for the fine level, yielding lower-variance gradient estimates and faster objective decay. This approach accelerates convergence and enhances computational efficiency while preserving modelling accuracy.
 
 - date: 14 Nov 2025
   speaker: Zhengang Zhong (University of Warwick)
