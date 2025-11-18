@@ -86,8 +86,8 @@
   speaker: Alain Zemkoho (University of Southampton)
   url: https://www.southampton.ac.uk/~abz1e14/
   zoom: 1
-  title: TBC
-  abstract:
+  title: Pessimistic bilevel optimization
+  abstract: When the lower-level optimal solution set-valued mapping of a bilevel optimization problem is not single-valued, we are faced with an ill-posed problem, which gives rise to the optimistic and pessimistic bilevel optimization problems, as tractable algorithmic frameworks. However, solving the pessimistic bilevel optimization problem is far more challenging than the optimistic one; hence, the literature has mostly been dedicated to the latter class of the problem. In this talk, we will briefly discuss the main models and challenges associated to ill-posed bilevel programs, and subsequently, we will focus our attention on some practical techniques to compute solutions for pessimistic bilevel optimization problems. The main algorithmic approaches that we will explore are relaxation-type methods and their convergence analysis.
 
 - date: 28 Nov 2025
   speaker: David Wörgötter (TU Wien)
