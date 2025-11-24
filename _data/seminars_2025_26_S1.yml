@@ -93,8 +93,8 @@
   speaker: David Wörgötter (TU Wien)
   url: https://at.linkedin.com/in/david-w%C3%B6rg%C3%B6tter-b97a66204
   zoom: 1
-  title: TBC
-  abstract:
+  title: Quasi-optimality of <i>hp</i>-FEM solutions of high-frequency Maxwell equations
+  abstract: We consider the high-frequency time-harmonic Maxwell equations with impedance boundary conditions on a domain Ω with analytic boundary. We suppose that Ω consists of multiple subdomains and consider permeability and permittivity tensors that are analytic on every subdomain, but may jump across subdomain interfaces.<br><br> Under these assumptions we disuss that for any wavenumber <i>k</i>≥<i>1</i>, a Galerkin discretization based on Nédélec-elements of order <i>p</i> on a mesh with mesh-width <i>h</i> is quasi-optimal, provided there holds the <i>k</i>-explicit scale resolution condition a) that <i>kh/p</i> is sufficiently small and b) that <i>p/</i>log<i>(k)</i> is bounded from below.
 
 - date: 5 Dec 2025
   speaker: MMath students
