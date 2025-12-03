@@ -101,7 +101,14 @@
   url:
   zoom: 1
   title: "Year-Long Projects"
-  abstract:
+  abstract: "Speakers:<br> 1.  Adam Irvine - Simulating Dead Water in Dedalus<br>2. Jay Mercer - Scalable optimization algorithms for deep learning"
+
+- date: 9 Dec 2025
+  speaker: Cónall Kelly (University College Cork)
+  url: https://scholar.google.com/citations?user=s1_JWxQAAAAJ&hl=en
+  zoom: 1
+  title: Adaptive numerical solution of stochastic differential equations with Markovian switching
+  abstract: We demonstrate the use of adaptive discretisation strategies for the numerical solution of stochastic differential equations (SDEs) with coefficients that change at random times according to the evolution of a Markov chain.<br><br> We will show how an approach to adaptive mesh construction originally designed for SDEs with jump perturbations may be repurposed for SDEs with Markovian Switching. Implementation will be illustrated via a model of telomere shortening in jackdaws.<br><br> This is joint work with Kate O'Donovan (UCC), building upon a prior collaboration with Gabriel Lord (Radboud University) and Fandi Sun (Heriot-Watt University).
 
 - date: 12 Dec 2025
   speaker: Sean Holman (University of Manchester)
