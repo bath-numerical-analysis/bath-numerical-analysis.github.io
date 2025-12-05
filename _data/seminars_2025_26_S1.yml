@@ -114,5 +114,5 @@
   speaker: Sean Holman (University of Manchester)
   url: https://research.manchester.ac.uk/en/persons/sean.holman
   zoom: 1
-  title: TBC
-  abstract:
+  title: Inverse Problems for Strain
+  abstract: "In this talk, I will give a tour of my recent work on determination of strain in metals. This is divided into two different, but related, areas: neutron transmission strain imaging and eigenstrain tomography. In neutron transmission imaging, we attempt to recover residual strain inside an object based on exposure to neutron radiation. Mathematically the problem becomes inversion of a longitudinal ray transform, which is known to have a kernel. However, we can still uniquely determine strain if we also consider mechanical equilibrium as a constraint. I will describe how this is done and give examples. Eigenstrain tomography comprises determination of eigenstrain from some measurement of stress within an object. I will describe some fundamental limitations of this technique which can be established by careful consideration of the underlying mathematics."
