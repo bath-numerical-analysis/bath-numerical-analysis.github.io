@@ -47,9 +47,16 @@
   title: Motion-enabled tomography via Gaussian Mixture Models
   abstract: Recovering the physical properties of objects in motion is a fundamental challenge across various scientific and industrial applications. When motion is sufficient to provide a fully informative sinogram relative to a fixed source-receiver system, Computerised Tomography (CT) offers a powerful means for recovering object properties, enabling automation and access to otherwise hidden information. To address this, we propose a general time-varying parametric model for Gaussian Mixture Models (GMMs) that explicitly describes angular velocity, projectile motion, and morphology specific to each constituent Gaussian. Leveraging the closure of GMMs under the ray transform, we derive an exact forward model that allows for reconstruction by fitting directly to observed sinogram data. The utility of using GMMs as a basis for reconstruction comes from their ability to approximate complicated mathematical functions with a high degree of accuracy [Zickert, Öktem, Yarman, 2022] [Zickert, Yarman, 2021].<br><br> To implement this reconstruction, we utilize suitable loss functions and the automatic differentiation capabilities of PyTorch to efficiently compute parameter estimates that characterise the approximating GMMs. Alongside motion and tomography models applicable to Euclidean spaces of arbitrary dimension, we provide a fully operational gradient-based optimization algorithm tailored for two-dimensional scenarios. Our results demonstrate accurate and robust performance on challenging simulated datasets, providing a credible foundation for extending the algorithm to arbitrary dimensions.
 
-- date: 27 March 2026
+- date: 20 March 2026
   speaker: Kamran Arora (University of Bath)
   url: https://people.bath.ac.uk/ka679/
+  zoom: 1
+  title:
+  abstract:
+
+- date: 27 March 2026
+  speaker: Alireza Naderi (University of Oxford)
+  url: https://www.maths.ox.ac.uk/people/alireza.naderi
   zoom: 1
   title:
   abstract:
