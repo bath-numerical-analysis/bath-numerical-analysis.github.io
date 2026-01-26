@@ -1,9 +1,9 @@
 - date: 6 Feb 2026
-  speaker: Pranav Singh (University of Bath)
-  url: https://www.pranavsingh.co.uk/
+  speaker: Shi Jin (Shanghai Jiao Tong University)
+  url: https://ins.sjtu.edu.cn/people/shijin/
   zoom: 1
-  title:
-  abstract:
+  title: Quantum Computations of Partial Differential Equations
+  abstract: Quantum computers are designed based on quantum mechanics principle, they are most suitable to solve the Schrodinger equation, and linear PDEs (and ODEs) evolved by unitary operators. It is important to to explore whether other problems in scientific computing, such as ODEs, PDEs, and linear algebra that arise in both classical and quantum systems which are not unitary evolution, can be handled by quantum computers.<br><br> We will present a systematic way to develop quantum simulation algorithms for general differential equations. Our basic framework is dimension lifting, that transfers non-autonomous ODEs/PDEs systems to autonomous ones, nonlinear PDEs to linear ones, and linear ones to Schrodinger type PDEs-coined "Schrodingerization" — with unitary evolutions. Our formulation allows both qubit and qumode (continuous-variable) formulations, and their hybridizations, and provides the foundation for analog quantum computing which are easier to realize in the near term. We will also present dimension lifting techniques for quantum simulation of stochastic DEs and PDEs with fractional derivatives, and quantum machine learning. A quantum simulation software — "UnitaryLab" — will also be introduced.
 
 - date: 13 Feb 2026
   speaker: Mike Giles (University of Oxford)
@@ -64,6 +64,13 @@
 - date: 17 April 2026
   speaker: Amin Sabir  (University of Bath)
   url: https://people.bath.ac.uk/as5057/
+  zoom: 1
+  title:
+  abstract:
+
+- date: 17 April 2026
+  speaker: 
+  url: 
   zoom: 1
   title:
   abstract:
