@@ -9,8 +9,8 @@
   speaker: Mike Giles (University of Oxford)
   url: https://people.maths.ox.ac.uk/gilesm/
   zoom: 1
-  title:
-  abstract:
+  title: MLMC analysis of the stochastic heat equation
+  abstract: As a first step in my application of Multilevel Monte Carlo (MLMC) methods to stochastic PDEs driven by space-time white noise, in this talk I investigate 3 different approaches to generating coupled noise samples for the stochastic heat equation, and use Fourier analysis to analyse the resulting MLMC correction variance for 3 different output quantities of interest. Two key conclusions are a) a finite element construction is better than a finite volume construction, and b) for some outputs, Richardson extrapolation is needed to obtain the optimal complexity with the finite element and spectral constructions. The analysis is supported by numerical results.
 
 - date: 20 Feb 2026
   speaker: Malena Sabaté Landman (University of Bath)
