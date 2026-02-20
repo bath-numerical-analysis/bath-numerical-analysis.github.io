@@ -23,8 +23,8 @@
   speaker: Lea Bogensperger (University of Zurich)
   url: https://leabogensperger.github.io/
   zoom: 1
-  title:
-  abstract:
+  title: Latent Flow Matching for Protein Fitness Optimization
+  abstract: The goal of protein fitness optimization is to discover new protein variants with enhanced fitness for specific biological functions. However, the vast search space, the sparsity of the fitness landscape, and the discrete nature of protein sequences pose significant challenges for gradient-based optimization. We present an approach that embeds protein sequences into a continuous latent space, where a flow matching prior is trained to capture the underlying distribution. Guided by an auxiliary fitness predictor, this framework enables the sampling of high-fitness protein sequences. Furthermore, we demonstrate that utilizing the compressed embeddings of pre-trained protein language models as the latent space further improves optimization performance.
 
 - date: 6 March 2026
   speaker: Wenqi Zhu (University of Oxford)
