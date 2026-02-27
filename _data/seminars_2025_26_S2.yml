@@ -30,8 +30,9 @@
   speaker: Wenqi Zhu (University of Oxford)
   url: https://katewenqizhu.github.io/
   zoom: 1
-  title:
-  abstract:
+  title: Beyond Second Order Methods for Nonconvex Optimization
+  abstract: Traditionally, first-order gradient-based techniques, such as stochastic gradient descent (SGD), and second-order methods, such as the Newton method, have dominated the field of optimization. In recent years, high-order tensor methods with regularization for nonconvex optimization have garnered significant research interest. These methods offer superior local convergence rates, improved worst-case evaluation complexity, enhanced insights into data geometry through higher-order information, and better parallelization compared to SGD.<br><br> The most critical challenge in implementing the p-th order method (p ≥ 3) lies in efficiently minimizing the p-th order subproblem, which typically consists of a p-th degree multivariate Taylor polynomial combined with a (p+1)-th order regularization term. In this talk, we address the research gaps by characterizing the local and global optimality of the subproblem and investigating its potential NP-hardness. In this talk, we will introduce and discuss a series of provably convergent and efficient algorithms for minimizing the regularized subproblem both locally and globally, including the Quadratic Quartic Regularization Method (QQR), the Cubic Quartic Regularization Method (CQR), and the Sums-of-Squares Convex Taylor Method (SoS-C). More interestingly, our research adopts an AI-integrated approach, using the mathematical reasoning capabilities of large language models (LLMs) to verify the nonnegativity of multivariate polynomials. This problem is closely related to Hilbert's Seventeenth Problem and the challenge of globally minimizing subproblems.
+
 
 - date: 13 March 2026
   speaker: Georgios Exarchakis (University of Bath)
@@ -92,6 +93,20 @@
 - date: 1 May 2026
   speaker: Massimiliano Tamborrino (University of Warwick)
   url: https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/tamborrino/
+  zoom: 1
+  title:
+  abstract:
+
+- date: 8 May 2026
+  speaker: Libo Chen (University of Bath)
+  url: https://samba.ac.uk/student/libo-chen/
+  zoom: 1
+  title:
+  abstract:
+
+- date: 8 May 2026
+  speaker: TBC
+  url: 
   zoom: 1
   title:
   abstract:
