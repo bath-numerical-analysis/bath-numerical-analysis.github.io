@@ -38,8 +38,8 @@
   speaker: Georgios Exarchakis (University of Bath)
   url: https://exarchakis.net/
   zoom: 1
-  title:
-  abstract:
+  title: Solid Harmonic Wavelet Bispectrum for Image Analysis
+  abstract: The Solid Harmonic Wavelet Bispectrum in 2D provides a multi-scale, rotation- and translation-covariant representation that preserves relative phase and captures higher-order interactions between wavelet responses. This representation encodes rich structural information in a data-efficient and interpretable form. Applications across texture classification, medical imaging, galaxy merger regression, and image reconstruction demonstrate that phase-sensitive, cross-scale interactions enhance discriminative power, model complex dependencies, and retain sufficient information for accurate reconstructions. By embedding roto-translation invariance and preserving relative phase, the operator captures structural features often lost in conventional scattering methods, enabling robust performance in low-data regimes. Cross-scale and higher-order interactions further enrich the representation, allowing nonlinear dependencies between features to be encoded without learning. Results show competitive or superior performance compared to deep learning models in tasks where symmetries and structural cues dominate, highlighting the potential of phase-sensitive, symmetry-aware wavelet representations as a versatile tool for signal and image analysis.
 
 - date: 20 March 2026
   speaker: Daniel Burrows (IMI and University of Bath)
