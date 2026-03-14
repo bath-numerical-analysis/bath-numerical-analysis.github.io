@@ -52,7 +52,7 @@
   speaker: Kamran Arora (University of Bath)
   url: https://people.bath.ac.uk/ka679/
   zoom: 1
-  title:
+  title: A discontinuous Galerkin method for the Dean Kawasaki equation
   abstract:
 
 - date: 27 March 2026
@@ -104,9 +104,9 @@
   title:
   abstract:
 
-- date: 8 May 2026
-  speaker: TBC
-  url: 
+- date: 29 May 2026
+  speaker: Niklas Baumgarten
+  url: https://publish.obsidian.md/niklas-baumgarten/webpage/about
   zoom: 1
   title:
   abstract:
