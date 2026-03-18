@@ -53,7 +53,7 @@
   url: https://people.bath.ac.uk/ka679/
   zoom: 1
   title: A discontinuous Galerkin method for the Dean Kawasaki equation
-  abstract:
+  abstract: The Dean-Kawasaki equation is a fundamental SPDE from the theory of fluctuating hydrodynamics and has been proposed as a model for density fluctuations in large, finite-sized systems of diffusing particles. It is a highly singular SPDE that has been shown to only admit trivial martingale solutions which complicates mathematical approaches to its rigorous justification. In the recent work of Cornalba et al., it was shown that finite difference discretisations - a natural form of regularisation - accurately describe density fluctuations of diffusing particles in suitably weak metrics. In this contribution we significantly widen the applicability of numerical discretisations of the Dean-Kawasaki equation by considering a spatial discontinuous Galerkin (dG) approximation. Our method overcomes the restrictive grid requirements of finite-difference schemes whilst also being locally conservative and amenable to parallelisation. Simulating Dean-Kawasaki type equations is becoming increasingly important in applied sciences for studying fluctuation-driven behaviour in physical systems and this research lays the groundwork for future applications of dG-FEMs to more complex models such as weakly-interacting systems on irregular domains with mixed boundary conditions. Joint work with Federico Cornalba and Tony Shardlow.
 
 - date: 27 March 2026
   speaker: Alireza Naderi (University of Oxford)
