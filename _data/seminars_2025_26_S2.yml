@@ -66,8 +66,8 @@
   speaker: Amin Sabir (University of Bath)
   url: https://people.bath.ac.uk/as5057/
   zoom: 1
-  title:
-  abstract:
+  title: Learned regularisation methods for light-sheet fluorescence microscopy
+  abstract: Light-sheet fluorescence microscopy (LSFM) enables high-speed volumetric imaging of biological samples (e.g. cells and plant tissue) with reduced phototoxicity compared to conventional fluorescence techniques. However, image quality is often degraded by spatially varying blur and mixed Poisson-Gaussian noise. While physics-based frameworks account for these effects, they often fail to capture the complex structural variability of biological specimens. Conversely, "unrolled" deep learning methods, such as the Richardson-Lucy network (RLN), can produce high-quality reconstructions but lack flexibility, requiring retraining when imaging conditions change.<br><br> To address these challenges, we propose a modular reconstruction framework that decouples the physical imaging model from the learned image prior. Built upon structured primal-dual optimisation schemes, including the primal-dual three operator splitting (PD3O) and non-linear primal-dual hybrid gradient (PDHG) algorithms, our approach incorporates a learned gradient-step denoiser as an explicit component of the reconstruction algorithm. This learned component acts as a data-driven regulariser, promoting structurally consistent reconstructions while remaining independent of the forward model.<br><br> As a result, the same denoiser can be reused across different imaging modalities, such as LSFM, widefield, and confocal microscopy, by simply adapting the forward operator. Preliminary results on both synthetic and experimental datasets demonstrate the potential of this approach as a flexible and robust framework for high-quality microscopy reconstruction.
 
 - date: 17 April 2026
   speaker: Matt Evans (University of Bath)
