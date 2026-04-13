@@ -73,8 +73,8 @@
   speaker: Matt Evans (University of Bath)
   url: https://mathrad.ac.uk/team/matt-evans/
   zoom: 1
-  title:
-  abstract:
+  title: Preconditioning methods for polytopal discretisations of the Boltzmann transport equation
+  abstract: The Boltzmann transport equation is a fundamental model in neutronics, but its numerical solution remains challenging in regimes arising from complex reactor geometries and material heterogeneities, where standard iterative schemes may converge slowly.<br><br> In this talk, we present a preconditioning strategy designed to reduce the contraction factor of such iterative methods, therefore accelerating convergence. The approach is developed in the context of polytopal discontinuous Galerkin discretisations.
 
 - date: 24 April 2026
   speaker: Mostafa Meliani (University of Bath)
