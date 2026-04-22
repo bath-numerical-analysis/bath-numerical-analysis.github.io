@@ -81,14 +81,14 @@
   url: https://m-meliani.github.io/
   zoom: 1
   title: Wavenumber-robust approximation for the Helmholtz equation
-  abstract:
+  abstract: The Helmholtz equation, which models time-harmonic wave propagation, is widely used in physical and industrial applications. Its mathematical and numerical analysis, however, poses significant technical challenges.<br><br> This talk provides an introduction to the Helmholtz equation, highlighting the main analytical and numerical difficulties it presents, as well as the general ideas used in the literature to address them. Finally, we briefly motivate and present a recent result on wavenumber-explicit approximation for the Helmholtz equation in the presence of Gevrey-regular obstacles.
 
 - date: 24 April 2026
   speaker: María Ignacia Fierro-Piccardo (University of Bath)
   url: https://uk.linkedin.com/in/ignacia-fp
   zoom: 1
   title: Accelerating RSRS for large scale Boundary Integral Equations
-  abstract:
+  abstract: Recursive Strong Skeletonisation (RSS) [1] is an effective framework for compressing and solving structured linear systems, particularly those arising from boundary integral equations. Its randomised variant, RSRS [2], enables matrix-free computation by requiring only the spatial distribution of the degrees of freedom together with a black-box matrix-vector product. This makes it well suited for use as a preconditioner or even as a fast direct solver for problems with millions of unknowns.<br><br> Most implementations of RSS and RSRS focus on two-dimensional problems, where it remains efficient. In three dimensions, however, the growth in neighbouring interactions can significantly increase the computational cost, potentially limiting its practical usefulness. In this work, we present algorithmic improvements that accelerate RSRS for large-scale boundary integral equations and, more generally, for operators with hierarchical structure.<br><br> Our implementation is written in Rust and uses Rayon to parallelise both the compression and application stages, yielding substantial efficiency gains. Numerical experiments on boundary integral problems show significant speedups over baseline RSRS, demonstrating the potential of these advances to provide scalable direct solvers for challenging 3D applications.<br><br> [1] Minden, V., Ho, K. L., Damle, A., & Ying, L. (2017). A recursive skeletonization factorization based on strong admissibility. Multiscale Modeling & Simulation, 15(2), 768-796.<br> [2] Yesypenko, A., & Martinsson, P. G. (2023). Randomized Strong Recursive Skeletonization: Simultaneous compression and factorization of H-matrices in the Black-Box Setting. arXiv preprint arXiv:2311.01451.
 
 - date: 1 May 2026
   speaker: Massimiliano Tamborrino (University of Warwick)
