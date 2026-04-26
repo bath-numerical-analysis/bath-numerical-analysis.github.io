@@ -87,8 +87,8 @@
   speaker: Massimiliano Tamborrino (University of Warwick)
   url: https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/tamborrino/
   zoom: 1
-  title:
-  abstract:
+  title: Interface between stochastic numerics and (computational) statistics for stochastic differential equations
+  abstract: Multivariate non-linear stochastic differential equations (SDEs) play a crucial role in several applications. Closed-form solutions or exact simulation schemes for nonlinear SDEs with non-globally Lipschitz terms or multiplicative noise are commonly unavailable, requiring the development of advanced numerical schemes. To this end, we advocate the use of numerical splitting schemes, which are shown to be not only mean-square convergent, but also capable of preserving important structural properties of the SDEs, such as hypoellipticity, geometric ergodicity and oscillatory dynamics. The impact of such schemes goes well beyond the numerical level though. Indeed, we show that inferential approaches (such as maximum likelihood estimation, Approximate Bayesian Computation or controlled Sequential Monte Carlo) based on splitting schemes outperform those based on standard numerical schemes (e.g. Euler-Maruyama) in terms of accuracy and computational speed. These results are illustrated on two broad classes of SDEs, with additive and multiplicative noise.
 
 - date: 8 May 2026
   speaker: Libo Chen (University of Bath)
