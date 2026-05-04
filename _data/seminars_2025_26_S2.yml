@@ -94,8 +94,8 @@
   speaker: Libo Chen (University of Bath)
   url: https://samba.ac.uk/student/libo-chen/
   zoom: 1
-  title:
-  abstract:
+  title: A Temporally Conditioned Diffusion Framework for Probabilistic Spatiotemporal Precipitation Downscaling
+  abstract: High resolution simulations are essential for accurately assessing localised impacts, yet traditional regional climate models are computationally expensive and difficult to scale. Diffusion models offer a promising data-driven alternative, but existing designs are largely static and fail to represent temporal evolution, limiting their use in weather and climate applications. In this paper, we propose a conditional diffusion model that generates realistic rainfall sequences with coherent spatial-temporal structures, conditioned on coarse-resolution atmospheric inputs. Our method has three key advantages over other methods: (1) it reduces computational costs by learning how to generate high-resolution outputs from coarse-resolution inputs; (2) it incorporates temporal conditioning into the diffusion process, enhancing consistency across multiple time steps; (3) it supports flexible conditioning on 22 atmospheric variables, including temperature, pressure, and humidity, thus enabling accurate reconstruction of fine-scale rainfall patterns even without direct precipitation input. Evaluated on the Met Office UKCP Local CPM dataset, the proposed model achieves spatially accurate and temporally coherent precipitation fields at 17.6 km resolution, outperforming a deterministic U-Net baseline on several accuracy metrics, while also demonstrating calibrated uncertainty. These results suggest temporally conditioned diffusion models provide an efficient and versatile framework for probabilistic weather and climate downscaling.
 
 - date: 8 May 2026
   speaker: Daniel Hajnal (University of Bath)
