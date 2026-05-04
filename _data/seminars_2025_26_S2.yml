@@ -115,5 +115,5 @@
   speaker: Niklas Baumgarten (Heidelberg University)
   url: https://publish.obsidian.md/niklas-baumgarten/webpage/about
   zoom: 1
-  title:
-  abstract:
+  title: Multilevel Stochastic Gradient Descent - Applications, Variants and Developments
+  abstract: In this presentation, we give an introduction to multilevel stochastic gradient descent (MLSGD), a method that has demonstrated superior performance over standard batched stochastic gradient descent in terms of convergence speed, memory footprint, achievable accuracy, scalability and robustness.<br><br> We motivate the method at hand of PDE constrained optimal control problems under uncertainty and outline key ideas like the usage of multilevel Monte Carlo (MLMC) methods as gradient estimator.<br><br> We then present a budgeted, risk-averse and fully distributed variant capable of handling PDE problems causing substantial computational loads. Numerical results illustrate the cost reduction over standard SGD and the scalability of the approach on HPC hardware. We lastly present an outlook on future research direction.
