@@ -2,7 +2,7 @@
 given: Tristan
 last: Pryer
 research: High-performance computing, adaptivity
-homepage: https://researchportal.bath.ac.uk/en/persons/tristan-pryer
+homepage: https://tristanpryer.com/
 pic: Tristan.jpg
 topics: hpc pde
 ---
