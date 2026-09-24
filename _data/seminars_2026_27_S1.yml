@@ -48,15 +48,15 @@
   abstract: 
 
 - date: 20 Nov 2026
-  speaker: Luca Zanetti (University of Bath)
-  url: https://researchportal.bath.ac.uk/en/persons/luca-zanetti/
+  speaker: Clara Hawkins (University of Bath)
+  url: https://samba.ac.uk/student/clara-hawkins/
   zoom: 1
   title: TBC
   abstract:
 
 - date: 27 Nov 2026
-  speaker: Veronica Raffetto (University of Bath)
-  url: https://samba.ac.uk/student/veronica-raffetto/
+  speaker: Luca Zanetti (University of Bath)
+  url: https://researchportal.bath.ac.uk/en/persons/luca-zanetti/
   zoom: 1
   title: TBC
   abstract:
@@ -67,6 +67,13 @@
   zoom: 1
   title: "Year-Long Projects"
   abstract: 
+
+- date: 11 Dec 2026
+  speaker: Veronica Raffetto (University of Bath)
+  url: https://samba.ac.uk/student/veronica-raffetto/
+  zoom: 1
+  title: TBC
+  abstract:
 
 - date: 11 Dec 2026
   speaker: Ben Dutton (University of Bath)
