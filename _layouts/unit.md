@@ -2,7 +2,7 @@
 layout: single
 ---
 
-{{ page.code }}
+{{ page.code }} {{page.alt-code}}
 
   {% for member in site.members %}
   {% if member.units contains page.code %}
@@ -10,6 +10,8 @@ layout: single
       {{member.given}} {{member.last}}</a>
       {% endif %}
   {% endfor %}
+
+
 
 <p>
 

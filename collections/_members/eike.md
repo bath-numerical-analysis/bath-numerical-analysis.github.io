@@ -5,6 +5,6 @@ research: Numerical weather prediction, atmospheric modelling, scientific comput
 homepage: https://researchportal.bath.ac.uk/en/persons/eike-mueller/
 old-homepage: https://people.bath.ac.uk/em459/  
 pic: eike.jpg
-units: MA40177
+units:  MA22037 MA32070
 topics: ip hpc uq
 ---

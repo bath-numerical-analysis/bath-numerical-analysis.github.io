@@ -51,7 +51,7 @@ teaching:
     children:
       - title: Numerical Analysis
         url: /teaching/MA22037.html
-      - title: Machine Learning I
+      - title: Fundamentals of machine learning
         url: /teaching/MA22018.html
   - title: Year Three
     children: 
@@ -59,16 +59,16 @@ teaching:
         url: /teaching/MA32065.html
       - title: Numerical Solution of Elliptic PDEs
         url: /teaching/MA32066.html
-      - title: Machine Learning II
+      - title: Deep Learning
         url: /teaching/MA32026.html
   - title: Year Four
     children:
-      - title: Numerical Optimisation and Large-Scale Problems
-        url: /teaching/MA40050.html
+      - title: Inverse problems and numerical optimisation
+        url: /teaching/MA32057.html
       - title: Numerical Solution of Evolutionary Equations
-        url: /teaching/MA40171.html
+        url: /teaching/MA32067.html
       - title: Scientific Computing
-        url: /teaching/MA40177.html
+        url: /teaching/MA32070.html
       - title: Foundations and applications of machine learning
         url: /teaching/MA52101.html
       - title: Advanced topics in machine learning and mathematical modelling  
