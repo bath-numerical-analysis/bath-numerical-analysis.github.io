@@ -9,8 +9,8 @@
   speaker: Takeshi Koshizuka (RIKEN Center for Advanced Intelligence Project)
   url: https://sites.google.com/view/takeshi-koshizuka/
   zoom: 1
-  title: TBC
-  abstract: 
+  title: "Connecting Distributions via Schrödinger Bridges: Which Path, and How to Learn It"
+  abstract: "Transporting one probability distribution to another is a fundamental problem arising in population dynamics inference, generative modeling, and sampling from energy functions. Since infinitely many paths can connect two distributions, two essential questions arise: which path should we choose, and how can we learn it stably? This talk addresses both questions through the variational principles underlying optimal transport (OT) and Schrödinger bridges (SB).<br><br> In the first part, we start from Monge-Kantorovich OT and move to its Benamou-Brenier dynamic formulation. We then extend the transport cost to general Lagrangian costs, leading naturally to the Lagrangian Schrödinger bridge framework. We show how incorporating physical structure into the Lagrangian can select plausible transport paths, and introduce our Neural Lagrangian Schrödinger Bridge method.<br><br> In the second part, we revisit SB from a path-space optimization perspective. Viewing SB as a KL projection provides a unified interpretation of Sinkhorn and iterative proportional fitting (IPF) as alternating KL projections, and connects IPF to mirror descent. Building on this perspective, we introduce a Trust-Region Schrödinger Bridge Sampler for targets specified only through an energy function. By adaptively controlling the mirror-descent step size through a trust-region constraint, the method mitigates mode collapse and training instability in existing approaches."
 
 - date: 16 Oct 2026
   speaker: Sam McCallum (University of Bath)
