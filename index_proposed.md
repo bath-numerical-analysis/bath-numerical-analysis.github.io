@@ -33,7 +33,7 @@ title: "Numerical Analysis & Data Science"
   var hero = document.querySelector('.page__hero--overlay');
   if (!hero) return;
   var base = '{{ "/assets/pics/covers/" | relative_url }}';
-  var imgs = ['cover_composite.jpg', 'cover_langevin.jpg', 'cover_graph.jpg', 'cover_atmosphere.jpg'];
+  var imgs = ['cover_composite.jpg', 'cover_langevin.jpg', 'cover_graph.jpg', 'cover_atmosphere.jpg', 'cover_imaging.jpg', 'cover_leaf.jpg'];
   var SECONDS = 9;
   var start = Math.floor(Math.random() * imgs.length);   // random image on each visit
   var layers = imgs.map(function (name, i) {
