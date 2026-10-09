@@ -52,7 +52,7 @@ We welcome applications for [PhD study](/research/phd.html) and are always happy
   if (!hero) return;
   var base = '{{ "/assets/pics/covers/" | relative_url }}';
   var imgs = ['cover_composite.jpg', 'cover_langevin.jpg', 'cover_graph.jpg', 'cover_atmosphere.jpg', 'cover_imaging.jpg', 'cover_leaf.jpg', 'cover_ct.jpg'];
-  var SECONDS = 9;
+  var SECONDS = 15;
   var cur = Math.floor(Math.random() * imgs.length);    // random image on each visit
   var layers = imgs.map(function (name, i) {
     var d = document.createElement('div');
