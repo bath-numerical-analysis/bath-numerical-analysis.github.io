@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /index_proposed.html
+permalink: /index.html
 sitemap: false
 excerpt: "Research group<br><br>Department of Mathematical Sciences<br>University of Bath<br><br><br>"
 header:
