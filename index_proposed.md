@@ -15,7 +15,7 @@ title: "Numerical Analysis & Data Science"
 
 <div class="na-intro" markdown="1">
 
-One of the largest numerical analysis groups in the UK, with [expertise](/people/) across numerical analysis and a growing strength in data science, including inverse problems and machine learning. Our [research](/research/) is internationally recognised. We teach a full range of undergraduate and postgraduate [units](/teaching/), run [workshops and conferences](/events/index.html), and host a long-standing [seminar](/events/all_seminars.html).
+One of the largest numerical analysis groups in the UK, including [expertise](/people/) in [differential equations](/research/diffeq.html), [inverse problems](/research/ip.html) and [machine learning](/research/ml.html).  We teach a full range of undergraduate and postgraduate [units](/teaching/), run [workshops and conferences](/events/index.html), and host a long-standing [seminar](/events/all_seminars.html).
 
 We welcome applications for [PhD study](/research/phd.html) and are always happy to discuss problems in scientific computing, data science and numerical analysis. Contact: [bath-na@lists.bath.ac.uk](mailto:bath-na@lists.bath.ac.uk).
 
