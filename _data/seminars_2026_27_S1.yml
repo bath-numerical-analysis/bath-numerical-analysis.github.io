@@ -16,8 +16,8 @@
   speaker: Sam McCallum (University of Bath)
   url: https://sammccallum.github.io/
   zoom: 1
-  title: TBC
-  abstract: 
+  title: Strong Stochastic Flow Maps
+  abstract: Flow and diffusion models generate high-quality samples in many modalities; however, many network evaluations are required during inference due to numerical integration of an underlying differential equation. Flow maps alleviate this problem by learning the solution map of the differential equation directly. Yet, current methods are restricted to approximating the solution map of ODEs.<br><br> In this talk, we introduce a framework for learning the strong solution map of SDEs, termed Strong Stochastic Flow Maps. We apply this method to learn the solution map of diffusion models, allowing for few-step stochastic sampling. We additionally present some new work extending the method to Langevin dynamics and show that this can enable large-timestep molecular dynamics simulations.
 
 - date: 23 Oct 2026
   speaker: Eviatar Bach (University of Reading)
