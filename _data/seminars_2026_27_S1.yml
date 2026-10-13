@@ -23,8 +23,8 @@
   speaker: Eviatar Bach (University of Reading)
   url: https://eviatarbach.com/
   zoom: 1
-  title: "TBC (joint 'NA+DS+Stats' seminar, so will start at 1:15pm)"
-  abstract:
+  title: "Learning Probabilistic Filters for Data Assimilation<br> (joint 'NA+DS+Stats' seminar, so will start at 1:15pm)"
+  abstract: Filtering, the problem of estimating the probability distribution of a system's states given partial and noisy observations, is essential for weather forecasting, along with other areas of science and engineering. Obtaining the filtering distribution is generally intractable for high-dimensional, nonlinear systems. The ensemble Kalman filter (EnKF) approximates the filtering distribution with an ensemble of interacting particles, employing a Gaussian ansatz for the joint distribution of the state and observation at each observation time. The EnKF is robust, but the Gaussian ansatz limits accuracy. We address this shortcoming by using machine learning to map the forecast distribution and observation to the filtering distribution. We propose cost functions that are minimised uniquely at the true filtering distribution. By time-averaging over trajectories in ergodic dynamical systems, the map can be learned and subsequently used for future filtering; this is a form of amortised Bayesian inference. We focus on learning ensemble-based filters within a mean field framework. We demonstrate the approach using a set transformer neural architecture, which is invariant to ensemble permutations. The learned filtering algorithms outperform state-of-the-art methods for filtering chaotic systems. They also perform well in challenging highly non-Gaussian and multimodal problems where the EnKF fails. Once learned at a given ensemble size, the learned map can be applied to other ensemble sizes with minimal fine-tuning.
 
 - date: 30 Oct 2026
   speaker: Sergey Dolgov (University of Bath)
