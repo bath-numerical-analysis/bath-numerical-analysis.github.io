@@ -30,8 +30,8 @@
   speaker: Sergey Dolgov (University of Bath)
   url: https://researchportal.bath.ac.uk/en/persons/sergey-dolgov/
   zoom: 1
-  title: TBC
-  abstract:
+  title: Leaky nonnegative matrix completion
+  abstract: "Spectromicroscopy collects images at many energies of the light illuminating the specimen which takes a lot of time. Recently, this process was accelerated by collecting a smaller number of combinations of energies and spatial positions, followed by completing (nowadays we would say machine learning) the whole collection of images as a low-rank matrix. However, large errors may develop in those completed images if parts of the observed data are corrupted, since the low-rank model distributes even local but large errors more globally. In particular, largely negative areas may appear in an otherwise nonnegative image. This talk will show how to alleviate this issue by passing the low-rank matrix output through a Leaky ReLU function. This renders the overall model nonlinear and seemingly intractable by existing fast matrix completion algorithms such as the alternating steepest descent with line search. We will show how an approximate line search can still be performed for faster convergence. This raises a by-product question: how neural network training can be accelerated beyond existing first-order gradient methods, and which architectures are amenable to that."
 
 - date: 30 Oct 2026
   speaker: Michael Murray (University of Bath)
