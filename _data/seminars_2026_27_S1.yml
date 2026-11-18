@@ -59,14 +59,14 @@
   speaker: Clara Hawkins (University of Bath)
   url: https://samba.ac.uk/student/clara-hawkins/
   zoom: 1
-  title: TBC
-  abstract:
+  title: Multi-modality imaging with X-ray Fluorescence and Ptychography
+  abstract: Multi-modality imaging is the practice of scanning a single sample using different techniques to capture complementary information. In this work, we study the use of X-ray Fluorescence and Ptychography. The combination of these methods gives both a (chemical) elemental separation of the sample and high-resolution structural information. In this setup, the resulting Ptychography image has a much higher spatial resolution than the XRF and our work investigates ways to improve the XRF data.<br><br> In this talk, I will present our work on the super-resolution of the XRF image using the Ptychography image as a guide with directional Total Variation regularisation. I will also include numerical results for both simulated and two experimental datasets from the UK’s national synchrotron Diamond Light Source.
 
 - date: 20 Nov 2026
   speaker: Bradley Earley (University of Bath)
   url: 
   zoom: 1
-  title: TBC
+  title: "Improving the Stability of Exponential Step Ralston's Method"
   abstract:
 
 - date: 27 Nov 2026
