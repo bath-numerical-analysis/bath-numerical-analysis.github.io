@@ -66,8 +66,8 @@
   speaker: Bradley Earley (University of Bath)
   url: 
   zoom: 1
-  title: "Improving the Stability of Exponential Step Ralston's Method"
-  abstract:
+  title: "Improving the stability of exponential Ralston's method"
+  abstract: "In this talk, we investigate two-stage second-order exponential integrators for semilinear ordinary differential equations, focusing on Ralston's parameter choice (α = 2/3). More specifically, we study the accuracy and stability of two variants derived using different interpolation choices for the ODE's nonlinearity. Through a stability analysis in the dissipative regime, we show that the stability region of our new 'exponential interpolation' method is a strictly larger than that of the standard 'linear interpolation' scheme. To conclude the talk, we discuss further applications including the implications of our results for nonlinear systems and the challenges of extending our results to time-evolving PDEs."
 
 - date: 27 Nov 2026
   speaker: Luca Zanetti (University of Bath)
