@@ -68,7 +68,6 @@
   zoom: 1
   title: How fast can you mix on a metric space?
   abstract: "In the fastest mixing Markov chain problem on a graph (Boyd, Diaconis, and Xiao '04), we want to choose the transition probabilities of a random walk on the edges of a graph so that it converges as quickly as possible to a prescribed probability distribution on the vertices. This can be formulated as an eigenvalue optimisation problem and has found applications in, e.g., graph clustering, federated learning, and load balancing.<br><br> In this talk, we will discuss a generalisation to metric spaces. Given a complete metric space M, a probability measure on M, and a radius r, how quickly can a Markov chain converge to the prescribed measure if each jump has length at most r? We will see that the fastest possible mixing rate is essentially determined by two quantities: a geometric measure of how well connected the metric space is and a combinatorial notion of dimension."
-"
 
 - date: 4 Dec 2026
   speaker: MMath Students
