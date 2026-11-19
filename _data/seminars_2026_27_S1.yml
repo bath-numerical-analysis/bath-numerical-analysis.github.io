@@ -56,13 +56,6 @@
   abstract: 
 
 - date: 20 Nov 2026
-  speaker: Clara Hawkins (University of Bath)
-  url: https://samba.ac.uk/student/clara-hawkins/
-  zoom: 1
-  title: Multi-modality imaging with X-ray Fluorescence and Ptychography
-  abstract: Multi-modality imaging is the practice of scanning a single sample using different techniques to capture complementary information. In this work, we study the use of X-ray Fluorescence and Ptychography. The combination of these methods gives both a (chemical) elemental separation of the sample and high-resolution structural information. In this setup, the resulting Ptychography image has a much higher spatial resolution than the XRF and our work investigates ways to improve the XRF data.<br><br> In this talk, I will present our work on the super-resolution of the XRF image using the Ptychography image as a guide with directional Total Variation regularisation. I will also include numerical results for both simulated and two experimental datasets from the UK’s national synchrotron Diamond Light Source.
-
-- date: 20 Nov 2026
   speaker: Bradley Earley (University of Bath)
   url: 
   zoom: 1
@@ -73,8 +66,9 @@
   speaker: Luca Zanetti (University of Bath)
   url: https://researchportal.bath.ac.uk/en/persons/luca-zanetti/
   zoom: 1
-  title: TBC
-  abstract:
+  title: How fast can you mix on a metric space?
+  abstract: "In the fastest mixing Markov chain problem on a graph (Boyd, Diaconis, and Xiao '04), we want to choose the transition probabilities of a random walk on the edges of a graph so that it converges as quickly as possible to a prescribed probability distribution on the vertices. This can be formulated as an eigenvalue optimisation problem and has found applications in, e.g., graph clustering, federated learning, and load balancing.<br><br> In this talk, we will discuss a generalisation to metric spaces. Given a complete metric space M, a probability measure on M, and a radius r, how quickly can a Markov chain converge to the prescribed measure if each jump has length at most r? We will see that the fastest possible mixing rate is essentially determined by two quantities: a geometric measure of how well connected the metric space is and a combinatorial notion of dimension."
+"
 
 - date: 4 Dec 2026
   speaker: MMath Students
